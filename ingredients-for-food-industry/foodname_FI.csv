@@ -1,0 +1,1393 @@
+FOODID;FOODNAME;LANG
+1;Sokeri;FI
+2;Fruktoosi, hedelmäsokeri;FI
+3;Siirappi;FI
+4;Hunaja;FI
+5;Makeinen, karamelli;FI
+6;Suklaa, keskiarvo;FI
+7;Suklaakonvehti, marmeladitäyte;FI
+8;Lakritsi;FI
+9;Makeinen, marmeladimakeinen;FI
+10;Marsipaani, mantelimassa;FI
+11;Makeinen, toffee;FI
+12;Makeinen, salmiakkipastilli;FI
+14;Suklaapatukka suklainen, keskiarvo;FI
+20;Kaakaojauhe, ei lisättyä sokeria;FI
+21;Kaakaojauhe, sokeroitu;FI
+24;Sorbitoli;FI
+25;Liivate;FI
+26;Hiiva, tuore;FI
+27;Jauho, maissitärkkelys;FI
+28;Sinappi;FI
+30;Ruokasuola, jodioitu;FI
+31;Maustekastike, soijakastike;FI
+32;Suklaa, tumma;FI
+33;Suklaa, maitosuklaa;FI
+34;Halva seesamsiemenvalmiste;FI
+35;Makeinen, sokeriton;FI
+36;Mineraalisuola, keskiarvo;FI
+37;Suklaa, sokeriton, keinotekoisesti makeutettu;FI
+38;Lihaliemijauhe/tiiviste;FI
+39;Makeutusaine, aspartaami, jauhe;FI
+40;Välipalapatukka, kuituinen;FI
+43;Ruismallas;FI
+44;Suklaapatukka täytesuklaa, keskiarvo;FI
+62;Ksylitolipastilli;FI
+63;Suklaapatukka vähärasvainen;FI
+65;Ksylitolipurukumi;FI
+66;Purukumi;FI
+68;Ohratärkkelys;FI
+69;Hedelmäpastilli, arabikumipastilli;FI
+70;Makeutusaine sakariini;FI
+73;Jogurttirusina/jogurttihedelmä, kuorrutettu kuivattu hedelmä;FI
+74;Leivinjauhe;FI
+75;Kalaliemi, laimennettu;FI
+79;Ruokasuola, jodioimaton, vuorisuola;FI
+100;Jauho, ruisjauho, kokojyväjauho;FI
+103;Ruishiutale;FI
+110;Jauho, vehnäjauho, puolikarkea;FI
+111;Jauho, grahamjauho;FI
+112;Mannasuurimo;FI
+113;Mannasuurimo, tumma;FI
+114;Vehnähiutale;FI
+115;Vehnänalkio;FI
+116;Lese, vehnälese;FI
+117;Makaroni, pasta;FI
+119;Makaroni, tumma;FI
+120;Nuudeli, vehnänuudeli;FI
+121;Pasta, spagetti, makaroni;FI
+124;Jauho, hiivaleipävehnäjauho;FI
+125;Jauho, jauhoseos, sämpyläjauho, vehnäjauho, ruisjauho, vehnärouhe;FI
+126;Jauho, korppujauho;FI
+133;Vohvelikuori, jäätelövohveli;FI
+142;Jauho, vehnäjauho, leipomoteollisuus, vastajauhettu;FI
+150;Jauho, ohrajauho;FI
+151;Ohrasuurimo;FI
+152;Ohrahiutale;FI
+153;Kaurahiutale;FI
+154;Jauho, jauhoseos, talkkunajauho, sisältää ohraa;FI
+156;Riisi puuroutuva;FI
+158;Täysjyväriisi;FI
+160;Jauho, hirssisuurimo tai -jauho;FI
+161;Jauho, tattarisuurimo tai -jauho;FI
+162;Jauho, perunajauho tai -suurimo, perunatärkkelys;FI
+167;Maissi, jyvä, kuivattu;FI
+168;Kalja- / mämmimallas;FI
+170;Lese, kauralese;FI
+172;Pasta, pinaattispagetti, sisältää kananmunaa;FI
+173;Kauramakaroni, sisältää vehnää ja kauraa;FI
+175;Rouhe, vehnärouhe kokojyvästä;FI
+176;Rouhe, ruisrouhe;FI
+182;Jauho, riisijauho, riisihiutale;FI
+183;Jauho, täysjyväriisijauho;FI
+184;Maissilastu, tacokuori;FI
+185;Jauho, jauhoseos, gluteeniton, vehnätärkkelystä;FI
+189;Jauho, jauhoseos, ruis-vehnä;FI
+202;Peruna, kuivattu;FI
+203;Perunalastu;FI
+204;Peruna, uusi;FI
+205;Peruna, vanha, kuorittu;FI
+206;Perunasosejauhe, valmistamaton;FI
+207;Ranskanperunavalmiste;FI
+209;Perunahiutale;FI
+300;Porkkana;FI
+302;Porkkana, kuivattu;FI
+303;Lanttu;FI
+304;Nauris;FI
+305;Punajuuri;FI
+307;Etikkapunajuuri;FI
+308;Retiisi;FI
+309;Palsternakka;FI
+310;Maa-artisokka;FI
+311;Juuriselleri;FI
+312;Mustajuuri;FI
+320;Valkokaali, keräkaali;FI
+321;Punakaali;FI
+322;Kukkakaali;FI
+324;Parsakaali, brokkoli;FI
+326;Lehtikaali;FI
+327;Ruusukaali;FI
+329;Kyssäkaali, kaalirapi;FI
+330;Lehtisalaatti, ruukkusalaatti, lollo rosso;FI
+331;Jäävuorisalaatti, rapea keräsalaatti, amerikansalaatti;FI
+333;Persilja;FI
+334;Nokkonen;FI
+335;Sipuli, keltasipuli;FI
+336;Sipuli, kuivattu;FI
+337;Purjosipuli;FI
+338;Raparperi;FI
+339;Lehtiselleri, varsiselleri;FI
+340;Parsa, säilötty;FI
+342;Sieni tatti, hapero;FI
+343;Sieni rouskut, suolattu;FI
+344;Etikkasienisäilyke;FI
+345;Herkkusieni;FI
+346;Kurkku;FI
+347;Etikkakurkku, ei lisättyä sokeria;FI
+348;Maustekurkku, herkkukurkku, sokerisuolattu;FI
+350;Kurpitsa;FI
+351;Salaatti, kurpitsasalaatti, pikkelssi;FI
+352;Tomaatti;FI
+353;Ketsuppi;FI
+354;Tomaattisose, tomaattipyree;FI
+355;Paprika, keskiarvo;FI
+356;Sekavihannes, porkkana, kukkakaali, herne, papu;FI
+358;Täysmehu, kasvistuoremehu;FI
+359;Kiinankaali;FI
+360;Mangoldi;FI
+362;Munakoiso;FI
+363;Maissi, jyvät;FI
+364;Vihanneskrassi;FI
+367;Kantarelli;FI
+368;Korvasieni;FI
+369;Tilli, tuore;FI
+370;Herne, vihreä, tuore;FI
+371;Herne, vihreä, kuivattu;FI
+372;Papu, vihreä taitepapu, tuore;FI
+373;Papu, ruskea tai valkoinen, kuivattu, keskiarvo;FI
+375;Pähkinä, hasselpähkinä;FI
+376;Pähkinä, saksanpähkinä;FI
+377;Kastanja;FI
+378;Pähkinä, maapähkinä;FI
+379;Manteli;FI
+380;Jauho, soijajauho, rasvainen;FI
+381;Jauho, soijajauho, vähärasvainen;FI
+382;Kookoshiutale;FI
+383;Pähkinä, suolapähkinä;FI
+384;Itu, keskiarvo, sinimailanen, mungopapu;FI
+385;Seesaminsiemen, kuorineen;FI
+386;Paprika, punainen;FI
+387;Paprika, vihreä;FI
+388;Paprika, keltainen;FI
+389;Kesäkurpitsa, zucchini;FI
+390;Täysmehu, tomaattimehu;FI
+391;Soijapapu, kuivattu;FI
+392;Ruohosipuli;FI
+393;Valkosipuli;FI
+394;Salaatti, kurkkusalaatti, kurkkupikkelssi, kurkkurelissi;FI
+395;Papu, valkoinen, keitetty;FI
+398;Tomaattimurska;FI
+399;Linssi, vihreä/ruskea, kuivattu;FI
+401;Omena, kuivattu;FI
+408;Aprikoosi, sokeriliemessä;FI
+409;Aprikoosi, kuivattu;FI
+411;Persikka, sokeriliemessä;FI
+412;Persikka, kuivattu;FI
+417;Ananas, sokeriliemessä;FI
+423;Viinirypäle, keskiarvo, kivetön, vihreä/tumma;FI
+427;Sekahedelmä, kuivattu;FI
+428;Rusina;FI
+431;Oliivi, keskiarvo, punnittu kivineen, öljyssä, vihreä/musta;FI
+432;Hedelmäsalaattisäilyke, sokeriliemessä;FI
+433;Täysmehu, omenatäysmehu, c-vitamiinia;FI
+434;Täysmehu, appelsiinitäysmehu, c-vitamiinia;FI
+435;Täysmehu, greippitäysmehu, c-vitamiinia;FI
+436;Täysmehu, c-vitamiinia, keskiarvo;FI
+437;Täysmehu, sitruunatäysmehu, laimennettu;FI
+438;Täysmehu, ananastäysmehu, c-vitamiinia;FI
+440;Puolukka;FI
+441;Karpalo;FI
+442;Mustikka, metsämustikka;FI
+444;Mustaherukka;FI
+445;Punaherukka;FI
+446;Karviainen;FI
+447;Mansikka;FI
+448;Vadelma;FI
+449;Lakka, suomuurain, hilla;FI
+450;Marjahillo, keskiarvo;FI
+451;Mehu, höyrymehu, laimentamaton, sokeroitu;FI
+452;Mehu, höyrymehu, mustaherukka, laimentamaton, sokeroitu;FI
+453;Mehu, höyrymehu laimentamaton, sokeriton;FI
+454;Marja, keskiarvo;FI
+455;Tyrnimarja;FI
+456;Marmeladi, marjoista;FI
+457;Pihlajanmarja;FI
+458;Mehu, mustaherukka-puolukkamehujuoma;FI
+459;Mehu, mehujuoma, puolukka, laimentamaton;FI
+461;Mehu, höyrymehu laimennettu, sokeroitu;FI
+462;Mehu, höyrymehu, mustaherukka, laimennettu, sokeroitu;FI
+463;Mehu, höyrymehu laimennettu, sokeriton;FI
+469;Täysmehu, viiden hedelmän mehu, c-vitamiinia;FI
+471;Ananas, omassa liemessään;FI
+472;Omenasose, makeuttamaton;FI
+473;Mehu, nektari, hedelmäjuoma, hedelmäpitoisuus 50 %;FI
+474;Täysmehu, marjatäysmehu;FI
+476;Hillo, fruktoosilla makeutettu;FI
+477;Meloni, verkkomeloni/cantaloupemeloni, kuorittu;FI
+478;Marjajuoma, nektari, marjapitoisuus 50 %;FI
+500;Voi;FI
+530;Leipomoteollisuusmargariini 80%, leivonta;FI
+531;Ruokaöljy teollisuuskäyttöön, 70 % rypsiöljyä, 30 % palmuöljyä;FI
+535;Rypsiöljy;FI
+536;Oliiviöljy;FI
+537;Maapähkinäöljy;FI
+540;Auringonkukkaöljy;FI
+541;Ruokaöljy keskiarvo, 87 % rypsi- 8 % auringonkukka- ja 5% oliiviöljy;FI
+542;Soijaöljy;FI
+543;Maissiöljy;FI
+550;Paistinrasva, laardi;FI
+552;Kookosrasva 100 %;FI
+553;Tali, raaka naudanrasva;FI
+562;Majoneesi, hampurilaiskastike, rasvaa 60 %;FI
+563;Salaatinkastike, ranskalainen;FI
+565;Rasvaseos 40%, kevyt levi, vähemmän suolaa, vl;FI
+568;Margariini 60%, rainbow/pirkka/eldorado/k-menu;FI
+570;Rasvaseos 40%, kevyt levi vl;FI
+576;Voi, suolaton;FI
+578;Majoneesi, rasvaa 27-33 %;FI
+579;Salaatinkastike, rasvaa <17%, vähärasvainen;FI
+585;Voi, voimakassuolainen;FI
+593;Leivontamargariini 80%, pirkka/rainbow;FI
+597;Rasvaseoslevite 75 %, tuotekeskiarvo;FI
+598;Voiöljy 100%, maitorasvaa;FI
+600;Maito, tilamaito, raakamaito, rasvaa 4,4 %, ei lisätty d-vitamiinia;FI
+602;Ternimaito;FI
+604;Maito, kutunmaito, vuohenmaito;FI
+606;Maito, rasvaton, d-vitamiinia 1 ug;FI
+611;Piimä, talouspiimä, rasvaa 0,8 %, d-vit 0,5 ug;FI
+612;Piimä, rasvaton, d-vit 1 ug;FI
+613;Piimä, kirnupiimä, rasvaa 0,3 %, d-vit 1 ug;FI
+615;Kermaviili, rasvaa 10-12 %;FI
+616;Piimä, asidofiluspiimä, rasvaa 2,5 %, d-vit 1 ug, probiootteja;FI
+617;Viili, maustamaton, rasvaa 3,5 %;FI
+618;Viili, maustamaton, kevytviili, rasvaa 2 %;FI
+619;Jogurtti, maustamaton, rasvaa 2,5 %, vl;FI
+622;Rahka, maitorahka, maustamaton, rasvaa <0,5 %;FI
+627;Maito, ykkösmaito, d-vitamiinia 1ug;FI
+628;Creme fraiche, ranskankerma, rasvaa 28 %;FI
+629;Kerma, vispikerma, rasvaa 38 % ,vl, iskukuumennettu;FI
+630;Smetana, rasvaa n. 40 %;FI
+631;Kerma, kuohukerma, rasvaa 38 %;FI
+632;Ruoanvalmistuskerma, rasvaa 19 %, kahvikerma;FI
+633;Kerma, kahvikerma, kevyt, rasvaa 10 %, vl;FI
+635;Raejuusto, rasvaton, vl;FI
+636;Viili, kerrosviili, maustettu hillolla, ykkösviili, rasvaa 1 %, vl;FI
+637;Jogurtti, maustamaton, rasvaton, vl, d-vit 0,5 ug;FI
+639;Jogurtti, maustettu, rasvaton;FI
+640;Juusto, valkohomejuusto, rasvaa 26-30 %, camembert/brie;FI
+641;Juusto, kermajuusto, rasvaa 30 %, turunmaa/oltermanni/korsholm/masurkka;FI
+642;Juusto, emmentaljuusto, rasvaa 27-30 %, punaleima;FI
+643;Juusto, kova pienikoloinen juusto, rasvaa 24-27 %, edam;FI
+644;Juusto, puolikova juusto, rasvaa 9-11 %, kevyt, edam/kadett;FI
+645;Juusto, kutunjuusto, vuohenjuusto, rasvaa 30 %, kova juusto;FI
+647;Sulatejuusto, rasvaa 20-24 %, keskirasvainen;FI
+648;Sulatejuusto, rasvaa 27-35 %, runsasrasvainen;FI
+649;Raejuusto, rasvaa 2-5 %;FI
+650;Tuorejuusto, kotijuusto, rasvaa 9-14 %, maalaisjuusto;FI
+653;Juusto, sinihomejuusto, rasvaa 27-30 %, aura/danazole, keskiarvo;FI
+654;Juusto, gouda/salaneuvos, keskiarvo, rasvaa 28-30 %;FI
+655;Juusto, puolikova juusto, rasvaa 25-35 %, lappi/småland/billinge/rustholli;FI
+657;Juusto, leipäjuusto, rasvaa 17-23 %;FI
+658;Tuorejuusto, runsasrasvainen, mustapippurijuusto;FI
+659;Sulatejuusto, rasvaa 9-12 %, vähärasvainen;FI
+661;Jäätelö, pehmytjäätelö, vohveli;FI
+663;Jäätelö, kermajäätelö;FI
+664;Jäätelö, kermajäätelöpuikko, suklaakuorrute, keskiarvo;FI
+665;Jäätelö, kermajäätelötuutti;FI
+666;Jäätelö, maitojäätelö;FI
+667;Jäätelö, sokeriton, keinotekoisesti makeutettu, rasvaa 6,5 %;FI
+668;Jäätelö, kermajäätelö, rasvaa yli 12 %, keskiarvo;FI
+669;Jäätelö, rasvaton;FI
+672;Maitojauhe, rasvaton;FI
+675;Maito, kevytmaito, vl, d-vitamiinia 1 ug;FI
+680;Viili, maustamaton, rasvaa 1 %, ykkösviili;FI
+682;Tuorejuusto, rasvaa 30 %, maustettu, creme bonjour/cantadou;FI
+684;Maito, kevytmaito, d-vitamiinia 1 ug;FI
+685;Jogurtti, maustettu, rasvaton, osittain keinotekoisesti makeutettu, ka.;FI
+686;Jogurtti, maustettu, rasvaa 7 %;FI
+687;Jogurtti, ruoanvalmistusjogurtti, rasvaa 6-8 %, vl;FI
+689;Maito, täysmaito, d-vitamiinia 1 ug;FI
+690;Juusto, salaattijuusto, rasvaa 18 %, lehmänmaito, suolaliemessä;FI
+691;Juusto, emmentaljuusto, rasvaa 27-30 %, suurikoloinen, sinileima/gruyere;FI
+698;Juusto, cheddar, rasvaa 34 %;FI
+699;Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 15 %;FI
+701;Sianruho, keskirasvainen;FI
+703;Siankyljys/selkä, paksu rasvakerros;FI
+704;Siankinkku, silavoineen;FI
+705;Sianlapa;FI
+706;Siankylki;FI
+707;Pekoni, 32 % rasvaa;FI
+708;Sian selkäsilava;FI
+709;Sianpotka;FI
+711;Jauheliha, sika-nauta;FI
+712;Jauheliha, naudan, vähärasvainen, rasvaa 7 %;FI
+713;Sianliha, keskiarvo;FI
+714;Naudanliha, rasvainen, keskiarvo;FI
+716;Naudanruho, keskirasvainen, 13 % rasvaa;FI
+718;Naudanpaisti;FI
+719;Naudanlapa/etuselkä, naudan keittoliha;FI
+720;Naudanpotka;FI
+721;Naudanrinta;FI
+722;Naudanfilee, ulkofilee;FI
+723;Naudankylki;FI
+726;Vasikanpaisti;FI
+730;Lampaanliha, vähärasvainen;FI
+731;Lampaanliha, rasvainen;FI
+732;Lampaanpaisti;FI
+734;Poronliha;FI
+735;Hirvenliha;FI
+736;Jänis;FI
+737;Kani;FI
+741;Lihasäilyke, naudanliha;FI
+743;Lihasäilyke, sika-nauta;FI
+747;Lihahyytelö;FI
+748;Sianpaisti, vähärasvainen;FI
+750;Kana;FI
+751;Broileri, kokonainen, nahkoineen, raaka;FI
+752;Kalkkuna nahkoineen;FI
+753;Metsälintu;FI
+754;Broilerisuikale;FI
+775;Kokolihaleikkele, saunapalvikinkku, rasvaa 6 %;FI
+776;Kokolihaleikkele, naudanlihaleikkele, rasvaa 2,8 %;FI
+779;Kokolihaleikkele, keittokinkku, rasvaa 3 %;FI
+786;Maksa, naudan;FI
+787;Maksa, sian;FI
+788;Maksa, broilerin;FI
+789;Maksa, poron;FI
+790;Maksa, keskiarvo;FI
+791;Munuainen;FI
+792;Sydän, naudan;FI
+793;Kieli, naudan;FI
+794;Veri;FI
+797;Kokolihaleikkele, poroleikkele, kylmäsavustettu;FI
+799;Kokolihaleikkele, kinkkuleikkele, vähärasvainen, rasvaa 3 %;FI
+800;Silakka, tuore, itämeri;FI
+801;Silakka, suolattu, itämeri;FI
+802;Silakka, savustettu, itämeri;FI
+803;Silli, tynnyriin suolattu;FI
+804;Turska;FI
+805;Kuha;FI
+806;Puna-ahven, savustettu;FI
+807;Sinipallas, savustettu;FI
+809;Muikku, järvi;FI
+810;Muikku, järvi, suolattu;FI
+811;Muikku, järvi, savustettu;FI
+812;Ahven;FI
+813;Hauki;FI
+814;Lahna;FI
+815;Siika;FI
+816;Siika, savustettu;FI
+817;Lohi, kokonainen;FI
+818;Lohi, tuoresuolattu;FI
+819;Made;FI
+820;Kampela;FI
+821;Ankerias;FI
+822;Kirjolohi, kokonainen, keskiarvo;FI
+823;Taimen;FI
+824;Kala, keskiarvo, silakka/muikku/ahven/hauki;FI
+825;Nahkiainen, savustettu;FI
+826;Seiti, pakaste;FI
+828;Tonnikala, öljyssä, säilyke;FI
+829;Anjovis;FI
+830;Lohi, öljyssä;FI
+831;Sardiini, keskiarvo, öljyssä ja tomaattikastikkeessa;FI
+832;Kaviaari, sammen mäti;FI
+833;Mätitahna;FI
+834;Sinisimpukka, vedessä, säilyke;FI
+835;Katkarapu;FI
+836;Rapu;FI
+837;Silli, mauste/suolasilli, keskiarvo;FI
+838;Silakka, mauste/suolasilakka, keskiarvo;FI
+844;Lahna, savustettu;FI
+845;Särki;FI
+846;Puna-ahven, punasimppu, pakaste;FI
+848;Kirjolohifilee, meri;FI
+851;Kananmunan keltuainen, 34 % kananmunan massasta;FI
+852;Kananmunan valkuainen, 66 % kananmunan massasta;FI
+855;Viiriäisen muna;FI
+856;Kala, savustettu, keskiarvo, vähärasvainen;FI
+857;Kala, savustettu, keskiarvo, rasvainen;FI
+858;Kananmuna, kuoreton;FI
+859;Silli, valkosipuli-/sinappikastikkeessa;FI
+860;Silakka, tilli-/sinappikastikkeessa;FI
+862;Tonnikala;FI
+863;Osteri;FI
+864;Etana;FI
+865;Mustekala;FI
+866;Hummeri;FI
+870;Kirjolohifilee, tuoresuolattu;FI
+871;Lohifilee;FI
+900;Kahvi, kahvijuoma, keskiarvo;FI
+901;Tee;FI
+902;Olut, keskiolut, 4,5 til% alkoholia;FI
+903;Olut, a-olut, 5-5,5 til% alkoholia;FI
+904;Viini, keskiarvo, 8-15 til% alkoholia;FI
+905;Väkevä viini, makea, katkero, sherry, vermutti, madeira, hedelmäviini;FI
+906;Viina, kirkas, vodka, gini;FI
+907;Konjakki/rommi/viski, 40 til% alkoholia;FI
+908;Likööri, 20-30 til% alkoholia;FI
+909;Gin long drink, 5,5 til%;FI
+910;Virvoitusjuoma;FI
+911;Siideri, makea, <3 til% alkoholia;FI
+912;Sima;FI
+913;Olut, i-olut, <2,8 til% alkoholia;FI
+914;Kalja, kotiolut;FI
+915;Kivennäisvesi, mineraalivesi;FI
+917;Tee, sitruunateejuomajauhe, valmistamaton, sokerilla makeutettu pikatee;FI
+920;Virvoitusjuoma, sokeriton, light;FI
+921;Kivennäisvesi, vähänatriuminen;FI
+922;Vesi, vesijohtovesi;FI
+923;Tee, yrttitee;FI
+924;Punaviini;FI
+925;Valkoviini, kuiva;FI
+926;Valkoviini, makea;FI
+928;Virvoitusjuoma, kolajuoma, keskiarvo;FI
+929;Viinietikka;FI
+930;Kahvi, suodatinkahvijuoma;FI
+931;Kahvi, pannukahvijuoma;FI
+932;Kahvi, cappuccino, makeuttamaton, täysmaito;FI
+933;Väkiviinaetikka;FI
+934;Hunaja-omena-viinietikka;FI
+936;Mieto viini, 4-5 til% alkoholia;FI
+937;Tee, vihreä tee;FI
+938;Virvoitusjuoma, osittain keinotekoisesti makeutettu;FI
+939;Siideri, makea, 4,7 til% alkoholia;FI
+940;Olut, vahva, 7,5-8 til% alkoholia;FI
+941;Virvoitusjuoma, kolajuoma light, osittain keinotekoisesti makeutettu;FI
+942;Kermalikööri, 15-17 til% alkoholia;FI
+946;Tärkkelyssiirappi, glukoosisiirappi;FI
+1554;Juustonaksu;FI
+5007;Voileipäpikkelssi;FI
+11001;Vaalea juurikasvis, keskiarvo;FI
+11002;Tummanvihreä lehtikasvis, keskiarvo;FI
+11004;Mäti, keskiarvo;FI
+11005;Neljän viljan hiutale;FI
+11007;Ruusunmarja;FI
+11012;Mansikkahillo, kotitekoinen, sokeria 54 %;FI
+11013;Appelsiinimarmeladi;FI
+11014;Palmuöljy;FI
+11030;Jauho, ruissihtijauho;FI
+11045;Appelsiini, kuorittu;FI
+11046;Mandariini, kuorittu;FI
+11047;Greippi, kuorittu;FI
+11048;Sitruuna, kuorittu;FI
+11049;Banaani, kuorittu;FI
+11050;Kiivi, kuorittu;FI
+11051;Persikka/nektariini, kuorittu, kivetön;FI
+11052;Kirsikka, kivetön;FI
+11053;Luumu, kivetön;FI
+11054;Aprikoosi, keskiarvo, kivetön;FI
+11055;Vesimeloni, kuorittu;FI
+11056;Ananas, kuorittu;FI
+11057;Avokado, kuorittu, kivetön;FI
+11059;Tonnikala, keskiarvo;FI
+11060;Omena, kotimainen, kuorittu;FI
+11061;Omena, ulkomainen, kuorittu;FI
+11062;Päärynä, kuorittu;FI
+11063;Luumu, kivetön, kuivattu;FI
+11064;Herkkusieni, säilyke;FI
+11065;Ruusunmarjasose, sokeriton;FI
+11067;Tonnikala, vedessä, säilyke;FI
+11069;Viini, alkoholiton;FI
+11071;Eksoottinen hedelmä, keskiarvo, mango/papaija, kuorittu;FI
+11072;Hapankurkku liemineen, venäläinen kurkku;FI
+11074;Itu, sinimailasen itu;FI
+11086;Pähkinä, cashewpähkinä;FI
+11087;Tahini, seesamtahna, ei lisättyä suolaa;FI
+11089;Kikherne suolattomassa vedessä;FI
+11090;Papu, valkoinen, tomaattikastike;FI
+11092;Herajauhe, teollisuuden raaka-aine;FI
+11130;Tuorejuusto, rasvaa 6-11 %, maustettu;FI
+11131;Juusto, valkohome/valkosinihomejuusto, rasvaa 40%, vit castello;FI
+11132;Tuorejuusto, kasvirasvaa, rasvaa 24-30 %;FI
+11133;Juusto, puolikova juusto, rasvaa 15-18 %, kevyt, turunmaa/edam 17/adam/magre;FI
+11134;Basilika, tuore;FI
+11135;Bambunverso;FI
+11136;Kerma, vispikerma, kevyt, rasvaa 25 %;FI
+11142;Mehujää keskiarvo;FI
+11145;Maito, rasvaton, vl, d-vitamiinia 1 ug;FI
+11146;Juusto, leipäjuusto, rasvaa 17-23 %, vl;FI
+11148;Jäätelö, kermajäätelöpuikko, suklainen, keskiarvo;FI
+11149;Jäätelö, mehujää-jäätelöpuikko, keskiarvo;FI
+11150;Broileri, marinoitu, ilman nahkaa, raaka;FI
+11152;Kermaviili, rasvaa 10-12 %, vl;FI
+11154;Viili, maustamaton, kevytviili, rasvaa 2 %, vl;FI
+11155;Raejuusto, rasvaa 2-5 %, vl;FI
+11156;Rahka, maitorahka, maustamaton, rasvaa <0,5 %, vl;FI
+11157;Juusto, rasvaa 28 %, sisältää kasvirasvaa;FI
+11159;Creme fraiche, ranskankerma, rasvaa 15-18 %;FI
+11164;Jälkiruokakastike, vanilliinikastike, vispautuva vaniljakastike;FI
+11165;Piimä, rasvaton, vl, d-vit 1ug;FI
+11172;Jäätelö, kasvirasvajäätelöpuikko, suklaakuorrute;FI
+11173;Jäätelö, kasvirasvajäätelötuutti;FI
+11177;Mustapippuri;FI
+11178;Valkopippuri;FI
+11182;Paprikajauhe;FI
+11188;Vanilliinisokeri;FI
+11191;Oregano, kuivattu;FI
+11194;Timjami;FI
+11196;Aromisuola/yrttisuola suolapitoisuus 71 %;FI
+11197;Maustekastike, ruskea, hp-kastike;FI
+11198;Rypälesokeri, glukoosi;FI
+11203;Hunajameloni, kuorittu;FI
+11210;Ksylitolipastilli, c-vitaminoitu;FI
+11211;Juusto, fetajuusto, rasvaa 25 %, vuohenmaito, suolaliemessä;FI
+11212;Auringonkukansiemen;FI
+11287;Kasvirasvalevite 28%, mini lätta;FI
+11503;Täysmehu, rypäletäysmehu;FI
+11505;Banaanilastu, kuivattu banaani;FI
+11507;Riisitärkkelys;FI
+11512;Siankyljys;FI
+11513;Porsaanfilee, sisäfilee, rasvaa 4,5 %;FI
+11521;Riisi pitkäjyväinen, puuroutumaton;FI
+11522;Ruis-riisiseos, riisi ja ruisrouhe;FI
+11550;Tuorejuusto, rasvaa 30 %, maustettu, vl;FI
+11551;Kalkkunan rintafilee;FI
+11553;Hedelmähillo, keskiarvo;FI
+11557;Täysmehu, sitruunatäysmehu, laimentamaton;FI
+11558;Täysmehu, appelsiinitäysmehu, kalsiumia;FI
+11562;Jauheliha, naudan, rasvaa 17 %;FI
+11563;Broileri, koipi-reisi, nahkoineen, raaka;FI
+11564;Broileri, rintaleike, nahkoineen;FI
+11565;Broileri, rintafilee, nahaton, suikale, leike;FI
+11571;Tuorejuusto, rasvaa 11 %, maustamaton;FI
+11572;Maito, rasvaton, lisätty kalsiumia, d-vitamiinia 0,5 ug;FI
+11580;Pähkinävälipala, makea, patukka/levy;FI
+11587;Marjajuoma, ruusunmarja, pro viva, kauraa ja probiootteja;FI
+11589;Piparjuuri;FI
+11680;Peruna, kuorittu, suurtaloustuote, suojakaasupakattu;FI
+11685;Paistoöljy, palmuöljy 50%, palmuydinöljy 25%, rypsiöljy 25%;FI
+11687;Riisijuoma, maustamaton;FI
+11689;Parsa, raaka, puhdistettu;FI
+11690;Majoneesi, vähärasvainen, rasvaa 15 %;FI
+11691;Mäti, keskiarvo, suolattu;FI
+11695;Rypsiöljy, kylmäpuristettu;FI
+11700;Soijaproteiini konsentraatti, 58 % proteiinia;FI
+11701;Palmuydinöljy;FI
+11723;Jogurtti, maustettu, rasvaa 3 %;FI
+11726;Viili, maustettu, rasvaa 1 %, vl;FI
+11727;Jogurtti, maustettu, rasvaa 2,5 %;FI
+11734;Siitakesieni;FI
+11735;Osterivinokas;FI
+11736;Jogurtti, maustamaton, rasvaa 1,5 %;FI
+11739;Kasvirasvalevite 35%, becel pro-activ;FI
+28905;Jauho, vehnäjauho, durum;FI
+28909;Makaroni, ruismakaroni;FI
+28910;Riisi tumma;FI
+28913;Peruna, punnittu kuorineen;FI
+28915;Meloni, verkko/cantaloupemeloni, punnittu kuorineen;FI
+28916;Omena, keskiarvo, punnittu kuorineen;FI
+28917;Päärynä, punnittu kuorineen;FI
+28918;Luumu, tumma, punnittu kivineen;FI
+28919;Luumu, tumma, kuivattu, punnittu kivineen;FI
+28920;Kirsikka, punnittu kivineen;FI
+28921;Aprikoosi, keskiarvo, punnittu kivineen;FI
+28922;Persikka/nektariini, keskiarvo, punnittu kivineen;FI
+28923;Ananas, tuore, punnittu kuorineen;FI
+28924;Appelsiini, punnittu kuorineen;FI
+28925;Sitruuna, keskiarvo, punnittu kuorineen;FI
+28926;Greippi, keskiarvo, punnittu kuorineen;FI
+28927;Makkara, kasvismakkara, soijapitoinen;FI
+28928;Viininlehti, säilötty suolaliemeen;FI
+28929;Jauheliha, lampaan, rasvaa 14 %;FI
+28930;Jauheliha, broilerin;FI
+28931;Vesimeloni, punnittu kuorineen;FI
+28932;Viinirypäle, keskiarvo, punnittu kivineen, vihreä/tumma;FI
+28933;Avokado, punnittu kuorineen ja kivineen;FI
+28934;Banaani, punnittu kuorineen;FI
+28935;Mandariini, keskiarvo, punnittu kuorineen;FI
+28936;Viikuna, kuivattu, punnittu kuorineen;FI
+28937;Taateli, kuivattu, punnittu kivineen;FI
+28938;Oliivi, keskiarvo, kivetön, öljyssä, vihreä/musta;FI
+28939;Kiivi, punnittu kuorineen;FI
+28941;Omena, kotimainen, keskiarvo, kuorineen;FI
+28942;Omena, ulkomainen, keskiarvo, kuorineen;FI
+28944;Hunajameloni, punnittu kuorineen;FI
+28945;Jauheliha, kalkkunan, rasvaa 5-6 %;FI
+28946;Jauheliha, sian, rasvaa 16 %;FI
+28947;Pekoni, filee, rasvaa 18 %;FI
+28962;Maissintähkä, kokonainen;FI
+28991;Kahvi, cafe au lait, makeuttamaton, täysmaito;FI
+28992;Maito, täysmaito, keitetty;FI
+28993;Kahvi, caffe latte, makeuttamaton, täysmaito;FI
+29008;Kasvisliemikuutio;FI
+29009;Kanaliemikuutio, sisältää vehnää;FI
+29010;Kalaliemikuutio;FI
+29014;Kookosmaito, kookosjuoma;FI
+29055;Nuudeli, riisinuudeli;FI
+29060;Juusto, salaattijuusto, rasvaa 12-15 %, lehmänmaito, suolaliemessä;FI
+29064;Maito, kevytmaito, laktoositon maitojuoma, d-vitamiinia 1 ug;FI
+29065;Ruoanvalmistuskerma, rasvaa 15 %;FI
+29066;Kerma, kuohukerma, rasvaa 35 %;FI
+29070;Energiajuoma, vitaminoitu;FI
+29089;Jogurtti, juotava, rasvaa 0,1 %;FI
+29091;Kahvi, cappuccino, makeuttamaton, rasvaton maito;FI
+29128;Viili, maustamaton, rasvaton;FI
+29135;Siideri, kuiva, 4,7 til% alkoholia;FI
+29150;Mehu, mehujuoma, puolukka, laimennettu;FI
+29155;Kaakaorasva;FI
+29156;Suklaa, valkoinen, valkosuklaa;FI
+29159;Margariini 40%, teollinen tuotekeskiarvo;FI
+29160;Kananmuna, kuorineen punnittu;FI
+29207;Silakkafilee;FI
+29208;Kuskus;FI
+29210;Maito, kevytmaito, ei lisätty d-vitamiinia, luomu;FI
+29211;Maito, rasvaton, ei lisätty d-vitamiinia, luomu;FI
+29212;Piimä, rasvaton, ei lisätty d-vitamiinia, luomu;FI
+29215;Mehu, mehujuoma, c-vitamiinia;FI
+29217;Kangasrousku;FI
+29228;Juusto, fetajuusto, vuohenmaito, öljyssä;FI
+29237;Lese, ruislese;FI
+29239;Juusto, mozzarella, rasvaa 20 %, tuorejuusto;FI
+29409;Margariini 60%, becel laktoositon;FI
+29410;Herkkutatti;FI
+29412;Äidinmaidonkorvike, jauhe, tuotekeskiarvo;FI
+29413;Äidinmaidonkorvike, käyttövalmis, tuotekeskiarvo;FI
+29496;Makaroni, gluteeniton;FI
+29499;Jauho, jauhoseos, luontaisesti gluteeniton, riisi-maissi-peruna;FI
+29501;Tonikki, tonic vesi;FI
+29685;Täysmehu, luumutäysmehu;FI
+29687;Makeinen, salmiakkimakeinen;FI
+29819;Piimä, gefilus-piimä, rasvaton, d-vit 1 ug, probiootteja;FI
+29822;Jauho, maissijauho, karkea, polentajauho;FI
+29823;Jauho, maissijauho, hienoksi jauhettu;FI
+29975;Ateriankorvike, proteiinijuomajauhe, herbalife formula 1, 35 % proteiinia;FI
+30051;Täysksylitolipastilli;FI
+30187;Maissinaksu, suolaton;FI
+30190;Jauho, kaurajauho;FI
+30193;Pasta, moniviljapasta, vehnä, ruis, ohra;FI
+30194;Urheilujuoma, hiilihydraattijuoma, powerade, gatorade;FI
+30207;Soijajuoma, kalsiumia;FI
+30208;Kaurajuoma, maidoton, lisätty kalsiumia;FI
+30209;Kaurajuoma, maidoton, lisätty kalsiumia ja vitamiineja;FI
+30210;Kaurajuoma, maidoton, oat drink;FI
+30212;Riisijuoma, lisätty kalsiumia;FI
+30214;Vesikastanja;FI
+30221;Riisi-kauraseos;FI
+30223;Bataatti, kuorittu;FI
+30224;Virvoitusjuoma, kolajuoma light, keinotekoisesti makeutettu;FI
+30265;Broilerin siipi, nahkoineen;FI
+30268;Broilerin siipi, nahaton;FI
+30271;Broilerin siipi, marinoitu, raaka;FI
+30273;Leikkelemakkara, kinkkumakkara, rasvaa 16 %;FI
+30274;Leikkelemakkara, balkanmakkara, rasvaa 21,5 %;FI
+30275;Leikkelemakkara, goutermakkara, rasvaa 13,8 %;FI
+30278;Muikkusäilyke, tomaattikastikkeessa;FI
+30279;Leikkelemakkara, lauantaimakkara, kevyt, maitoproteiinia, rasvaa 14 %;FI
+30281;Nakki, juustoinen;FI
+30292;Lenkkimakkara, juustoinen;FI
+30294;Leikkelemakkara, vähäsuolainen, rasvaa 3,5 %;FI
+30295;Leikkelemakkara, balkanmakkara, kevyt, rasvaa 10 %;FI
+30305;Meetvursti, kevyt, rasvaa 15 %;FI
+30306;Meetvursti;FI
+30310;Sulatejuusto, rasvaa 5 %, vähärasvainen;FI
+30317;Nakki, tuotekeskiarvo;FI
+30318;Lenkkimakkara, keskiarvo;FI
+30319;Leikkelemakkara, jahtimakkara, rasvaa 17 %, tuotekeskiarvo;FI
+30321;Grillimakkara, kevyt, tuotekeskiarvo;FI
+30322;Ryynimakkara, tuotekeskiarvo;FI
+30324;Lenkkimakkara, kevyt, tuotekeskiarvo;FI
+30325;Nakki, kevyt, tuotekeskiarvo;FI
+30369;Raakamakkara, siskonmakkara;FI
+30370;Grillimakkara, juustoinen, lihaisa;FI
+30371;Makkara, verimakkara, mustamakkara;FI
+30372;Maksamakkara, maksapasteija, keskiarvo;FI
+30373;Maksamakkara, maksapasteija, kevyt, keskiarvo;FI
+30374;Grillimakkara, juustoinen;FI
+30380;Tee, jäätee;FI
+30388;Mehu, mehujuoma, osittain keinotekoisesti makeutettu;FI
+30390;Mehu, mehujuoma, kevyt, osittain keinotekoisesti makeutettu;FI
+30391;Täysmehu, päärynätäysmehu;FI
+30392;Mehu, mehujuoma;FI
+30394;Mehujuomatiiviste, keskiarvo;FI
+30395;Täysmehu, karpalo-puolukkatäysmehu;FI
+30396;Mehu, mehujuoma, sokeriton, keinotekoisesti makeutettu;FI
+30402;Juusto, puolikova juusto, rasvaa 5 %, turunmaa;FI
+30406;Raejuusto, rasvaa 2-5 %, laktoositon;FI
+30423;Maito, rasvaton, laktoositon maitojuoma, d-vitamiinia 1 ug;FI
+30428;Juusto, sinihomejuusto, rasvaa 17 %, aura;FI
+30429;Juusto, valkohomejuusto, rasvaa 16 %, camembert/brie;FI
+30430;Siideri, kuiva, 5,5 til% alkoholia;FI
+30432;Siiderijuoma, 0,7 til% alkoholia;FI
+30440;Riisisuklaa;FI
+30443;Tuorejuusto, rasvaa 15 %, maustettu, creme bonjour light;FI
+30444;Tomaatti, aurinkokuivattu, öljyssä;FI
+30449;Viili, maustamaton, rasvaa 1 %, ykkösviili, vl;FI
+30450;Viili, maustettu, rasvaa 2 %, vl;FI
+30451;Kivennäisvesi, fruktoosilla makeutettu;FI
+30452;Jogurtti, juotava, rasvaa 0,1 %, vl;FI
+30454;Kermaviili, rasvaa 6 %, vl;FI
+30455;Kermaviili, rasvaa 3,5 % ,vl;FI
+30456;Jogurtti, maustettu, rasvaa 2 %, vl, d-vit 0,5 ug;FI
+30462;Jogurtti, maustettu, rasvaa 1,5 %, vl;FI
+30464;Jogurtti, maustettu, rasvaton, laktoositon;FI
+30570;Maltodekstriini;FI
+30572;Grillimakkara, tuotekeskiarvo;FI
+30573;Grillimakkara, lihaisa, tuotekeskiarvo;FI
+30574;Mehu, höyrymehu, mustaherukka, laimentamaton, sokeriton;FI
+30575;Mehu, höyrymehu, mustaherukka, laimennettu, sokeriton;FI
+30576;Mehu, gefilus, probiootteja, tuotekeskiarvo;FI
+30606;Täysmehu, c-vitamiinia, d-vitamiinia, probiootteja;FI
+30607;Mehu, mehujuoma, kuitua;FI
+30608;Jogurtti, maustettu hillolla, rasvaton;FI
+30610;Voi, vähäsuolainen;FI
+30612;Kasvirasvalevite 30%, keiju kevyt;FI
+30616;Margariini 40%, rainbow/pirkka;FI
+30617;Kasvirasvalevite 70%, keiju laktoositon, d-vit 20 ug;FI
+30619;Margariini 60%, keiju normaalisuolainen, d-vit 20 ug;FI
+30621;Margariini 40%, keiju kevyt laktoositon, d-vit 20 ug;FI
+30629;Margariini 60%, kultarypsi;FI
+30631;Margariini 60%, teollinen tuotekeskiarvo;FI
+30633;Mehujuomatiiviste, vitaminoitu;FI
+30636;Siideri, kevyt, 4,7 til% alkoholia;FI
+30638;Gin long drink, kevyt 4,7 til%;FI
+30641;Kananmuna, omega, kuoreton;FI
+30646;Ruoanvalmistuskerma, rasvaa 5 %, vl;FI
+30665;Ateriankorvike, proteiinipatukka, keskiarvo, n. 30 % proteiinia;FI
+30673;Rahka, maustettu, rasvaa 3,5 %;FI
+30792;Broileri, koipi-reisi, nahaton;FI
+30914;Fenkoli, salaattifenkoli;FI
+30925;Majoneesi, rasvaa 80 %;FI
+30926;Majoneesi, rasvaton;FI
+30968;Pinjansiemen;FI
+30991;Pellavansiemen, kokonainen;FI
+31139;Pasta, vehnänalkiopasta;FI
+31144;Sianlihasuikale, marinoitu, raaka;FI
+31145;Naudanlihasuikale, marinoitu, raaka;FI
+31160;Ruokasooda;FI
+31174;Pasta, tumma proteiinipasta;FI
+31175;Kvinoa, siemen;FI
+31211;Kurpitsansiemen;FI
+31212;Pähkinä, pistaasipähkinä;FI
+31213;Papu, mungopapu, keitetty;FI
+31214;Papu, kidneypapu, keitetty;FI
+31216;Papu, adukipapu, kuivattu;FI
+31217;Papu, adukipapu, keitetty, suolaton;FI
+31218;Kikherne, kuivattu;FI
+31219;Linssi, punainen, kuivattu;FI
+31225;Linssi, punainen, keitetty;FI
+31226;Jauho, spelttijauho, täysjyvä;FI
+31229;Jäätelö, soijajäätelöpuikko, suklaakuorrute;FI
+31231;Soijavalmiste, vaihtoehto kermalle, rasvaa 17,5 %;FI
+31233;Papu, härkäpapu, keitetty;FI
+31246;Soijajuoma, vitaminoitu;FI
+31247;Soijajuoma, ei lisättyä sokeria;FI
+31248;Soijajuoma, suklaa, vitaminoitu;FI
+31252;Riisikakku, riisikeksi;FI
+31253;Riisi-maissikakku;FI
+31254;Suklaarusina;FI
+31256;Pasta, tuorepasta, kananmunaa;FI
+31457;Puolukkahillo;FI
+31459;Omenahillo;FI
+31482;Makaroni, pasta, kananmunaa;FI
+31487;Maitojauhe, rasvaton, vl, d-vitamiinia 5 ug;FI
+31488;Maitojauhe, rasvaton, laktoositon, d-vitamiinia 5 ug;FI
+31495;Pellavaöljy;FI
+31496;Maitojauhe, rasvaton, d-vitamiinia 5 ug;FI
+31497;Maitojauhe, rasvaton, vl;FI
+31498;Maitojauhe, rasvaton, laktoositon;FI
+31504;Rasvaseoslevite 70%;FI
+31505;Rasvaseoslevite 75%, laktoositon;FI
+31506;Rasvaseos 40%, vl;FI
+31508;Rasvaseos, juokseva, 80%, keskiarvo;FI
+31511;Jogurtti, maustettu, rasvaa noin 4 %, laktoositon;FI
+31518;Jäätelö, jogurttijäätelö, rasvaa 9 %;FI
+31525;Soijavälipala, alpro, hapatettu, maustamaton, rasvaa 2,3 %, kalsium, vitaminoitu;FI
+31530;Voi, laktoositon;FI
+31532;Jauho, jauhoseos, tumma, luontaisesti gluteeniton;FI
+31534;Jauho, jauhoseos, gluteeniton, vehnätärkkelystä, vitaminoitu, maito;FI
+31536;Kalapuikko, lohi, kypsentämätön;FI
+31537;Pasta, täysjyväriisijauho, luontaisesti gluteeniton;FI
+31538;Aprikoosisose, sokeriton, c-vitaminoitu;FI
+31539;Marjasose, sokeriton, c-vitaminoitu;FI
+31544;Jauho, jauhoseos, vaalea, luontaisesti gluteeniton;FI
+31545;Ketsuppi, vähemmän suolaa ja sokeria, felix;FI
+31550;Jauho, jauhoseos, vaalea, gluteeniton, vehnätärkkelys, maitojauhe;FI
+31552;Guava;FI
+31553;Maito, kevytmaito, laktoositon maitojuoma, ei lisätty d-vitamiinia, luomu;FI
+31555;Granaattiomena, kuorittu;FI
+31557;Chili, vihreä, tuore;FI
+31675;Pasta, spagetti, makaroni, luontaisesti gluteeniton;FI
+31677;Pasta, spagetti, luontaisesti gluteeniton, kananmunaa;FI
+31679;Pasta, kuitupitoinen, luontaisesti gluteeniton;FI
+31683;Jauho, jauhoseos, gluteeniton, vehnätärkkelystä, vitaminoitu;FI
+31692;Jauho, korppujauho, luontaisesti gluteeniton;FI
+31888;Maito, rasvaton, valio plus, d-vitamiinia 2 ug;FI
+31891;Maito, täysmaito, vl, d-vitamiinia 1 ug;FI
+31894;Maito, kahvimaito, rasvaa 2 %, laktoositon, d-vitamiinia 1ug;FI
+31900;Piimä, rasvaton, laktoositon, d-vit 1 ug;FI
+31947;Kauravalmiste, hapatettu, marja-hedelmä, yosa smoothie, probiootteja;FI
+31956;Rahka, maustettu, rasvaton, keinotekoisesti makeutettu;FI
+31959;Ruoanvalmistuskerma, maustettu, kolmen juuston, rasvaa 10 % , vl;FI
+31966;Kerma, kuohukerma, kasvirasvakerma, flora kuohu, rasvaa 26 %;FI
+31968;Jäätelö, kermajäätelö, laktoositon;FI
+31969;Jäätelö, kermajäätelö, vl;FI
+31970;Jäätelö, kermajäätelöä ja keksiä, puffet;FI
+31971;Jäätelö, kevyt, rasvaa 4,5 %;FI
+31972;Jäätelö, kermajäätelö, maustettu, carte d'or stracciatella;FI
+31990;Jäätelö, kermajäätelö, maustettu, carte d'or mascarpone;FI
+31991;Sorbetti, vadelmasorbetti, teollinen;FI
+31994;Jäätelö, soijajäätelötuutti, gluteeniton;FI
+31996;Jäätelö, riisijäätelö;FI
+31997;Jäätelö, jogurttijäätelö, rasvaa 4 %;FI
+32000;Jäätelö, kermajäätelöpuikko, suklaa- ja kinuskikuorrute;FI
+32001;Jäätelö, kermajäätelö, maustettu, aino kermainen karamelli;FI
+32002;Rahka, maustettu, rasvaa 2,9 %;FI
+32004;Soijavalmiste, vaihtoehto kermalle, kevyt, rasvaa 5,2 %;FI
+32005;Kauravalmiste, vaihtoehto kermalle, kevyt, rasvaa 7 %;FI
+32006;Riisivalmiste, vaihtoehto kermalle, kasvirasvavalmiste, rasvaa 7 %,;FI
+32007;Riisijuoma, lisätty kalsiumia ja d-vitamiinia;FI
+32008;Soijajuoma, alpro kevyt, kalsiumia ja vitamiineja;FI
+32010;Jäätelö, kermajäätelö, jätskivene;FI
+32062;Jogurtti, maustettu, rasvaa 2 %, d-vit 0,5 ug;FI
+32067;Jogurtti, maustettu, rasvaton, keinotekoisesti makeutettu, d-vit 0,5 ug;FI
+32080;Jogurtti, maustettu, vitalinea, rasvaton, d-vit 0,75 ug;FI
+32084;Jogurtti, maustettu, rasvaa 2 %, laktoositon, d-vit 0,5 ug;FI
+32085;Jogurtti, maustettu, a+, rasvaa 2 %, vl, d-vit 1 ug;FI
+32088;Jogurtti, maustamaton, bulgarian, rasvaa 3,5 %, d-vit 1 ug;FI
+32101;Majoneesi, kurkkumajoneesi, hampurilaiskastike, hesburger;FI
+32136;Jogurtti, maustamaton, activia, rasvaa 3,4 %, probiootteja;FI
+32142;Jogurtti, maustettu hillolla, rasvaa 2 %, vl, d-vit 1 ug;FI
+32145;Jogurtti, maustettu, a+, rasvaton, vl, d-vit 1 ug;FI
+32153;Bearnaisekastikejauhe, kastikeainekset, knorr;FI
+32163;Bearnaisekastikejauhe, kastikeainekset, campbell's/blå band;FI
+32172;Soijavälipala, alpro, hapatettu, maustettu, rasvaa 2 %, kalsiumia, vitaminoitu;FI
+32175;Hollandaisekastikejauhe, kastikeainekset, campbell's/blå band;FI
+32177;Salaatinkastike, thousand island, kevyt, felix, rypsiöljypohjainen, rasvaa 15 %;FI
+32178;Salaatinkastike, ranskalainen, saarioinen, rypsiöljypohjainen, rasvaa 47 %;FI
+32179;Salaatinkastike, kartanon, kevyt, saarioinen, rypsiöljypohjainen, rasvaa 23 %;FI
+32189;Viili, maustettu, rasvaa 2 %, d-vitamiinia 1 ug;FI
+32191;Nakki, broilernakki, atria;FI
+32195;Nakki, broilernakki, hk;FI
+32197;Nakki, kevyt kalkkunanakki, atria;FI
+32198;Kokolihaleikkele, ohut 100 % broilerinfilee, hk, rasvaa 1,9 %;FI
+32201;Jogurtti, turkkilainen/kreikkalainen, rasvaa 10 %;FI
+32257;Kokolihaleikkele, ohuen ohut broilerin fileeleike, hk, rasvaa 2 %;FI
+32301;Margariini 60%, flora normaalisuolainen;FI
+32308;Margariini 60%, flora laktoositon;FI
+32341;Margariini 60%, flora reilusti suolattu;FI
+32343;Kasvirasvalevite 38%, becel kevyt;FI
+32344;Kasviöljyvalmiste, juokseva, 82%, flora culinesse;FI
+32348;Kasviöljyvalmiste, juokseva, 82%, becel;FI
+32350;Kasvirasvalevite 38%, becel kevyt oliivi;FI
+32354;Kasviöljyvalmiste, juokseva, 80%, keiju rypsi;FI
+32357;Munkinpaistorasva 100 %, sunnuntai;FI
+32360;Margariini 60%, benecol laktoositon;FI
+32367;Muksu soijajuoma 1-3 v, leikki-ikäiselle;FI
+32381;Spagettikastikejauhe, kastikeainekset, knorr;FI
+32385;Raejuusto, rasvaa 1,5 %;FI
+32386;Ateriakastike, tikka masala, uncle ben's, valmiskastike;FI
+32403;Dippikastikejauhe, sisältää maitoa, kastikeainekset;FI
+32404;Dippikastikejauhe, maidoton, kastikeainekset;FI
+32407;Meetvursti, ultrakevyt, rasvaa 9 %;FI
+32409;Kokolihaleikkele, korppukinkku, rasvaa 3 %;FI
+32416;Marjajuoma, proviva, keskiarvo, probiootteja;FI
+32417;Hedelmäjuoma, mango, proviva, probiootteja;FI
+32418;Kauravalmiste, hapatettu, marja-hedelmä, yosa, keskiarvo, probiootteja;FI
+32423;Välipalajuoma, tehojuoma, hedelmäinen, rainbow, probiootteja;FI
+32424;Välipalajuoma, tehojuoma, marjainen, rainbow, probiootteja;FI
+32431;Kasviöljyvalmiste, juokseva, 80%, sunnuntai, rypsiöljy;FI
+32449;Välipalapatukka, jogurttinen myslipatukka;FI
+32450;Välipalapatukka, täysjyväviljainen myslipatukka;FI
+32451;Välipalapatukka, marjaisa myslipatukka;FI
+32452;Välipalapatukka, hedelmäinen myslipatukka;FI
+32455;Verigreippi, kuorittu;FI
+32456;Latva-artisokka;FI
+32464;Pähkinä, parapähkinä;FI
+32478;Ateriakastike, hapanimelä, sweet & sour, uncle ben's, valmiskastike;FI
+32480;Salaatinkastike, kartanon, saarioinen, rypsiöljypohjainen, rasvaa 39 %;FI
+32482;Salaatinkastike, talon-, felix, rypsiöljypohjainen, rasvaa 20 %;FI
+32483;Salaatinkastike, kreikkalainen-, felix, rypsiöljypohjainen, rasvaa 25 %;FI
+32485;Salaatinkastike, hunaja-sinappi, felix, rypsiöljypohjainen, rasvaa 36 %;FI
+32502;Makeinen, dumle, fazer, maitosuklaalla kuorrutettu toffee;FI
+32503;Makeinen, maitosuklaarae, m&m's/amerikan pastilli;FI
+32509;Suklaa, suklaapatukka, twix, keksiä ja toffeeta;FI
+32540;Glögijuoma, alkoholiton;FI
+32553;Kasviöljyvalmiste, juokseva, 80 %, tuotekeskiarvo;FI
+32562;Kauravalmiste, hapatettu, maustamaton, yosa naturell, d-vitamiinia, probiootteja;FI
+32568;Rasvaseoslevite 75%, d-vitamiinia 10 ug;FI
+32570;Neljänviljanhiutale, riihikosken vehnämylly;FI
+32592;Piimä, kirnupiimä, rasvaa 0,3 %, d-vit 0,5 ug;FI
+32593;Piimä, rasvaton, d-vit 0,5 ug;FI
+32594;Piimä, rasvaton, vl, d-vit 0,5 ug;FI
+32595;Piimä, rasvaton, laktoositon, d-vit 0,5 ug;FI
+32596;Jogurtti, maustettu, rasvaton, osittain keinotek. makeutettu, d-vit 1 ug, vl;FI
+32597;Jogurtti, maustettu, rasvaton, laktoositon, keinotekoisesti makeutettu,d-vit 1ug;FI
+32598;Jogurtti, maustamaton, rasvaton;FI
+32599;Jogurtti, maustettu, rasvaa 2 %, d-vit 1 ug;FI
+32600;Jogurtti, juotava, danonino dino, rasvaa 1,6 %, d-vitamiinia 0,9 ug;FI
+32602;Raakamakkara, grilliwurst chorizo, saarioinen;FI
+32619;Ateriankorvike, shake, valmisjuoma, naturdiet;FI
+32622;Ateriankorvike, smoothie, valmisjuoma, naturdiet;FI
+32623;Ateriankorvike, drinkmix, juomajauhe, naturdiet;FI
+32625;Ateriankorvike, suklaapatukka, naturdiet;FI
+32626;Ateriankorvike, karamellipatukka, naturdiet;FI
+32627;Ateriankorvike, tummasuklaapatukka, naturdiet;FI
+32628;Ateriankorvike, smoothie, juomajauhe, easy diet;FI
+32630;Ateriankorvike, keittojauhe, parsa/kala/kana/sieni, easy diet;FI
+32632;Ateriankorvike, keittojauhe, tomaatti/texmex/thai, easy diet;FI
+32636;Ateriankorvike, smoothie, juomajauhe, nutrifast;FI
+32638;Ateriankorvike, pirtelö, juomajauhe, allevo;FI
+32640;Ateriankorvike, smoothie, juomajauhe, allevo;FI
+32642;Ateriankorvike, keittojauhe, peruna/purjo, allevo;FI
+32644;Ateriankorvike, keittojauhe, parsakaali/basilika/couscous, allevo;FI
+32646;Ateriankorvike, low calorie juoma, allevo;FI
+32647;Ateriankorvike, low calorie patukka, allevo;FI
+32648;Ateriankorvike, keittojauhe, nutrilett;FI
+32650;Ateriankorvike, hunger control, valmisjuoma, nutrilett;FI
+32651;Ateriankorvike, pirtelö, juomajauhe, nutrilett;FI
+32653;Ateriankorvike, hot and cold mocca, juomajauhe, nutrilett;FI
+32655;Ateriankorvike, hunger control, patukka, nutrilett;FI
+32656;Ateriankorvike, patukka, tuotekeskiarvo;FI
+32657;Ateriankorvike, keittojauhe, tuotekeskiarvo;FI
+32659;Ateriankorvike, pirtelö, juomajauhe, tuotekeskiarvo;FI
+32661;Ateriankorvike, smoothie, juomajauhe, tuotekeskiarvo;FI
+32664;Rasvaseoslevite 75%, oivariini, normaalisuolainen, vl;FI
+32666;Rasvaseoslevite 75%, oivariini, voimakassuolainen, vl;FI
+32667;Ateriankorvike, proteiinijuomajauhe, gnld, 49 % proteiinia;FI
+32669;Rasvaseos 60%, oivariini, vähärasvaisempi, vl;FI
+32670;Rasvaseoslevite 75%, oivariini, laktoositon;FI
+32671;Rasvaseoslevite 43%, ingmariini, vl;FI
+32672;Rasvaseoslevite 82%, ingmariini merisuola, vl;FI
+32673;Rasvaseoslevite 75%, ingmariini, normaalisuolainen, vl;FI
+32675;Ateriankorvike, proteiinijuomajauhe, nutrishake, gnld, 55 % proteiinia;FI
+32676;Rasvaseoslevite 57%, ingmariini, vähärasvaisempi, vl;FI
+32678;Soija-ruusunmarja-pellava-valmiste, femisoya;FI
+32679;Soija-ruusunmarja-pellava-inuliinivalmiste, femisoya plus;FI
+32680;Soija-marja-pellava-ruis-jauheseos, berrysoya;FI
+32694;Jauheliha, sika-nauta, kevyt, vähärasvainen, rasvaa 7 %;FI
+32695;Makeinen, marianne, fazer, piparminttusuklaakaramelli;FI
+32699;Makeinen, suffeli puffi snacks, fazer, erittäin vähägluteeninen;FI
+32700;Välipalapatukka, suklainen myslipatukka;FI
+32701;Jäätelö, pehmytjäätelö, ei vohvelia;FI
+32702;Jäätelö, soijajäätelö, tofuline, vanilja;FI
+32703;Suklaa-pähkinälevite;FI
+32704;Jauheliha, naudanpaisti, rasvaa 9 %;FI
+32705;Jäätelö, kasvirasvajäätelö;FI
+32708;Kermavaahtospray, teollinen;FI
+32709;Margariini, talousmargariini 80 %, keskiarvo, leivontaan ja ruoanlaittoon;FI
+32710;Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 4 %, vl;FI
+32716;Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 5 %, vl;FI
+32721;Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 7 %, vl;FI
+32722;Raakamakkara, rypsiporsas kabanossi, keskiarvo, hk;FI
+32724;Raakamakkara, chorizo, kotitekoinen;FI
+32731;Nuudeli, täysjyvävehnä;FI
+32733;Kinder yllätysmuna;FI
+32734;Soijajuoma, alpro kalsiumsoijajuoma, sokeri, kalsiumia, vitamiineja;FI
+32735;Jogurtti, maustamaton, a+, rasvaa 2,5 %, vl, d-vit 1 ug;FI
+32737;Piimä, ab-piimä, rasvaa 2,5 %, d-vit 1 ug, probiootteja;FI
+32739;Siiderijuoma, pear, alkoholiton siideri, 0,02 til% alkoholia, rainbow;FI
+32740;Olut, alkoholiton olut, nikolai, 0,0 til% alkoholia, sinebrychoff;FI
+32744;Luumumarmeladi, luumuhillo;FI
+32745;Energiajuoma, vitaminoitu, osittain keinotekoisesti makeutettu;FI
+32746;Energiajuoma, vitaminoitu, keinotekoisesti makeutettu;FI
+32758;Soijajuoma, alpro luomu;FI
+32770;Kivennäisvesi, novelle plus, sinkkiä ja e-vitamiinia, fruktoosia, hartwall;FI
+32771;Kivennäisvesi, novelle plus, kalsiumia, hartwall;FI
+32772;Kivennäisvesi, novelle plus, c-vitamiinia ja magnesiumia, hartwall;FI
+32773;Kivennäisvesi, novelle friss, keskiarvo, fruktoosia, hartwall;FI
+32774;Kaurajuoma, nalle suklaakaurajuoma, lisätty kalsiumia ja d-vitamiinia;FI
+32778;Leikkelemakkara, lauantaimakkara, keskiarvo, rasvaa 18 %;FI
+32779;Leikkelemakkara, lauantaimakkara, maitoproteiinia, rasvaa 19 %;FI
+32780;Leikkelemakkara, lauantaimakkara, soijaproteiinia, rasvaa 19 %;FI
+32783;Kaurajuoma, rainbow, lisätty kalsiumia ja vitamiineja;FI
+32784;Leikkelemakkara, lauantaimakkara, kevyt, keskiarvo, rasvaa 10 %;FI
+32786;Leikkelemakkara, lauantaimakkara, rasvaa 17%, tuotekeskiarvo;FI
+32787;Riisijuoma, rice dream suklaa, lisätty kalsiumia;FI
+32790;Riisijuoma, rice dream hasselpähkinä-manteli;FI
+32795;Grillimakkara, ultrakevyt, maidoton, rasvaa 7 %;FI
+32796;Grillimakkara, soijaproteiinia, keskiarvo;FI
+32800;Jäätelö, riisijäätelö, r-ice vanilja-suklaatuutti, gluteeniton, ingman;FI
+32802;Jäätelö, riisijäätelö, r-ice vanilja, ingman;FI
+32804;Jäätelö, kevyt, vanilja-mansikka, ingman, keinotekoisesti makeutettu;FI
+32885;Kaurajuoma, nordic, maustamaton, lisätty kalsiumia ja d-vitamiinia;FI
+32887;Riisijuoma, nordic, lisätty kalsiumia ja d-vitamiinia;FI
+32892;Hedelmäjuoma, hyvää päivää, karpalo, osittain keinotekoisesti makeutettu;FI
+32893;Hedelmäjuoma, hyvää päivää, sitrus, osittain keinotek. makeutettu, vitaminoitu;FI
+32894;Hedelmäjuoma, hyvää päivää, fruktoosi, vitaminoitu;FI
+32895;Pähkinä, australianpähkinä, macadamiapähkinä;FI
+32897;Energiajuoma, energiavesi, teho, olvi, vitaminoitu;FI
+32925;Juusto, vuohenjuusto, chèvre, rasvaa 30 %;FI
+32931;Juusto, vuohenjuusto, chèvre, rasvaa 30 %, paistettu;FI
+33020;Maustekastike, sweet chili sauce, makea chilikastike;FI
+33021;Maustetahna, currytahna, mieto, tikka masala;FI
+33022;Maustetahna, inkivääritahna;FI
+33023;Inkivääri, juurakko, raaka;FI
+33024;Inkivääri, säilötty;FI
+33038;Sharon, kaki, persimon;FI
+33042;Jogurtti, maustamaton, a+, rasvaa 4 %, laktoositon, d-vit 1 ug;FI
+33047;Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 13 %, vl;FI
+33048;Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 7 %;FI
+33049;Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 4 %;FI
+33060;Papaija, kuivattu;FI
+33065;Mango, kuivattu;FI
+33067;Erikoishedelmä, eksoottinen, keskiarvo, mango/papaija, kuivattu;FI
+33070;Viikuna, kuivattu;FI
+33077;Ananas, kuivattu;FI
+33091;Avokadoöljy;FI
+33095;Pähkinä, pekaanipähkinä;FI
+33097;Grillimakkara, bratwursti;FI
+33102;Pähkinä, hunajapaahdettu maapähkinä;FI
+33103;Jogurtti, maustettu, valio olo, rasvaa 2,7 %, eila, d-vit 1 ug, probiootteja;FI
+33111;Maito, täysmaito, rasvaa 3 %, laktoositon maitojuoma, d-vitamiinia 1 ug;FI
+33116;Juusto, salaattijuusto, rasvaa 2-5 %, lehmänmaito, suolaliemessä;FI
+33117;Piimä, rasvaton, valio plus, vl, d-vit 2 ug;FI
+33118;Juusto, salaattijuusto, rasvaa 6-8 %, lehmänmaito, suolaliemessä;FI
+33119;Juusto, salaattijuusto, rasvaa 9-11 %, lehmänmaito, suolaliemessä;FI
+33120;Juusto, salaattijuusto, rasvaa 22 %, lehmänmaito, öljyssä;FI
+33121;Hampunsiemen, kokonainen;FI
+33122;Soijajuoma, alpro maustamaton, kalsiumia ja vitamiineja;FI
+33124;Soijajuoma, rainbow, kalsiumia ja vitamiineja;FI
+33125;Soijajuoma, pirkka luomu maustamaton, kalsiumia;FI
+33128;Pähkinä, chilipähkinä;FI
+33129;Jogurtti, lohkeava luonnonjogurtti, rasvaa 5,5 %, laktoositon;FI
+33130;Pähkinä, cashewpähkinä, suolattu;FI
+33131;Pähkinä, pistaasipähkinä, suolattu;FI
+33132;Soijajuoma, gogreen maustamaton, kalsiumia;FI
+33133;Soijajuoma, gogreen original, kalsiumia;FI
+33134;Soijajuoma, pirkka luomu suklaanmakuinen, kalsiumia;FI
+33135;Soijajuoma, rainbow luomu;FI
+33136;Soijajuoma, nordic, kalsiumia ja d-vitamiinia;FI
+33137;Soijajuoma, alpro kevyt suklaajuoma, kalsiumia ja vitamiineja;FI
+33138;Soijajuoma, alpro suklaa, kalsiumia ja vitamiineja;FI
+33139;Soijajuoma, soywell soya drink, lidl, kalsiumia ja vitamiineja;FI
+33142;Jogurtti, maustettu, rasvaton, laktoositon, d-vit 1 ug;FI
+33147;Rahka, maustettu, danonino, rasvaa 2,9 %, d-vitamiinia 1,25 ug;FI
+33150;Jogurtti, maustettu, lohkeava, rasvaa 4,6 %, laktoositon;FI
+33151;Merisuola, jodioimaton;FI
+33154;Kala, tuoresuolattu;FI
+33158;Välipalapatukka, suklaa-muropatukka, kellogg´s special k chocolate, täydennetty;FI
+33159;Välipalapatukka, muropatukka, kellogg´s rice krispies cereal & milk, täydennetty;FI
+33160;Kaurajuoma, elovena välipalajuoma aurinkoinen, 2,9 % rasvaa;FI
+33161;Kaurajuoma, elovena välipalajuoma metsämarja, 0,5% rasvaa;FI
+33162;Jogurtti, maustamaton, rasvaa 2,5 %;FI
+33163;Kaurajuoma, elovena välipalajuoma hedelmäinen, 0,5% rasvaa;FI
+33164;Maito, täysmaito, vl, ei lisätty d-vitamiinia;FI
+33168;Juusto, polar 10 % rasvaa, valio;FI
+33169;Kaurajuoma, nalle vaniljakaurajuoma, lisätty kalsiumia ja d-vitamiinia;FI
+33170;Pangasius, haimonni, filee, tuontikala;FI
+33171;Hoki, hokikala, tuontikala;FI
+33174;Jauheliha, sika-nauta, kevyt, vähärasvainen, rasvaa 10 %;FI
+33179;Rahka, maitorahka, maustamaton, rasvaa 0,3 %, laktoositon;FI
+33189;Rahka, maustettu, rasvaa 7 %, makea, laktoositon;FI
+33197;Jogurtti, maustettu, rasvaton, vl, d-vit 0,5 ug, osittain keinotek. makeutettu;FI
+33198;Jogurtti, maustettu, rasvaton, keinotekoisesti makeutettu;FI
+33200;Viili, maustettu, rasvaa 1 %, laktoositon;FI
+33201;Viili, maustamaton, rasvaa 1 %, laktoositon;FI
+33211;Tilapia, tuontikala;FI
+33221;Jogurtti, maustettu, rasvaa 1 %, laktoositon;FI
+33226;Jogurtti, maustettu, rasvaton, vl, a-, e- ja d-vitamiineja, kuitua;FI
+33251;Tilapia, uunissa;FI
+33264;Viili, kerrosviili, rasvaa 1 %, laktoositon, osittain keinotekoisesti makeutettu;FI
+33265;Pähkinä, cashewpähkinä, suklaakuorrutus;FI
+33266;Pähkinä, cashewpähkinä, jogurttikuorrutus;FI
+33267;Banaanilastu, kuivattu banaani, jogurttikuorrutus;FI
+33268;Ananas, kuivattu, jogurttikuorrutus;FI
+33269;Omenalastu;FI
+33272;Välipalapatukka, suklaa-muropatukka, kellogg´s coco pops rocks, täydennetty;FI
+33280;Jogurtti, maustettu, rasvaa 2 %, laktoositon, d-vit 1 ug;FI
+33284;Jogurtti, maustamaton, rasvaton, laktoositon, d-vit 1 ug;FI
+33295;Jogurtti, maustamaton, a+, rasvaton, vl, d-vit 1 ug;FI
+33298;Jogurtti, luonnonjogurtti ja marjamysli, a+, rasvaa 3,5 %, vl, d-vit 0,9 ug;FI
+33304;Urheilujuomatiiviste, hiilihydraattijuoma, dexal heavy, laimennettu;FI
+33305;Urheilujuomatiiviste, hiilihydraattijuoma, dexal light, laimennettu;FI
+33317;Urheilujuomatiiviste, hiilihydraattijuoma, dexal light;FI
+33319;Tuontikala, vaalea, pangasius/tilapia/hoki, keskiarvo;FI
+33320;Tuontikala, vaalea, pangasius/tilapia/hoki, keskiarvo, keitetty, ei suolaa;FI
+33323;Urheilujuomatiiviste, hiilihydraattijuoma, dexal heavy;FI
+33334;Urheilujuoma, proteiinijuoma, pro fx zero carb;FI
+33337;Tuontikala, vaalea, pangasius/tilapia/hoki, keskiarvo, uunissa, ei suolaa;FI
+33338;Urheilujuoma, hiilihydraattijuoma, leader carbo energy;FI
+33339;Broilerifilee, hunajamarinadi, raaka;FI
+33342;Rahka, maustettu, rasvaa 4,5 %, valio rahkavaahto, laktoositon;FI
+33343;Urheilujuoma, proteiinijuoma, leader protein 40;FI
+33357;Kahvi, murukahvi, pikakahvi, valmistamaton;FI
+33360;Urheilujuoma, proteiini-hiilihydraattijuoma, pro fx recovery;FI
+33367;Urheilujuoma, proteiini-hiilihydraattijuoma, leader recovery;FI
+33372;Urheilujuoma, proteiini-hiilihydraattijuoma, tuotekeskiarvo;FI
+33375;Urheilujuoma, hiilihydraattijuoma, tuotekeskiarvo;FI
+33376;Urheilujuoma, proteiinijuoma, tuotekeskiarvo;FI
+33382;Lohi, lämminsavustettu;FI
+33395;Perunasosejauhe, valmistamaton, rainbow;FI
+33396;Perunasosejauhe, valmistamaton, pirkka/felix;FI
+33397;Perunasosejauhe, valmistamaton, eldorado;FI
+33403;Ateriankorvike, proteiinipatukka, 54 % proteiinia, maxim;FI
+33404;Rahka, maustettu, danio, rasvaa 3 %;FI
+33405;Rahka, maustettu, danio stracciatella, rasvaa 4,4 %;FI
+33408;Siika, lämminsavustettu;FI
+33409;Kirjolohifilee, kylmäsavustettu;FI
+33410;Jogurtti, maustettu, rasvaa 2 %;FI
+33414;Kirjolohifilee, lämminsavustettu;FI
+33415;Kala, lämminsavustettu, keskiarvo;FI
+33419;Kirjolohifilee;FI
+33420;Lohifilee, kylmäsavustettu;FI
+33424;Makrilli, savustettu;FI
+33428;Kahvi, kahvijuoma, murukahvi, pikakahvi, keitetty;FI
+33432;Makeinen, vohvelia ja suklaata, suffeli, fazer;FI
+33433;Basilika, kuivattu;FI
+33436;Ruusunmarja, kuivattu;FI
+33438;Kahvi, caffe latte, makeuttamaton, rasvaton maito;FI
+33439;Kahvi, caffe latte, makeuttamaton, kevytmaito;FI
+33441;Kahvi, cappuccino, makeuttamaton, kevytmaito;FI
+33442;Kahvi, caffe latte, makeuttamaton, soijajuoma;FI
+33447;Makeinen, vaahtokarkki, vaahtokaramelli;FI
+33449;Juusto, tuotekeskiarvo;FI
+33456;Pinaatti;FI
+33465;Juusto, halloumijuusto, vuohenmaito, rasvaa 22 %;FI
+33466;Maito, keskiarvo, d-vitamiinia 1 ug;FI
+33487;Kasvirasvalevite 70%, keiju laktoositon, catering, d-vit 20 ug;FI
+33488;Margariini 40%, keiju kevyt laktoositon, catering, d-vit 20 ug;FI
+33489;Margariini 60%, keiju normaalisuolainen, catering, d-vit 20 ug;FI
+33494;Paprika, punainen, säilyke;FI
+33496;Kasvirasvalevite 70%, becel gold, d-vit 20 ug;FI
+33499;Soijarouhe, vaalea tai tumma;FI
+33501;Tofu, soijavalmiste;FI
+33502;Nakki, soijanakki;FI
+33519;Makeutusaine, stevia, canderel green -jauhe;FI
+33520;Makeutusaine, stevia, canderel green -puriste;FI
+33521;Makeutusaine, stevia, canderel green -stick;FI
+33525;Rasvajauhe, elintarviketeollisuuden raaka-aine;FI
+33542;Suklaa, tumma, 80 %;FI
+33549;Kananmunajauhe, elintarviketeollisuuden raaka-aine;FI
+33550;Valkuaisjauhe, elintarviketeollisuuden raaka-aine;FI
+33551;Keltuaisjauhe, elintarviketeollisuuden raaka-aine;FI
+33553;Maustekastike, hapanimelä, dippikastike;FI
+33554;Juusto, polar täyteläinen, 28 % rasvaa, valio;FI
+33555;Juusto, polar 5 % rasvaa, valio;FI
+33556;Juusto, polar 15 % rasvaa, valio;FI
+33559;Mansikkahillo, teollinen, sokeria 46 %;FI
+33568;Pähkinä-hedelmä-sekoitus;FI
+33569;Pähkinäsekoitus, suolaton;FI
+33579;Pähkinäsekoitus, suolattu;FI
+33584;Piimä, ab-piimä, rasvaa 2 %, probiootteja;FI
+33586;Jäätelö, snickers;FI
+33587;Kala, painotettu keskiarvo;FI
+33596;Kaurajuoma, maustamaton, tuotekeskiarvo;FI
+33597;Soijajuoma, maustamaton, tuotekeskiarvo;FI
+33600;Riisijuoma, maustamaton, tuotekeskiarvo;FI
+33601;Perunasosejauhe, valmistamaton, tuotekeskiarvo;FI
+33629;Rahka, jälkiruoka/välipala, teollinen, tuotekeskiarvo;FI
+33631;Jauho, jauhoseos, gluteeniton, tuotekeskiarvo;FI
+33632;Pasta, gluteeniton, tuotekeskiarvo;FI
+33638;Kastikejauhe, kastikeainekset, teollinen, tuotekeskiarvo;FI
+33671;Profeel proteiinijuoma, valio, d-vitamiinia 1 ug;FI
+33675;Piimä, kevytpiimä, 1% rasvaa, vl, d-vit 1ug;FI
+33678;Piimä, ab-piimä, rasvaa 2 %, d-vit 1 ug, probiootteja;FI
+33679;Piimä, ab-piimä, rasvaa 1,5 %, d-vit 1 ug, probiootteja;FI
+33681;Piimä, aktiivipiimä, rasvaa 0,4 %, vl, d-vit 1 ug, probiootteja;FI
+33682;Piimä, kevytpiimä, 2% rasvaa, vl, d-vit 1 ug;FI
+33683;Piimä, kevytpiimä, 2% rasvaa;FI
+33685;Piimä, asidofilus-bifidus, rasvaa 1,5 %, vl, probiootteja;FI
+33690;Jogurtti, maustettu, jugupala, rasvaa 2,6 %, vl, -30% sokeria;FI
+33695;Jogurtti, maustettu, ab, rasvaa 2,7 %, vl, probiootteja;FI
+33696;Jogurtti, ab-kerrosluonnonjogurtti, rasvaa 3,3 %, probiootteja;FI
+33697;Jogurtti, maustamaton, ab, rasvaa 2,5 %, probiootteja;FI
+33698;Jogurtti, maustamaton, ab, rasvaton, probiootteja;FI
+33700;Jogurtti, maustettu, ab, rasvaton, probiootteja;FI
+33703;Jogurtti, juotava, jogurttijuoma, rasvaa 0,9%, probiootteja;FI
+33714;Jogurtti, maustettu, a+, rasvaa 3,2 %, laktoositon, d-vit 1 ug;FI
+33725;Jogurtti, maustettu, reducol, rasvaa 2 %, vl, kasvisteroli ja -stanoli, prob.;FI
+33726;Kasvirasvalevite 70%, teollinen tuotekeskiarvo;FI
+33727;Jogurtti, maustamaton, reducol, rasvaa 2,5%, vl, kasvisteroli ja -stanoli, prob.;FI
+33728;Viili, maustamaton, rasvaa 1,5 %, laktoositon;FI
+33729;Piimä, aktiivipiimä vanilja, rasvaa 0,4 %, vl, d-vit 0,9 ug, probiootteja;FI
+33739;Maito, täysmaito, rasvaa 4,4 %, ei lisätty d-vitamiinia, homogenoimaton;FI
+33757;Täysmehu, appelsiinitäysmehu, c-vitamiinia 60 mg;FI
+33758;Kokolihaleikkele, kinkkuleikkele, vähärasvainen, rasvaa 2 %;FI
+33760;Jogurtti, maustettu, a+ vilja, rasvaa 2 %, vl, d-vit 1 ug;FI
+33790;Maito, kevytmaito, laktoositon maitojuoma, valio eila, d-vitamiinia 2 ug;FI
+33791;Maito, rasvaton, laktoositon maitojuoma, valio eila, d-vitamiinia 2 ug;FI
+33792;Maito, täysmaito, rasvaa 3 %, laktoositon maitojuoma, eila, d-vitamiinia 2 ug;FI
+33845;Meetvursti tai salami, kevyt rasvaa, 22 %;FI
+33852;Piimä, rasvaton, valio eila laktoositon, d-vit 2 ug;FI
+33872;Äidinmaito, rintamaito;FI
+33882;Margariini 80 %, flora kulta;FI
+33884;Mehu, gefilus ananas-porkkana + kalsium, c- ja d-vit, prob, 09/12 alkaen;FI
+33885;Rahka, maustettu, profeel proteiinirahka, laktoositon;FI
+33889;Suklaa, pähkinäsuklaa, maitosuklaata ja hasselpähkinää;FI
+33899;Maizena pikasuuruste;FI
+33900;Kaurajuoma, oatly suklaa, lisätty kalsiumia ja vitamiineja, alkaen 09/12;FI
+33901;Kaurajuoma, oatly, lisätty kalsiumia ja vitamiineja, alkaen 09/12;FI
+33907;Mehu, herajuoma, gefilus, vl, vitamiineja, probiootteja, 09/12 alkaen;FI
+33908;Mehu, gefilus appelsiini-persikka + kuitu, c- ja d-vitamiineja, prob, alk 09/12;FI
+33909;Mehu, gefilus, c- ja d-vitamiineja, probiootteja;FI
+33910;Jogurtti, juotava, actimel, rasvaa 1,5 %, d-vit 0,75 ug, prob;FI
+33924;Kerma, valio vaahtoutuva mansikka-/suklaakerma, laktoositon;FI
+33925;Quorn, fileet, kuutiot, rouhe;FI
+33927;Kokolihaleikkele, kalkkunaleikkele;FI
+33928;Omenasose, sokeroitu;FI
+34079;Nalle kuitupuuroseos, hiutale;FI
+34110;Maizena suuruste ruskea/vaalea;FI
+34127;Maito, kevytmaito, valio plus, d-vitamiinia 2 ug;FI
+34136;Merilevä, nori, kuivattu;FI
+34137;Merilevä, wakame, kuivattu;FI
+34140;Kookosöljy;FI
+34159;Rukola, rucola, sinappikaali;FI
+34180;Broileri, koipi nahkoineen, raaka;FI
+34183;Naudanliha e-lajitelma, naudan kastikeliha, raaka;FI
+34184;Rypsiporsas, lihasuikale;FI
+34185;Viljaporsas, lihasuikale;FI
+34187;Naudanfilee, sisäfilee;FI
+34188;Porsaanfilee, ulkofilee;FI
+34189;Sianliha, 0-lajitelma, sian kastikeliha, raaka;FI
+34190;Kasslerpihvi/-paisti, raaka;FI
+34201;Naudanliha, vähärasvainen, keskiarvo;FI
+34228;Pinaatti, pakaste;FI
+34229;Herne, vihreä, pakaste;FI
+34230;Villirucola, pikkuhietasinappi;FI
+34231;Jääsalaatti;FI
+34232;Punasalaatti, punasikuri;FI
+34233;Roomansalaatti, sidesalaatti;FI
+34234;Sipuli, punasipuli;FI
+34235;Valkoretikka;FI
+34236;Herneenverso;FI
+34237;Vuonankaali;FI
+34238;Korianteri, tuore;FI
+34239;Haaparousku;FI
+34240;Suppilovahvero;FI
+34241;Karvarousku;FI
+34242;Jauho, leivontavehnäjauho v600;FI
+34243;Papu, härkäpapu, tuore;FI
+34244;Herne, sokeriherne, tuore;FI
+34245;Seesaminsiemen, valkoinen, kokonainen, kuorittu;FI
+34246;Jauho, täysjyväruisjauho r800;FI
+34247;Jauho, täysjyväruisjauho r1000;FI
+34248;Jauho, täysjyväohrajauho;FI
+34249;Jauho, erikoisvehnäjauho, vähittäiskauppa;FI
+34252;Siika, kasvatettu;FI
+34253;Silli, säilyke, kirkaslieminen;FI
+34254;Merilevä, kombu, kuivattu;FI
+34255;Lohi, kasvatettu;FI
+34256;Kirjolohi, kasvatettu;FI
+34261;Jogurtti, maustettu, jugupala, rasvaa 2,7%;FI
+34276;Mehu, mehujuoma, 40 % vähemmän sokeria, stevialla makeutettu, valio grandi;FI
+34361;Mango, kuorittu;FI
+34585;Skyr, maustamaton, rasvaa <0,5 %;FI
+34586;Skyr, makeutettu sokerilla, rasvaa <0,5 %;FI
+34587;Skyr, keinotekoisesti makeutettu, rasvaa <0,5 %;FI
+34588;Skyr, keinotekoisesti makeutettu, rasvaa 2 %;FI
+34589;Skyr, makeutettu sokerilla ja stevialla, rasvaa <0,5 %;FI
+34590;Rahka, rahkajogurtti, maustamaton, rasvaa 0,9 %;FI
+34591;Rahka, maustamaton, kermarahka, rasvaa 10 %;FI
+34592;Rahka, maitorahka, maustamaton, rasvaa 2,3 %, vl;FI
+34593;Skyr, maustamaton, rasvaa 4 %;FI
+34594;Rahka, maustettu, rasvaa 8,8 %, minttu-suklaa, valio, laktoositon;FI
+34595;Rahka, maustettu, rasvaa 7 %, vl;FI
+34596;Rahka, maustettu, profeel proteiinikerrosrahka, laktoositon;FI
+34597;Rahka, maustettu, profeel proteiinirahka, keinotek. makeutettu, laktoositon;FI
+34598;Rahkajuoma;FI
+34600;Rahka, maustettu, rasvaa 4,5 %;FI
+34601;Rahka, maustettu, arla protein proteiinirahka, laktoositon;FI
+34602;Rahka, maitorahka, maustamaton, rasvaa 0,3 %, proteiinia 12 %, laktoositon;FI
+34603;Jogurtti, maustettu, valio sileä, rasvaa 4,6 %, d-vitamiinia 1 ug, vl;FI
+34605;Jogurtti, a+ kreikkalainen kerrosjogurtti, valio, rasvaa 2 %, laktoositon;FI
+34606;Jogurtti, juotava, rasvaa 1,7 %, valio play, laktoositon, d-vit 1,5 ug;FI
+34607;Jogurtti, maustettu, rahkainen jogurtti, valio, rasvaa 1,7 %, vl;FI
+34608;Jogurtti, juotava, valiojogurtti rahkainen, rasvaa 1,2 %, vl, d-vit 1 ug;FI
+34609;Jogurtti, maustettu, valio olo 70, rasvaa 0,8%, laktoositon, d-vit 1 ug, prob.;FI
+34611;Jogurtti, maustamaton, kreikkalainen, rasvaa 7 %, laktoositon;FI
+34612;Välipalajuoma, gefilus tehoshot, rasvaton, laktoositon, d-vit. 1,5 ug, prob.;FI
+34613;Jogurtti, juotava, gefilus smoothie, rasvaa 1,4 %, laktoositon, d-vit. 1,5 ug;FI
+34614;Välipalajuoma, gefilus kefir, rasvaa 2 %, laktoositon, d-vit 1 ug, probiootteja;FI
+34615;Välipalajuoma, gefilus kefir, maustamaton, rasvaa 2,5 %, eila, d-vit 1ug , prob.;FI
+34616;Jogurtti, maustettu, rasvaa 2,7%, gefilus kefir, laktoosit., d-vit 1,5 ug, prob.;FI
+34618;Jogurtti, juotava, rasvaa 2 %, valio kreikkalainen, laktoositon, d-vit 1 ug;FI
+34619;Jogurtti, maustettu, valio kreikkalainen, rasvaa 4,7 %, laktoositon;FI
+34620;Jogurtti, maustettu, valio kreikkalainen, rasvaa 6 %, laktoositon;FI
+34621;Jogurtti, maustettu, rasvaa 3,3%, valio hedelmäinen, laktoositon, probiootteja;FI
+34625;Jogurtti, maustettu, rasvaa 2 %, -30% sokeria, luomu, laktoositon;FI
+34626;Jogurtti, maustettu, rasvaa 2 %, -50% sokeria, luomu, laktoositon;FI
+34630;Jogurtti, maustamaton, a+, rasvaa 2,5 %, laktoositon, d-vit 1 ug;FI
+34631;Jogurtti, maustettu, a+ lisäaineeton jogurtti, rasvaa 3 %, laktoositon;FI
+34634;Jogurtti, maustamaton, a+ kreikkalainen, rasvaa 2 %, laktoositon;FI
+34635;Jogurtti, turkkilainen/kreikkalainen, rasvaa 10 %, laktoositon;FI
+34636;Jogurtti, maustamaton, rasvaa 2,5 %, luomu, laktoositon;FI
+34637;Jogurtti, ihana rahkaisa jogurtti, arla, rasvaa 1,4%, 0,4 ug d-vit., laktoositon;FI
+34638;Jogurtti, maustamaton, luomu, rasvaa 3 %;FI
+34639;Jogurtti, maustettu, rasvaa 2%, arla luonto+ hunaja, d-vit 1ug, prob, laktoosit.;FI
+34640;Jogurtti, maustettu, rasvaa 2 %, arla luonto+, d-vit 1 ug, ab, laktoositon;FI
+34641;Jogurtti, maustettu, rasvaa 1,9%, arla luonto+, 0,8ug d-vit., prob., laktoositon;FI
+34642;Jogurtti, luonto+ rahkajogurtti, arla, rasvaa 1,2%, ab, 0,5 ug d-vit, laktoosit.;FI
+34643;Jogurtti, maustamaton, luonto+ rahka-, rasvaa 1,4%, 0,6 ug d-vit, ab, laktoosit.;FI
+34644;Jogurtti, maustettu, luonto+, rasvaton, d-vit 1 ug, ab, laktoositon;FI
+34645;Jogurtti, maustettu, rasvaton, vl;FI
+34646;Jogurtti, maustettu, arla protein, rasvaa 1 %, laktoositon;FI
+34647;Jogurtti, maustamaton, arla protein, rasvaa 1 %, laktoositon;FI
+34648;Jogurtti, maustettu, arla protein jogurttikombo, rasvaa n. 4 %, laktoositon;FI
+34649;Rahka, maustettu, rasvaton, keinotekoisesti makeutettu, laktoositon;FI
+34650;Jogurtti, juotava, rasvaton, keinotekoisesti makeutettu;FI
+34651;Kananmuna, kuoreton, luomu;FI
+34652;Jogurtti, maustettu, activia kevyt, rasvaton, osittain keinot. makeutettu, prob.;FI
+34653;Jogurtti, juotava, danup drink, rasvaa 0,8%;FI
+34654;Rahka, maustettu, rasvaa 4 %;FI
+34655;Rahka, maustettu, rasvaton, proteiinirahka, vl;FI
+34656;Jogurtti, maustamaton, rasvaa 4 %, laktoositon, probiootteja;FI
+34657;Jogurtti, maustettu, rasvaa 2 %, laktoositon;FI
+34658;Jogurtti, maustettu, rasvaa 3,5 %, probiootteja;FI
+34659;Jogurtti, maustettu, rasvaa 2 %, ab, vl;FI
+34668;Siemensekoitus;FI
+34679;Jogurtti, maustettu, rasvaton, vl, d-vit 1 ug;FI
+34680;Passionhedelmä;FI
+34688;Kookosvesi, makeuttamaton;FI
+34694;Papaija, kuorittu;FI
+34713;Makaroni, täysjyvä;FI
+34716;Maito, täysmaito, rasvaa 3 %, laktoositon maitojuoma, ei lisätty d-vitamiinia;FI
+34738;Mantelijuoma, makeuttamaton, alpro;FI
+34743;Papu, härkäpapu, kuivattu, härkäpapurouhe;FI
+34752;Tuorejuusto, mascarpone, rasvaa 38 %;FI
+34762;Tuorejuusto, rasvaa 15 %, maustamaton, laktoositon;FI
+34764;Tuorejuusto, rasvaa 25%, maustamaton, laktoositon;FI
+34765;Tuorejuusto, rasvaa 20 %, maustamaton;FI
+34786;Jogurtti, juotava, benecol tehojuoma aurinkoinen, rasvaa 2,1 %, kasvistanoleja;FI
+34790;Jogurtti, juotava, benecol tehojuoma, rasvaa 2,1 %, kasvistanoleja;FI
+34794;Soijavälipala, juotava, benecol tehojuoma, rasvaa 2,9 %, kasvistanolia;FI
+34797;Makeinen, salmiakkipastilli, sokeriton;FI
+34802;Makeutusaine, hermesetas gold, sakariinia, aspartaamia ja syklamaattia;FI
+34805;Makeutusaine, nestemäinen, hermesetas liquid, sakariini ja syklamaatti;FI
+34831;Suklaakonvehti, suklaatäyte;FI
+34835;Täysmehu, puolukkatäysmehu;FI
+34839;Soijajuoma, alpro soya vanilla, kalsiumia ja vitamiineja;FI
+34841;Juusto, polar 15 % rasvaa, vähemmän suolaa, valio;FI
+34844;Mantelijuoma, makeutettu, alpro;FI
+34845;Kookosjuoma, kookospähkinäjuoma, vitaminoitu, alpro;FI
+34846;Hasselpähkinäjuoma, vitaminoitu, alpro;FI
+34848;Kilohaili, tuore;FI
+34862;Maito, rasvaton, valio profeel voimamaitojuoma, d-vitamiinia 1 ug, laktoositon;FI
+34872;Pähkinäsekoitus, suolaton, paahdettu;FI
+34876;Kaurajuoma, oatly ikaffe, lisätty kalsiumia ja vitamiineja,;FI
+34893;Härkis, härkäpapuvalmiste;FI
+34902;Mifu, paistettava ruokarae, laktoositon;FI
+34905;Riisi-ohraseos;FI
+34907;Riisi-ruisseos;FI
+34909;Nyhtökaura;FI
+34914;Rasvaseos  60%, benecol voi & rypsi;FI
+34924;Rasvaseoslevite 70%, flora  & voi normaalisuolainen;FI
+34927;Kasvirasvalevite 39 %, lätta original;FI
+34932;Rasvaseoslevite 70%, creme bonjour voi & rypsiöljy, normaalisuolainen;FI
+34942;Kasvirasvalevite 75 %, keiju rypsi;FI
+34944;Kasvirasvalevite 55 %, keiju rypsi;FI
+34948;Margariini 60%, keiju alentaja;FI
+34964;Rasvaseoslevite 75%, ingmariini, normaalisuolainen, laktoositon;FI
+34966;Rasvaseoslevite 72%, oivariini, pehmeästi levittyvä, vl;FI
+34970;Rasvaseos 40%, valio better rahkariini, vl;FI
+34971;Kaurakuitunen, kaurarouhe;FI
+34972;Oliivi, keskiarvo, kivetön, suolaliemessä, vihreä;FI
+34974;Soijavälipala, alpro go on, hapatettu, maustamaton, rasvaa 3,6 %;FI
+34975;Soijavälipala, alpro go on, hapatettu, maustettu, rasvaa 2,9 %;FI
+34980;Juusto, polar, 20 % rasvaa, valio;FI
+34983;Heraproteiinikonsentraatti;FI
+34984;Kaakaojuoma, valio play maitokaakaojuoma, laktoositon;FI
+34985;Kahvijuoma, kylmä, maitokahvijuoma, d-vitamiinia, laktoositon;FI
+34986;Kahvijuoma, kylmä, maitokahvijuoma, rasvaa 1,8 %, laktoositon;FI
+34988;Kivennäisvesi, mehu-kivennäisvesi;FI
+34989;Vitamiinivesi, vitamin well, fruktoosia;FI
+34990;Ateriankorvike, heraproteiinijauhe, 74 % proteiinia;FI
+34991;Ateriankorvike, heraproteiinijauhe, 85 % proteiinia;FI
+34992;Ateriankorvike, proteiinipatukka, keskiarvo, n. 20 % proteiinia;FI
+34996;Ateriankorvike, soijaproteiinijauhe, n. 80 % proteiinia;FI
+34997;Ateriankorvike, heraproteiinijauhe, n. 90 % proteiinia;FI
+34998;Profeel proteiinijuoma, sokeroimaton, valio, d-vitamiinia 1 ug;FI
+34999;Urheilujuoma, palautusjuoma, gainomax;FI
+35000;Urheilujuoma, proteiinijuoma, protein shake, fast;FI
+35001;Voi, laktoositon, vähäsuolainen;FI
+35002;Urheilujuoma, proteiinijuoma, protein smoothie, fast;FI
+35003;Ateriankorvike, heraproteiinivälipalajauhe, profeel, 44 % proteiinia;FI
+35004;Urheilujuoma, proteiinijuoma, rasvaa 1,6 %;FI
+35005;Välipalapatukka, raakapatukka, bare bar;FI
+35006;Kasviöljyvalmiste, juokseva, 70%, keskiarvo;FI
+35007;Ateriankorvike, proteiinipatukka, 30 % proteiinia, kuitua, soft bar;FI
+35008;Margariini 60%, rainbow/pirkka,/x-tra laktoositon;FI
+35009;Margariini 60%, pirkka, suolainen;FI
+35011;Ateriankorvike, energiapatukka, vitaminoitu, keskiarvo;FI
+35012;Ateriankorvike, proteiinipatukka, keskiarvo, n. 40 % proteiinia;FI
+35013;Ateriankorvike, heraproteiinijauhe, n. 40 % proteiinia;FI

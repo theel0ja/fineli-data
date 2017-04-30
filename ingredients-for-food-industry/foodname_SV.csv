@@ -1,0 +1,1393 @@
+FOODID;FOODNAME;LANG
+1;Socker;SV
+2;Fruktsocker, fruktos;SV
+3;Sirap;SV
+4;Honung;SV
+5;Sötsak, karamell;SV
+6;Choklad, medelvärde;SV
+7;Chokladkonfekt med marmeladfyllning;SV
+8;Lakrits;SV
+9;Sötsak, marmelad;SV
+10;Marsipan, mandelmassa;SV
+11;Sötsak, toffee;SV
+12;Sötsak, salmiakpastill;SV
+14;Chokladstång med choklad, medelvärde;SV
+20;Kakaopulver, utan tillsatt socker;SV
+21;Kakaopulver, sockrat;SV
+24;Sorbitol;SV
+25;Gelatin;SV
+26;Jäst, färsk;SV
+27;Mjöl, majsstärkelse;SV
+28;Senap;SV
+30;Koksalt, joderat;SV
+31;Kryddsås, sojasås;SV
+32;Choklad, mörk choklad;SV
+33;Choklad, mjölkchoklad;SV
+34;Halva, sesamfröpreparat;SV
+35;Sötsak, sockerfri;SV
+36;Mineralsalt, medelvärde;SV
+37;Choklad, sockerfri, syntetiskt sötad;SV
+38;Köttbuljongpulver/koncentrat;SV
+39;Sötningsmedel, aspartam, pulver;SV
+40;Mellanmålsstång, fiberrik;SV
+43;Rågmalt;SV
+44;Chokladstång med chokladfyllning, medelvärde;SV
+62;Pastill, sötad med xylitol;SV
+63;Chokladstång, låg fetthalt;SV
+65;Xylitoltuggummi;SV
+66;Tuggummi;SV
+68;Kornstärkelse;SV
+69;Fruktpastill, gummi arabicum;SV
+70;Sötningsmedel, sackarin;SV
+73;Yoghurtrussin/yoghurtfrukt, överdragen torkad frukt;SV
+74;Bakpulver;SV
+75;Fiskbuljong, utspädd;SV
+79;Salt, ojodat bergssalt;SV
+100;Mjöl, rågmjöl, fullkornsmjöl;SV
+103;Rågflingor;SV
+110;Mjöl, vetemjöl, halvgrovt;SV
+111;Mjöl, grahammjöl;SV
+112;Mannagryn;SV
+113;Mannagryn, mörka;SV
+114;Veteflingor;SV
+115;Vetegroddar;SV
+116;Kli, vetekli;SV
+117;Makaroni, pasta;SV
+119;Makaroner, mörka;SV
+120;Nudel, vete;SV
+121;Pasta, spaghetti, makaroni;SV
+124;Mjöl, jästbrödsvetemjöl;SV
+125;Mjöl, mjölblandning, semlemjöl, vetemjöl, rågmjöl, vetekross;SV
+126;Mjöl, skorpmjöl;SV
+133;Våffelskal, våffelstrut;SV
+142;Mjöl, vetemjöl, bageriindustrin, nymalet;SV
+150;Mjöl, kornmjöl;SV
+151;Korngryn;SV
+152;Kornflingor;SV
+153;Havreflingor;SV
+154;Mjöl, mjölblandning, talkkuna-mjöl, innehåller korn;SV
+156;Ris, grötris, klibbigt;SV
+158;Fullkornsris;SV
+160;Mjöl, hirsgryn/-mjöl;SV
+161;Mjöl, bovetegryn/-mjöl;SV
+162;Mjöl, potatismjöl/-gryn, potatisstärkelse;SV
+167;Majskorn, torkad;SV
+168;Malt för svagdricka/memma;SV
+170;Kli, havrekli;SV
+172;Pasta, spenatspaghetti, innehåller ägg;SV
+173;Havremakaroner, innehåller vete och havre;SV
+175;Kross, vetekross av fullkorn;SV
+176;Kross, rågkross;SV
+182;Mjöl, rismjöl/-flingor;SV
+183;Mjöl, fullkornsrismjöl;SV
+184;Majschips, tacoskal;SV
+185;Mjöl, glutenfri mjölblandning, vetestärkelsepreparat;SV
+189;Mjöl, råg-vetemjölsblandning;SV
+202;Potatis, torkad;SV
+203;Potatischips;SV
+204;Potatis, färskpotatis nypotatis;SV
+205;Potatis, skalad;SV
+206;Potatismospulver, otillrett;SV
+207;Pommes frites, djupfryst;SV
+209;Potatisflingor;SV
+300;Morot;SV
+302;Morot, torkad;SV
+303;Kålrot;SV
+304;Rova;SV
+305;Rödbeta;SV
+307;Ättiksrödbeta;SV
+308;Rädisa;SV
+309;Palsternacka;SV
+310;Jordärtskocka;SV
+311;Rotselleri;SV
+312;Svartrot;SV
+320;Vitkål, huvudkål;SV
+321;Rödkål;SV
+322;Blomkål;SV
+324;Broccoli;SV
+326;Grönkål, bladkål;SV
+327;Rosenkål, brysselkål;SV
+329;Kålrabbi;SV
+330;Bladsallat, kruksallat, lollo rosso;SV
+331;Isbergssallat, frasig, amerikansk sallat;SV
+333;Persilja;SV
+334;Nässla;SV
+335;Lök, gul lök;SV
+336;Lök, torkad;SV
+337;Purjolök;SV
+338;Rabarber;SV
+339;Bladselleri;SV
+340;Sparris, inlagd;SV
+342;Svamp, sopp, kremla;SV
+343;Svamp, riska, saltad;SV
+344;Svamp, konserv, i ättika;SV
+345;Champinjoner;SV
+346;Gurka;SV
+347;Ättiksgurka, utan tillsatt socker;SV
+348;Kryddgurka, sockersaltad;SV
+350;Pumpa;SV
+351;Sallad, syltad pumpa;SV
+352;Tomat;SV
+353;Tomatketchup;SV
+354;Tomatpuré;SV
+355;Paprika, medelvärde;SV
+356;Grönsaksblandning, morot, blomkål, ärter, bönor;SV
+358;Juice, grönsaksjuice;SV
+359;Kinakål;SV
+360;Mangold;SV
+362;Äggplanta, aubergine;SV
+363;Majskorn;SV
+364;Trädgårdskrasse;SV
+367;Kantarell;SV
+368;Stenmurkla;SV
+369;Dill, färsk;SV
+370;Ärter, gröna, färska;SV
+371;Ärter, gröna, torkade;SV
+372;Bönor, gröna brytbönor, färska;SV
+373;Bönor, bruna/vita, medelvärde;SV
+375;Nöt, hasselnöt;SV
+376;Nöt, valnöt;SV
+377;Kastanjer;SV
+378;Nöt, jordnöt;SV
+379;Mandel;SV
+380;Mjöl, sojamjöl, fet;SV
+381;Mjöl, sojamjöl, låg fetthalt;SV
+382;Kokosflingor;SV
+383;Nöt, saltad;SV
+384;Groddar, medelvärde, alfalfa, mungbönor;SV
+385;Sesamfrön, med skal;SV
+386;Paprika, röd;SV
+387;Paprika, grön;SV
+388;Paprika, gul;SV
+389;Squash, zucchini;SV
+390;Juice, tomatjuice;SV
+391;Sojabönor, torkade;SV
+392;Gräslök;SV
+393;Vitlök;SV
+394;Sallad, gurksallad, gurkpickels, gurkrelish;SV
+395;Bönor, vita, kokta;SV
+398;Krossade tomater;SV
+399;Linser, gröna/bruna, torkade;SV
+401;Äpple, torkat;SV
+408;Aprikos, i sockerlag;SV
+409;Aprikos, torkad;SV
+411;Persika, konserv i sockerlag;SV
+412;Persika, torkad;SV
+417;Ananas, konserv, i sockerlag;SV
+423;Vindruvor, medelvärde, kärnfria, gröna/mörka;SV
+427;Blandad frukt, torkad;SV
+428;Russin;SV
+431;Oliv, medelvärde, vägd med kärna, i olja, grön/svart;SV
+432;Fruktsallad, konserv, i sockerlag;SV
+433;Juice, äppeljuice, vitamin c;SV
+434;Juice, apelsinjuice, vitamin c;SV
+435;Juice, grapejuice, vitamin c;SV
+436;Juice, vitamin c, medelvärde;SV
+437;Juice, citronjuice, utspädd;SV
+438;Juice, ananasjuice, vitamin c;SV
+440;Lingon;SV
+441;Tranbär;SV
+442;Blåbär, skogsblåbär;SV
+444;Svart vinbär;SV
+445;Rött vinbär;SV
+446;Krusbär;SV
+447;Jordgubbe;SV
+448;Hallon;SV
+449;Hjortron;SV
+450;Bärsylt, medelvärde;SV
+451;Saft, ångad, outspädd, sockrad;SV
+452;Saft, ångad, svartvinbärssaft, outspädd, sockrad;SV
+453;Saft, ångad, outspädd, sockerfri;SV
+454;Bär, medelvärde;SV
+455;Havtorn;SV
+456;Bärmarmelad;SV
+457;Rönnbär;SV
+458;Saft, svartvinbärs-lingondryck;SV
+459;Saft, lingonsaft, outspädd;SV
+461;Saft, ångad, utspädd, sockrad;SV
+462;Saft, ångad, svartvinbärssaft, utspädd, sockrad;SV
+463;Saft, ångad, utspädd, sockerfri;SV
+469;Juice, fem frukters juice, vitamin c;SV
+471;Ananas, konserv, i egen juice;SV
+472;Äppelmos, osötat;SV
+473;Fruktdryck, nektar, frukthalt 50 %;SV
+474;Juice, bärjuice, osötad;SV
+476;Sylt, sötad med fruktos;SV
+477;Melon, nätmelon, cantaloupe, skalad;SV
+478;Bärjuice, nektar, bärhalt 50 %;SV
+500;Smör;SV
+530;Bageriindustrimargarin 80 %, bakning;SV
+531;Matolja för livsmedelindustri, 70 % rypsölja, 30 % palmolja;SV
+535;Rypsolja;SV
+536;Olivolja;SV
+537;Jordnötolja;SV
+540;Solrosolja;SV
+541;Matolja, medelvärde, 87 % ryps-, 8 % solros- och 5 % olivolja;SV
+542;Sojaolja;SV
+543;Majsolja;SV
+550;Stekfett, ister;SV
+552;Kokosfett 100 %;SV
+553;Talg, rått nötfett;SV
+562;Majonnäs, hamburgaredressing, 60 % fett;SV
+563;Salladsdressing, fransk;SV
+565;Matfettsblandning 40 %, låg salt- och laktoshalt, kevyt levi;SV
+568;Margarin 60 %, rainbow/pirkka/eldorado/k-menu;SV
+570;Matfettsblandning 40 %, låg laktoshalt, kevyt levi;SV
+576;Smör, osaltat;SV
+578;Majonnäs, 27-33 % fett;SV
+579;Salladsdressing, fett <17 %, låg fetthalt;SV
+585;Smör, kraftigt saltat;SV
+593;Bakmargarin 80 %, pirkka/rainbow;SV
+597;Matfettsblandning 75 %, medelvärde av industriella produkter;SV
+598;Smörolja 100%, mjölkfett;SV
+600;Mjölk, gårdsmjölk, råmjölk, 4,4 % fett, utan tillsatt vitamin d;SV
+602;Råmjölk, colostrum;SV
+604;Mjölk, getmjölk;SV
+606;Mjölk, fettfri, 1 ug vitamin d;SV
+611;Surmjölk, hushållssurmjölk, 0,8 % fett, 1 ug vitamin d;SV
+612;Surmjölk, fettfri, 1 ug vitamin d;SV
+613;Surmjölk, kärnmjölk, 0,3 % fett, 1 ug vitamin d;SV
+615;Gräddfil, 10-12 % fett;SV
+616;Surmjölk, acidophilus-surmjölk, 2,5 % fett, 1 ug vitamin d, probiotika;SV
+617;Fil, naturellt, 3,5 % fett;SV
+618;Fil, naturellt, lättfil, 2 % fett;SV
+619;Yoghurt, naturell, 2,5 % fett, låg laktoshalt;SV
+622;Kvarg, naturell, <0,5 % fett;SV
+627;Mjölk, ettans mjölk , 1 ug vitamin d;SV
+628;Crème fraiche, 28 % fett;SV
+629;Grädde, vispgrädde, 38 % fett, låg laktoshalt, ultrapastöriserad;SV
+630;Smetana, ca 40 % fett;SV
+631;Grädde, vispgrädde, 38 % fett;SV
+632;Matlagningsgrädde, 19 % fett, kaffegrädde;SV
+633;Grädde, kaffegrädde, lättgrädde, 10 % fett, låg laktoshalt;SV
+635;Grynost, fettfri, låg laktoshalt;SV
+636;Fil med sylt, ettans fil, 1 % fett, låg laktoshalt;SV
+637;Yoghurt, naturell, fettfri, låg laktoshalt, 0,5 ug vitamin d;SV
+639;Yoghurt, smaksatt, fettfri;SV
+640;Ost, vitmögelost, 26-30 % fett, camembert/brie;SV
+641;Ost, gräddost, 30 % fett, turunmaa/oltermanni/korsholm/masurkka;SV
+642;Ost, emmentalost, 27-30 % fett, rödstämplad;SV
+643;Ost, hård småhålig ost, 24-27 % fett, edam;SV
+644;Ost, halvhård ost, 9-11 % fett, lätt, edam/kadett;SV
+645;Ost, getost, 20-25 % fett, hård ost;SV
+647;Smältost, 20-24 % fett, medelfet;SV
+648;Smältost, 27-35 % fett, helfet;SV
+649;Grynost, 2-5 % fett;SV
+650;Ost, hemost, 9-14 % fett, bondost;SV
+653;Ost, blåmögelost, 27-30 % fett, aura/danazole, medelvärde;SV
+654;Ost, gouda/salaneuvos, medelvärde, 28-30 % fett;SV
+655;Ost, halvhård ost, 25-35 % fett, lappi/polar/småland/billinge/rustholli;SV
+657;Ost, brödost, 17-23 % fett;SV
+658;Färskost, 36-44 % fett, helfet, kasakka/musta-pekka;SV
+659;Smältost, 9-12 % fett, fettsnål;SV
+661;Glass, mjukglass, soft ice med våffel;SV
+663;Glass, gräddglass;SV
+664;Glass, gräddglasspinne med chokladöverdrag, medelvärde;SV
+665;Glass, gräddglasstrut;SV
+666;Glass, mjölkglass;SV
+667;Glass, sockerfri, syntetiskt sötad, 6,5 % fett;SV
+668;Glass, gräddglass, > 12 % fett, medelvärde;SV
+669;Glass, fettfri;SV
+672;Mjölkpulver, fettfritt;SV
+675;Mjölk, lättmjölk, låg laktoshalt, 1 ug vitamin d;SV
+680;Fil, naturellt, 1 % fett, ettans fil;SV
+682;Färskost, 30 % fett, smaksatt, creme bonjour/cantadou;SV
+684;Mjölk, lättmjölk, 1 ug vitamin d;SV
+685;Yoghurt, smaksatt, fettfri, delvis syntetiskt sötad, medelvärde;SV
+686;Yoghurt, smaksatt, 7 % fett;SV
+687;Yoghurt, matlagningsyoghurt, 6-8 % fett, låg laktoshalt;SV
+689;Mjölk, helmjölk, 1 ug vitamin d;SV
+690;Ost, salladost, 18 % fett, av komjölk, i saltlag;SV
+691;Ost, emmentalost, 27-30 % fett, storhålig, blåstämplad/gruyere;SV
+698;Ost, cheddar, 34 % fett;SV
+699;Matlagningsgrädde, vegetabilisk fettblandning, 15 % fett;SV
+701;Svinkropp, medelfet;SV
+703;Griskotlett/rygg, tjockt fettlager;SV
+704;Skinka, med fläsk;SV
+705;Grisbog;SV
+706;Sidfläsk av gris;SV
+707;Bacon, fet;SV
+708;Ryggfläsk av gris, späck;SV
+709;Grislägg;SV
+711;Köttfärs, gris-nöt;SV
+712;Köttfärs, nötfärs, låg fetthalt, 7 % fett;SV
+713;Griskött, medelvärde;SV
+714;Nötkött, fett, medelvärde;SV
+716;Nötkropp, medelfet, 13 % fett;SV
+718;Nötstek;SV
+719;Nötbog/högrev, soppkött av nöt;SV
+720;Nötlägg;SV
+721;Nötbringa;SV
+722;Nöt, yttre filé;SV
+723;Kållapp;SV
+726;Kalvstek, rå;SV
+730;Lammkött, låg fetthalt;SV
+731;Lammkött, fett;SV
+732;Lammstek, rå;SV
+734;Renkött;SV
+735;Älgkött;SV
+736;Hare;SV
+737;Kanin;SV
+741;Köttkonserv, nötkött;SV
+743;Köttkonserv, gris-nöt;SV
+747;Aladåb på kött;SV
+748;Grisstek, låg fetthalt;SV
+750;Höna;SV
+751;Kyckling, hel, med skinn, rå;SV
+752;Kalkon med skinn;SV
+753;Skogsfågel;SV
+754;Kyckling, strimlad;SV
+775;Pålägg av helt kött, bastupalvad skinka, 6 % fett;SV
+776;Pålägg av helt kött, pålägg av nötkött, 2,8 % fett;SV
+779;Pålägg av helt kött, kokt skinka, 3 % fett;SV
+786;Lever, nöt;SV
+787;Lever, gris;SV
+788;Lever, kyckling;SV
+789;Lever, ren;SV
+790;Lever, medelvärde;SV
+791;Njure;SV
+792;Hjärta, nöt;SV
+793;Tunga, nöt;SV
+794;Blod;SV
+797;Pålägg av helt kött, renpålägg, kallrökt;SV
+799;Pålägg av helt kött, skinkpålägg, låg fetthalt, 3 % fett;SV
+800;Strömming, färsk, östersjön;SV
+801;Strömming, saltad, östersjön;SV
+802;Strömming, rökt, östersjön;SV
+803;Sill, saltad i tunna;SV
+804;Torsk;SV
+805;Gös;SV
+806;Rödfisk, rökt;SV
+807;Hälleflundra, rökt;SV
+809;Mujka, insjö;SV
+810;Mujka, insjö, saltad;SV
+811;Mujka, insjö, rökt;SV
+812;Abborre;SV
+813;Gädda;SV
+814;Braxen;SV
+815;Sik;SV
+816;Sik, rökt;SV
+817;Lax, hel;SV
+818;Lax, gravad;SV
+819;Lake;SV
+820;Flundra;SV
+821;Ål;SV
+822;Regnbågslax, hel, medelvärde;SV
+823;Öring;SV
+824;Fisk, medelvärde, strömming/mujka/abborre/gädda;SV
+825;Nejonöga, rökt;SV
+826;Sej, djupfryst;SV
+828;Tonfisk, i olja;SV
+829;Ansjovis;SV
+830;Lax, konserv, i olja;SV
+831;Sardin, medelvärde, i olja och tomatsås;SV
+832;Romkaviar, mörk störrom;SV
+833;Romkräm;SV
+834;Blåmussla, i vatten;SV
+835;Räka;SV
+836;Kräfta;SV
+837;Sill, krydd-/saltsill, medelvärde;SV
+838;Strömming, krydd-/saltströmming, medelvärde;SV
+844;Braxen, rökt;SV
+845;Mört;SV
+846;Rödfisk, djupfryst;SV
+848;Regnbågslaxfilé, hav;SV
+851;Äggula, 34 % av äggmassan;SV
+852;Äggvita, 66 % av äggmassan;SV
+855;Vaktelägg;SV
+856;Fisk, rökt, medelvärde, fettsnål;SV
+857;Fisk, rökt, medelvärde, fet;SV
+858;Ägg, utan skal;SV
+859;Sill i vitlöks-/senapssås;SV
+860;Strömming i dillsås/senapssås;SV
+862;Tonfisk;SV
+863;Ostron, vägda med skal;SV
+864;Snigel;SV
+865;Bläckfisk;SV
+866;Hummer;SV
+870;Regnbågslaxfilé, gravad;SV
+871;Laxfilé;SV
+900;Kaffe, kaffedryck, medelvärde;SV
+901;Te;SV
+902;Öl, mellanöl, 4,5 vol-% alkohol;SV
+903;Öl, a-öl, 5- 5,5 vol-% alkohol;SV
+904;Vin, medelvärde, 8-15 vol-% alkohol;SV
+905;Starkvin, sött, bitter, sherry, vermouth, madeira, fruktvin;SV
+906;Starksprit, vodka, gin;SV
+907;Konjak/rom/whiskey, 40 vol-% alkohol;SV
+908;Likör, 20-30 vol-% alkohol;SV
+909;Gin long drink, 5,5 vol-% alkohol;SV
+910;Läskedryck;SV
+911;Cider söt, <3 vol-% alkohol;SV
+912;Mjöd;SV
+913;Öl, i-öl, <2,8 vol-% alkohol;SV
+914;Svagdricka;SV
+915;Mineralvatten;SV
+917;Te, citrontepulver, otillredd, snabbte, sötat med socker;SV
+920;Läskedryck, sockerfri, light;SV
+921;Mineralvatten, låg natriumhalt;SV
+922;Vatten, kranvatten;SV
+923;Te, örtte;SV
+924;Rödvin;SV
+925;Vitt vin, torrt;SV
+926;Vitt vin, sött;SV
+928;Läskedryck, coladryck, medelvärde;SV
+929;Vinäger, vinättika;SV
+930;Kaffe, filterkaffe;SV
+931;Kaffe, pannkaffe;SV
+932;Kaffe, cappuccino, osötad, helmjölk;SV
+933;Starkspritsättika;SV
+934;Honungs-äppelvinäger;SV
+936;Svagt vin, 4-5 vol-% alkohol;SV
+937;Tee, grönt te;SV
+938;Läskedryck, delvis syntetiskt sötad;SV
+939;Cider, söt, 4,7 vol-% alkohol;SV
+940;Öl, starkt, 7,5- 8 vol-% alkohol;SV
+941;Läskedryck, coladryck light, delvis syntetiskt sötad;SV
+942;Gräddlikör, 15-17 vol-% alkohol;SV
+946;Stärkelsesirap, glukossirap;SV
+1554;Ostsnacks;SV
+5007;Smörgåspickels;SV
+11001;Ljus rotsak, medelvärde;SV
+11002;Mörkgröna bladgrönsaker, medelvärde;SV
+11004;Rom, medelvärde;SV
+11005;Fyrkornsflingor;SV
+11007;Nypon;SV
+11012;Jordgubbssylt, hemlagad, socker 54 g/100 g;SV
+11013;Apelsinmarmelad;SV
+11014;Palmolja;SV
+11030;Mjöl, rågsiktmjöl;SV
+11045;Apelsin, skalad;SV
+11046;Mandarin, skalad;SV
+11047;Grape, skalad;SV
+11048;Citron, skalad;SV
+11049;Banan, skalad;SV
+11050;Kiwi, skalad;SV
+11051;Persika/nektarin, skalad, kärnfri;SV
+11052;Körsbär, kärnfri;SV
+11053;Plommon, kärnfri;SV
+11054;Aprikos, medelvärde, kärnfri;SV
+11055;Vattenmelon, skalad;SV
+11056;Ananas, skalad;SV
+11057;Avokado, skalad, kärnfri;SV
+11059;Tonfisk, medelvärde;SV
+11060;Äpple, inhemskt, skalat;SV
+11061;Äpple, utländskt, skalat;SV
+11062;Päron, skalat;SV
+11063;Plommon, kärnfri, torkad;SV
+11064;Champinjoner, konserv;SV
+11065;Nyponpuré, sockerfri;SV
+11067;Tonfisk, i vatten;SV
+11069;Vin, alkoholfritt;SV
+11071;Specialfrukt, exotisk, medelvärde, mango/papaya, skalad;SV
+11072;Surgurka;SV
+11074;Groddar, alfalfa-groddar;SV
+11086;Nöt, cashew-nöt;SV
+11087;Sesampasta tahini, utan salt;SV
+11089;Kikärt i osaltat vatten, kaffeärt;SV
+11090;Bönor, vita bönor, tomatsås;SV
+11092;Vasslepulver, för livsmedelsindustri;SV
+11130;Färskost, 6-11 % fett, smaksatt;SV
+11131;Ost, vitmögel-/vitblåmögelost 40 % fett, vit castello/blå castello/saga;SV
+11132;Färskost, vegetabilisk fettblandning, 24-30 % fett;SV
+11133;Ost, halvhård ost, 15-18 % fett, kevyt turunmaa/edam 17/adam/maigre;SV
+11134;Basilika, färsk;SV
+11135;Bambuskott;SV
+11136;Grädde, vispgrädde, lätt, 25 % fett;SV
+11142;Saftis, medelvärde;SV
+11145;Mjölk, fettfri, låg laktoshalt, 1 ug vitamin d;SV
+11146;Ost, brödost, 17-23 % fett, låg laktoshalt;SV
+11148;Glass, gräddglasspinne, choklad, medelvärde;SV
+11149;Glass, saftis-glasspinne, medelvärde;SV
+11150;Kyckling, marinerad, utan skinn, rå;SV
+11152;Gräddfil, låg laktoshalt, 10-12 % fett;SV
+11154;Fil, naturellt, lättfil 2 % fett, låg laktoshalt;SV
+11155;Grynost, 2-5 % fett, låg laktoshalt;SV
+11156;Kvarg, naturell, <0,5 % fett, låg laktoshalt;SV
+11157;Ost, 28 % fett, inneh. veg. fett;SV
+11159;Crème fraiche, 15-18 % fett;SV
+11164;Dessertsås, vanillinsås, vispbar;SV
+11165;Surmjölk, fettfri, låg laktoshalt, 1 ug vitamin d;SV
+11172;Glass, glasspinne, vegetabilisk fett, chokladöverdrag;SV
+11173;Glass, glasstrut, strut, vegetabilisk fett;SV
+11177;Svartpeppar;SV
+11178;Vitpeppar;SV
+11182;Paprikapulver;SV
+11188;Vanillinsocker;SV
+11191;Oregano, torkad;SV
+11194;Timjan;SV
+11196;Aromsalt/örtsalt, salthalt 71 %;SV
+11197;Kryddsås, brun, hp-sås;SV
+11198;Druvsocker, glukos;SV
+11203;Honungsmelon, skalad;SV
+11210;Pastill sötad med xylitol, c-vitaminerad;SV
+11211;Ost, fetaost, 25 % fett, av getmjölk, i saltlag;SV
+11212;Solrosfrön;SV
+11287;Vegetabilisk matfett 28%, mini lätta;SV
+11503;Juice, vinddruvsjuice;SV
+11505;Bananchips, torkad banan;SV
+11507;Risstärkelse;SV
+11512;Kotlettrad;SV
+11513;Grisfilé, innerfilé, 4,5 % fett;SV
+11521;Ris, långkornigt, klibbfritt;SV
+11522;Ris- och rågkrossblandning;SV
+11550;Färskost, 30 % fett, smaksatt, låg laktoshalt;SV
+11551;Kalkon bröstfilé;SV
+11553;Fruktsylt, medelvärde;SV
+11557;Juice, citronjuice, outspädd;SV
+11558;Juice, apelsinjuice, kalcium;SV
+11562;Köttfärs, nötfärs, 17 % fett;SV
+11563;Kyckling, kycklingben, med skinn, rå;SV
+11564;Kyckling, bröstschnitzel, med skinn;SV
+11565;Kyckling, bröstfilé, utan skinn, strimlor, schnitzel;SV
+11571;Färskost, 11 % fett, naturell;SV
+11572;Mjölk, fettfri, tillsatt kalcium, 0,5 ug vitamin d;SV
+11580;Nötmellanmål, sött, stång/kaka;SV
+11587;Bärdryck, nypondryck, pro viva, havre, probiotika;SV
+11589;Pepparrot;SV
+11680;Potatis, skalad, storköksprodukt, skyddsgasförp.;SV
+11685;Stekolja, palmolja 50 %, palmkärnsolja 25 %, rypsolja 25 %;SV
+11687;Risdryck, naturell;SV
+11689;Sparris, rå, rensad;SV
+11690;Majonnäs, låg fetthalt, 15 % fett;SV
+11691;Rom, medelvärde, saltad;SV
+11695;Rypsolja, kallpressad;SV
+11700;Sojaprotein koncentrat, 58 % protein;SV
+11701;Palmkärnsolja;SV
+11723;Yoghurt, smaksatt, 3 % fett;SV
+11726;Fil, frukt-/bärfil, 1 % fett, låg laktoshalt;SV
+11727;Yoghurt, smaksatt, 2,5 % fett;SV
+11734;Shiitakesvamp;SV
+11735;Ostronskivling;SV
+11736;Yoghurt, naturell, 1,5 % fett;SV
+11739;Vegetabilisk matfett 35%, becel pro-activ;SV
+28905;Mjöl, vetemjöl, durum;SV
+28909;Makaroner, rågmakaroner;SV
+28910;Ris, mörkt;SV
+28913;Potatis, vägd med skal;SV
+28915;Melon, nät-/cantaluponmelon, vägd med skal;SV
+28916;Äpple, medelvärde, vägd med skal;SV
+28917;Päron,  vägd med skal;SV
+28918;Plommon, mörk, vägd med kärna;SV
+28919;Plommon, mörk, vägd med kärna, torkad;SV
+28920;Körsbär, vägd med kärna;SV
+28921;Aprikos, medelvärde, vägd med kärna;SV
+28922;Persika/nektarin, medelvärde, vägd med kärna;SV
+28923;Ananas, färsk, vägd med skal;SV
+28924;Apelsin, vägd med skal;SV
+28925;Citron, medelvärde, vägd med skal;SV
+28926;Grape, medelvärde, vägd med skal;SV
+28927;Korv, vegetarisk korv med soja;SV
+28928;Vinblad, inlagd i saltlag;SV
+28929;Köttfärs, lammfärs, 14 % fett;SV
+28930;Köttfärs, kycklingfärs;SV
+28931;Vattenmelon, vägd med skal;SV
+28932;Vindruva, medelvärde, vägd med kärnor, grön/mörk;SV
+28933;Avokado, vägd med skal och kärna;SV
+28934;Banan, vägd med skal;SV
+28935;Mandarin, medelvärde, vägd med skal;SV
+28936;Fikon, vägd med skal, torkad;SV
+28937;Dadel, torkad, vägd med kärna;SV
+28938;Oliv, medelvärde, utan kärna, inlagd i olja, grön/svart;SV
+28939;Kiwi, vägd med skal;SV
+28941;Äpple, inhemsk, medelvärde, med skal;SV
+28942;Äpple, utländsk, medelvärde, med skal;SV
+28944;Honungsmelon, vägd med skal;SV
+28945;Köttfärs, kalkonfärs, 5-6 % fett;SV
+28946;Köttfärs av gris, 16 % fett;SV
+28947;Bacon, filé, fett 18 g;SV
+28962;Majskolv, hel;SV
+28991;Cafe au lait, osötad, helmjölk;SV
+28992;Mjölk, helmjölk, kokt;SV
+28993;Caffe latte, osötad, helmjölk;SV
+29008;Grönsaksbuljongtärning;SV
+29009;Hönsbuljongtärning, innehåller vete;SV
+29010;Fiskbuljongtärning;SV
+29014;Kokosmjölk;SV
+29055;Nudel, risnudel;SV
+29060;Ost, salladost, 12-15 % fett, av komjölk, i saltlag;SV
+29064;Mjölk, lättmjölk, laktosfri, 1 ug vitamin d;SV
+29065;Matlagningsgrädde, 15 % fett;SV
+29066;Grädde, vispgrädde, 35 % fett;SV
+29070;Energidryck, vitaminerad;SV
+29089;Yoghurt, drickbar, 0,1 % fett;SV
+29091;Cappuccino, osötad, fettfri mjölk;SV
+29128;Fil, naturell, fettfri;SV
+29135;Cider, torr, 4,7 vol-% alkohol;SV
+29150;Saftdryck, lingon, utspädd;SV
+29155;Kakaosmör;SV
+29156;Choklad, vit choklad;SV
+29159;Margarin 40 %, medelvärde av industriella produkter;SV
+29160;Ägg, vägt med skal;SV
+29207;Strömming, filé;SV
+29208;Couscous;SV
+29210;Mjölk, lättmjölk, utan tillsatt vitamin d, ekologisk;SV
+29211;Mjölk, fettfri, utan tillsatt vitamin d, ekologisk;SV
+29212;Surmjölk, ekologisk, fettfri, utan tillsatt vitamin d;SV
+29215;Saftdryck, vitamin c;SV
+29217;Pepparriska;SV
+29228;Ost, fetaost, getmjölk, i olja;SV
+29237;Kli, rågkli;SV
+29239;Ost, mozzarella, 20 % fett;SV
+29409;Margarin 60 %, becel laktosfri;SV
+29410;Stensopp;SV
+29412;Modersmjölksersättning, pulver, medelvärde;SV
+29413;Modersmjölksersättning, drickfärdig, medelvärde;SV
+29496;Makaroni, glutenfri;SV
+29499;Mjöl, mjölblandning, naturligt glutenfri, ris-majs-potatis;SV
+29501;Tonic vatten;SV
+29685;Juice, plommonjuice, sockerfri;SV
+29687;Sötsak, salmiak;SV
+29819;Gefilus surmjölk, fettfri;SV
+29822;Mjöl, majsmjöl, grovt, polentamjöl;SV
+29823;Mjöl. majsmjöl, finmalet;SV
+29975;Måltidsersättning, proteindryckpulver, herbalife formula 1, 35 % protein;SV
+30051;Pastill, sötad med xylitol;SV
+30187;Majssnack, utan salt;SV
+30190;Mjöl, havremjöl;SV
+30193;Pasta, vete, råg och korn;SV
+30194;Sportdryck, powerade, gatorade;SV
+30207;Sojadryck, kalcium;SV
+30208;Havredryck, mjölkfri, kalcium;SV
+30209;Havredryck, mjölkfri, kalcium och vitaminer;SV
+30210;Havredryck, mjölkfri, oat drink;SV
+30212;Risdryck, kalcium;SV
+30214;Vattenkastanj;SV
+30221;Ris-havreblandning;SV
+30223;Batat, skalad;SV
+30224;Läskedryck, coladryck light, syntetiskt sötad;SV
+30265;Kycklingvinge, med skinn;SV
+30268;Kycklingvinge, utan skinn;SV
+30271;Kycklingvinge, marinerad, rå;SV
+30273;Påläggskorv, skinkkorv, 16 % fett;SV
+30274;Påläggskorv, balkankorv, 21,5 % fett;SV
+30275;Påläggskorv, gouterkorv, 13,8 % fett;SV
+30278;Mujka, inlagd i tomatsås;SV
+30279;Påläggskorv, lördagskorv, lätt, innehåller mjölkprotein, 14 % fett;SV
+30281;Knackkorv, ost;SV
+30292;Länkkorv, innehåller ost;SV
+30294;Påläggskorv, lättsaltad, 3,5 % fett;SV
+30295;Påläggskorv, balkankorv, lätt, 10 % fett;SV
+30305;Medvurst, lätt, 15 % fett;SV
+30306;Medvurst;SV
+30310;Smältost, 5 % fett, fettsnål;SV
+30317;Knackkorv, medelvärde av industriella produkter;SV
+30318;Länkkorv, medelvärde;SV
+30319;Påläggskorv, jaktkorv, 17 % fett, medelvärde av industriella produkter;SV
+30321;Grillkorv, lätt, medelvärde av industriella produkter;SV
+30322;Grynkorv, medelvärde av industriella produkter;SV
+30324;Länkkorv, lätt, medelvärde;SV
+30325;Knackkorv, lätt, medelvärde av industriella produkter;SV
+30369;Råkorv, syskonkorv;SV
+30370;Grillkorv, ost, köttig;SV
+30371;Korv, blodkorv, svartkorv;SV
+30372;Leverkorv eller pastej, medelvärde;SV
+30373;Leverkorv eller pastej, lätt, medelvärde;SV
+30374;Grillkorv, ost;SV
+30380;Te, iste;SV
+30388;Saftdryck, delvis syntetiskt sötad;SV
+30390;Saftdryck, lätt, delvis syntetiskt sötad;SV
+30391;Juice, päronjuice;SV
+30392;Saft, saftdryck;SV
+30394;Fruktsaft, koncentrat, medelvärde;SV
+30395;Juice, tranbär-lingonjuice;SV
+30396;Saftdryck, sockerfri, syntetiskt sötad;SV
+30402;Ost, halvhård ost, 5 % fett, turunmaa;SV
+30406;Grynost, 2-5 % fett, laktosfri;SV
+30423;Mjölk, fettfri, laktosfri, 1 ug vitamin d;SV
+30428;Ost, blåmögelost, 17 % fett, aura;SV
+30429;Ost, vitmögelost, 16 % fett, camembert/brie;SV
+30430;Cider, torr, 5,5 vol-% alkohol;SV
+30432;Ciderdryck, 0,7 vol-% alkohol;SV
+30440;Rischoklad;SV
+30443;Färskost, 15 % fett, smaksatt, creme bonjour light;SV
+30444;Tomat, soltorkad, i olja;SV
+30449;Fil, naturellt, 1 % fett, ettans fil, låg laktoshalt;SV
+30450;Fil, frukt-/bärfil, 2 % fett, låg laktoshalt;SV
+30451;Mineralvatten, sötad med fruktos;SV
+30452;Yoghurtdryck, 0,1 % fett, låg laktoshalt;SV
+30454;Gräddfil, låg laktoshalt, 6 % fett;SV
+30455;Gräddfil, låg laktoshalt, 3,5 % fett;SV
+30456;Yoghurt, smaksatt, 2 % fett, låg laktoshalt, 0,5 ug vitamin d;SV
+30462;Yoghurt, smaksatt, 1,5 % fett, låg laktoshalt;SV
+30464;Yoghurt, smaksatt, fettfri, laktosfri;SV
+30570;Maltodextrin;SV
+30572;Grillkorv, medelvärde av industriella produkter;SV
+30573;Grillkorv, köttig, medelvärde av industriella produkter;SV
+30574;Saft, ångad svartvinbärsaft, outspädd, sockerfri;SV
+30575;Saft, ångad svartvinbärsaft, utspädd, sockerfri;SV
+30576;Saft, gefilus, probiotika, medelvärde av industriella produkter;SV
+30606;Juice, vitamin c, vitamin d, probiotika;SV
+30607;Saftdryck, fiber;SV
+30608;Yoghurt, smaksatt med sylt, fettfri;SV
+30610;Smör, låg salthalt;SV
+30612;Vegetabilisk matfett 30 %, keiju kevyt;SV
+30616;Margarin 40 %, rainbow/pirkka;SV
+30617;Vegetabilisk matfett 70%, keiju laktosfri, 20 ug vitamin d;SV
+30619;Margarin 60 %, keiju normal saltad, 20 ug vitamin d;SV
+30621;Margarin 40 %, keiju lätt laktosfri, 20 ug vitamin d;SV
+30629;Margarin 60 %, kultarypsi;SV
+30631;Margarin 60 %, industriell, medelvärde av industriella produkter;SV
+30633;Fruktsaft, koncentrat, vitaminerad;SV
+30636;Cider, lätt, 4,7 vol-% alkohol;SV
+30638;Gin long drink, lätt, 4,7 vol-% alkohol;SV
+30641;Ägg, omega, utan skal;SV
+30646;Matlagningsgrädde, 5 % fett, låg laktoshalt;SV
+30665;Måltidsersättning, proteinrik stång, medelvärde, ca 30 % protein;SV
+30673;Kvarg, smaksatt, 5 % fett;SV
+30792;Kycklinglår, utan skinn;SV
+30914;Fänkål;SV
+30925;Majonnäs, 80 % fett;SV
+30926;Majonnäs, fettfri;SV
+30968;Pinjefrö;SV
+30991;Linfrön, hela;SV
+31139;Pasta, vetegrodd;SV
+31144;Griskött, strimlat, marinerat, rått;SV
+31145;Nötkött, strimlat, marinerat, rått;SV
+31160;Matsoda;SV
+31174;Pasta, mörk, proteinrik;SV
+31175;Quinoa;SV
+31211;Pumpafrön;SV
+31212;Nöt, pistagenöt;SV
+31213;Bönor, mungobönor, kokta;SV
+31214;Bönor, kidneybönor, kokta;SV
+31216;Bönor, adukibönor, torkade;SV
+31217;Bönor, adukibönor, kokta utan salt;SV
+31218;Kikärter, torkade;SV
+31219;Linser, röda, torkade;SV
+31225;Linser, röda, kokta;SV
+31226;Speltmjöl, sammalen;SV
+31229;Glass, tofuparfaitpinne, chokladöverdrag;SV
+31231;Sojaprodukt, alternativ till grädde, 17,5 % fett;SV
+31233;Bönor, bondbönor, kokta;SV
+31246;Sojadryck, vitaminerad;SV
+31247;Sojadryck utan tillsatt socker;SV
+31248;Sojadryck, choklad, med vitaminer;SV
+31252;Riskaka, riskex;SV
+31253;Majs-riskaka;SV
+31254;Chokladrussin;SV
+31256;Pasta, färsk pasta, ägg;SV
+31457;Lingonsylt;SV
+31459;Äppelsylt;SV
+31482;Makaroni, pasta, innehåller ägg;SV
+31487;Mjölkpulver, fettfritt, låg laktoshalt, 5 ug vitamin d;SV
+31488;Mjölkpulver, fettfritt, laktosfritt, 5 ug vitamin d;SV
+31495;Linolja;SV
+31496;Mjölkpulver, fettfritt, 5 ug tillsatt vitamin d;SV
+31497;Mjölkpulver, fettfritt, låg laktoshalt;SV
+31498;Mjölkpulver, fettfritt, laktosfritt;SV
+31504;Matfettsblandning 70 %;SV
+31505;Matfettsblandning 75 %, laktosfri;SV
+31506;Matfettsblandning 40 %, låg laktoshalt;SV
+31508;Matfettsblandning 80 %, flytande, medelvärde;SV
+31511;Yoghurt, smaksatt, ca 4 % fett, laktosfri;SV
+31518;Glass, yoghurtglass, 9 % fett;SV
+31525;Sojamellanmål, alpro natural, syrat, naturell, tilsatt vitamin och kalcium;SV
+31530;Smör laktosfri;SV
+31532;Mjöl, mjölblandning, mörk, naturligt glutenfri;SV
+31534;Mjöl, mjölblandning glutenfri, vetestärkelsepreparat, vitaminerad, mjölk;SV
+31536;Fiskpinnar, lax, otillredda;SV
+31537;Pasta, fullkornsris, naturligt glutenfri;SV
+31538;Aprikospuré, sockerfri, vitamin c;SV
+31539;Bärpuré, sockerfri, c-vitaminerad;SV
+31544;Mjöl, mjölblandning, ljus, naturligt glutenfri;SV
+31545;Tomatketchup, mindre salt och socker, felix;SV
+31550;Mjöl, mjölblandning, ljus, glutenfri, vetestärkelsepreparat, mjölkpulver;SV
+31552;Guava;SV
+31553;Mjölk, lättmjölk, laktosfri, utan tillsatt vitamin d, ekologisk;SV
+31555;Granatäpple, skalat;SV
+31557;Chili, grön, färsk;SV
+31675;Pasta, spaghetti, makaroni, naturligt glutenfri;SV
+31677;Pasta, spaghetti, naturligt glutenfri, innehåller ägg;SV
+31679;Pasta, fiberrik, naturligt glutenfri;SV
+31683;Mjöl, glutenfri mjölblandning av vetestärkelse, vitaminerad;SV
+31692;Mjöl, skorpmjöl, naturligt glutenfritt;SV
+31888;Mjölk, fettfri, 2 ug vitamin d, valio plus;SV
+31891;Mjölk, helmjölk, låg laktoshalt, 1 ug vitamin d;SV
+31894;Mjölk, kaffemjölk 2 % fett, laktosfri, 1 ug vitamin d;SV
+31900;Surmjölk, fettfri, laktosfri, 1 ug vitamin d;SV
+31947;Havre-fruktpreparat syrat, yosa smoothie, probiotika;SV
+31956;Kvarg, smaksatt, fettfri, syntetiskt sötad;SV
+31959;Matlagningsgrädde, smaksatt med ost, 10 % fett, låg laktoshalt;SV
+31966;Grädde, 26% fett, vegetabilisk fettblandning, flora kuohu;SV
+31968;Glass, gräddglass, laktosfri;SV
+31969;Glass, gräddglass, låg laktoshalt;SV
+31970;Glass, gräddglass med kex, puffet;SV
+31971;Glass, lätt, 4,5 % fett;SV
+31972;Glass, gräddglass, smaksatt, carte d'or stracciatella;SV
+31990;Glass, gräddglass, smaksatt, carte d'or mascarpone;SV
+31991;Sorbet, hallonsorbet, industriell;SV
+31994;Glass, tofu glasstrut, glutenfri;SV
+31996;Glass, risglass;SV
+31997;Glass, yoghurtglass, 4 % fett;SV
+32000;Glass, gräddglass med kola- och chokladglasyr;SV
+32001;Glass, gräddglass, smaksatt, kola, aino kermainen karamelli;SV
+32002;Kvarg, smaksatt, 2,9 % fett;SV
+32004;Sojaprodukt,  alternativ till grädde, lätt, 5,2 % fett;SV
+32005;Havreprodukt, alternativ till grädde, lätt, 7 % fett;SV
+32006;Risprodukt, alternativ till grädde, vegetabilisk fettblandning, 7 % fett;SV
+32007;Risdryck, kalcium och vitamin d;SV
+32008;Sojadryck, alpro, lätt, kalcium och vitaminer;SV
+32010;Glass, gräddglass med kex och choklad;SV
+32062;Yoghurt, smaksatt, 2 % fett, 0,5 ug vitamin d;SV
+32067;Yoghurt, smaksatt, fettfri, 0,5 ug vitamin d;SV
+32080;Yoghurt, smaksatt, fettfri, vitalinea, 0,75 ug vitamin d;SV
+32084;Yoghurt, smaksatt, 2 % fett, laktosfri, 0,5 ug vitamin d;SV
+32085;Yoghurt, smaksatt, 2 % fett, låg laktoshalt, a+, 1 ug vitamin d;SV
+32088;Yoghurt, naturell, bulgarian, 3,5 % fett, 1 ug vitamin d;SV
+32101;Majonnäs, gurkmajonnäs, hamburgaredressing, hesburger;SV
+32136;Yoghurt, naturell, activia, 3,4 % fett, probiotika;SV
+32142;Yoghurt, smaksatt med sylt, 2 % fett, låg laktoshalt, 1 ug vitamin d;SV
+32145;Yoghurt, smaksatt, fettfri, a+, låg laktoshalt, 1 ug vitamin d;SV
+32153;Bearnaisesås, såspulver, knorr;SV
+32163;Bearnaisesås, såspulver, campbell's/blå band;SV
+32172;Sojamellanmål, alpro, syrad, smaksatt, 2 % fett, kalcium, vitaminerad;SV
+32175;Hollandaise sås, såspulver, campbell's/blå band;SV
+32177;Salladsdressing med rypsolja, thousand island, lätt, felix, 15 % fett;SV
+32178;Salladsdressing med rypsolja, fransk, saarioinen, 47 % fett;SV
+32179;Salladsdressing med rypsolja, lätt, saarioinen, 23 % fett;SV
+32189;Fil, frukt-/bärfil, 2 % fett, 1 ug vitamin d;SV
+32191;Knackkorv av broiler, atria;SV
+32195;Knackkorv av broiler, hk;SV
+32197;Knackkorv av kalkon, lätt, atria;SV
+32198;Pålägg av helt kött, broilerpålägg, 1,9 % fett, hk;SV
+32201;Yoghurt, turkisk/grekisk, 10 % fett;SV
+32257;Pålägg av helt kött, broilerpålägg, 2 % fett, hk;SV
+32301;Margarin 60 %, flora normalsaltad;SV
+32308;Margarin 60 %, flora laktosfri;SV
+32341;Margarin 60 %, kraftigt saltad, flora;SV
+32343;Vegetabilisk matfett 38%, becel lätt;SV
+32344;Vegetabilisk oljeprodukt 82 %, flytande, flora culinesse;SV
+32348;Vegetabilisk oljeprodukt 82 %, flytande, becel;SV
+32350;Vegetabilisk matfett 38%, becel lätt oliv;SV
+32354;Vegetabilisk oljeprodukt 80 %, flytande, keiju rypsi;SV
+32357;Munkstekningsfett 100 %, sunnuntai;SV
+32360;Matfett 60 % fett, benecol laktosfri;SV
+32367;Muksu sojadryck, 1-3 år, för barn i lekåldern;SV
+32381;Bolognesesås, såspulver, knorr;SV
+32385;Grynost, 1,5 % fett;SV
+32386;Färdig sås, tikka masala, uncle ben's;SV
+32403;Dipmix, såspulver, innehåller mjölk;SV
+32404;Dipmix , såspulver, mjölkfri;SV
+32407;Medvurst, ultralätt 9 % fett;SV
+32409;Panerad skinka, 3 % fett;SV
+32416;Bärdryck, proviva, medelvärde, probiotika;SV
+32417;Fruktdryck, mango, proviva, probiotika;SV
+32418;Havre-frukt- och bärpreparat, syrat, yosa, medelvärde, innehåller probiotika;SV
+32423;Dryck, rainbow, fruktdryck med probiotika;SV
+32424;Dryck, rainbow, bärdryck med probiotika;SV
+32431;Vegetabilisk oljeprodukt 80 %, flytande, rypsolja, sunnuntai;SV
+32449;Mellanmålsstång, yoghurt, mysli;SV
+32450;Mellanmålsstång, fullkorn, mysli;SV
+32451;Mellanmålsstång, bär, mysli;SV
+32452;Mellanmålsstång, frukt, mysli;SV
+32455;Blodgrapefrukt, skalad;SV
+32456;Kronärtskocka;SV
+32464;Nött, paranöt;SV
+32478;Färdig sås, sweet & sour, uncle ben's;SV
+32480;Salladsdressing med rypsolja, kartanon, saarioinen, 39 % fett;SV
+32482;Salladsdressing med rypsolja, talon-, felix, 20 % fett;SV
+32483;Salladsdressing med rypsolja, grekisk, felix, 25 % fett;SV
+32485;Salladsdressing med rypsolja, honung-senap, felix, 36 % fett;SV
+32502;Sötsak, dumle, fazer, kola med chokladöverdrag;SV
+32503;Sötsak, karamell, mjölkchokladdragé, m&m's/amerikan pastilli;SV
+32509;Choklad, chokladbit, innehåller kex och kola, twix;SV
+32540;Glögg, alkoholfri;SV
+32553;Vegetabilisk oljeprodukt 80 %, flytande, medelvärde av industriella produkter;SV
+32562;Havre-fruktpreparat syrat, yosa naturell, vitamin d, probiotika;SV
+32568;Matfettsblandning 75 %, 10 ug vitamin d;SV
+32570;Fyrkornsflingor, riihikosken vehnämylly;SV
+32592;Surmjölk, kärnmjölk, 0,3 % fett, 0,5 ug vitamin d;SV
+32593;Surmjölk, fettfri, 0,5 ug vitamin d;SV
+32594;Surmjölk, fettfri, låg laktoshalt, 0,5 ug vitamin d;SV
+32595;Surmjölk, fettfri, laktosfri, 0,5 ug vitamin d;SV
+32596;Yoghurt, smaksatt, fettfri, delvis syntetiskt sötad, 1 ug vitamin d;SV
+32597;Yoghurt, smaksatt, fettfri, laktosfri, syntetiskt sötad, 1 ug vitamin d;SV
+32598;Yoghurt, naturell, fettfri;SV
+32599;Yoghurt, smaksatt, 2 % fett, 1 ug vitamin d;SV
+32600;Yoghurt, drickbar, danonino dino, 1,6 % fett, 0,9 ug vitamin d;SV
+32602;Grillkorv, chorizo, saarioinen;SV
+32619;Måltidsersättning, dryck, shake, naturdiet;SV
+32622;Måltidsersättning, dryck, smoothie, naturdiet;SV
+32623;Måltidsersättning, dryckpulver, naturdiet;SV
+32625;Måltidsersättning, chokladstång, naturdiet;SV
+32626;Måltidsersättning, karamellstång, naturdiet;SV
+32627;Måltidsersättning, mörk chokladstång, naturdiet;SV
+32628;Måltidsersättning, smoothie, dryckpulver, easy diet;SV
+32630;Måltidsersättning, soppulver, sparris/fisk/höna/svamp, easy diet;SV
+32632;Måltidsersättning, soppulver, tomat/texmex/thai, easy diet;SV
+32636;Måltidsersättning, smoothie, dryckpulver, nutrifast;SV
+32638;Måltidsersättning, milkshake, dryckpulver, allevo;SV
+32640;Måltidsersättning, smoothie, dryckpulver, allevo;SV
+32642;Måltidsersättning, soppulver, potatis/purjolök, allevo;SV
+32644;Måltidsersättning, soppulver, broccoli/basilika/couscous, allevo;SV
+32646;Måltidsersättning, dryck, low calorie, allevo;SV
+32647;Måltidsersättning, stång, low calorie, allevo;SV
+32648;Måltidsersättning, soppulver, nutrilett;SV
+32650;Måltidsersättning, dryck, hunger control, nutrilett;SV
+32651;Måltidsersättning, milkshake, dryckpulver, nutrilett;SV
+32653;Måltidsersättning, hot and cold mocca, dryckpulver, nutrilett;SV
+32655;Måltidsersättning, stång, hunger control, nutrilett;SV
+32656;Måltidsersättning, stång, low calorie, medelvärde av industriella produkter;SV
+32657;Måltidsersättning, soppulver, medelvärde;SV
+32659;Måltidsersättning, milkshake, dryckpulver, medelvärde;SV
+32661;Måltidsersättning, smoothie, dryckpulver, medelvärde;SV
+32664;Matfettsblandning 75 %, normalsaltad, låg laktoshalt, oivariini;SV
+32666;Matfettsblandning 75 %, kraftigt saltad, låg laktoshalt, oivariini;SV
+32667;Måltidsersättning, proteindryck, pulver, gnld, 49 % protein;SV
+32669;Matfettsblandning 60 %, lättare, låg laktoshalt, oivariini;SV
+32670;Matfettsblandning 75 %, laktosfri, oivariini;SV
+32671;Matfettsblandning 43 %, ingmariini, låg laktoshalt;SV
+32672;Matfettsblandning 82 %, havssalt, låg laktoshalt, ingmariini;SV
+32673;Matfettsblandning 75 %, normalsaltad, låg laktoshalt, ingmariini;SV
+32675;Måltidsersättning, proteindryckpulver, nutrishake, gnld, 55 % protein;SV
+32676;Matfettsblandning 57 %, lättare, låg laktoshalt, ingmariini;SV
+32678;Sojapreparat, femisoya;SV
+32679;Sojapreparat, femisoya plus;SV
+32680;Sojapreparat, berrysoya;SV
+32694;Köttfärs, gris-nöt, lätt, låg fetthalt, 7 % fett;SV
+32695;Sötsak, chokladkaramell med peppermyntsmak, marianne, fazer;SV
+32699;Suffeli puffi snacks, majspuffar med chokladsmakande glasyr;SV
+32700;Mellanmålsstång, choklad, mysli;SV
+32701;Glass, mjukglass, soft ice, utan våffla;SV
+32702;Glass, tofuparfait, sojabaserad, tofuline, vanilj;SV
+32703;Nöt- och chokladkräm;SV
+32704;Köttfärs, nötstek, 9 % fett;SV
+32705;Glass av vegetabiliskt fett;SV
+32708;Spraygrädde, vispgräddeprodukt, industriell;SV
+32709;Margarin, hushållsmargarin 80 %, medelvärde, till bakning och matlagning;SV
+32710;Matlagningsgrädde, vegetabilisk fettblandning, 4% fett, låg laktoshalt;SV
+32716;Matlagningsgrädde, vegetabilisk fettblandning, 5 % fett, låg laktoshalt;SV
+32721;Matlagningsgrädde, vegetabilisk fettblandning, 7 % fett, låg laktoshalt;SV
+32722;Grillkorv, kabanossi, medelvärde, hk;SV
+32724;Grillkorv, chorizo, hemgjord;SV
+32731;Nudel, fullkornsvete;SV
+32733;Kinderägg, kinder surprise;SV
+32734;Sojadryck, kalcium och vitaminer, alpro;SV
+32735;Yoghurt, naturell, a+, låg laktoshalt, 2,5 % fett, 1 ug vitamin d;SV
+32737;Surmjölk, ab-surmjölk, 2,5 % fett, 1 ug vitamin d, probiotika;SV
+32739;Ciderdryck, pear, alkoholfri sider, 0,02 vol-% alkohol, rainbow;SV
+32740;Öl, alkoholfri, nikolai, 0,0 vol-% alkohol, sinebrychoff;SV
+32744;Marmelad av plommon, plommonsylt;SV
+32745;Energidryck, vitaminerad, delvis syntetiskt sötad;SV
+32746;Energidryck, vitaminerad, syntetiskt sötad;SV
+32758;Sojadryck, alpro ekologisk;SV
+32770;Mineralvatten, novelle plus, zink och vitamin e, sötad med fruktos, hartwall;SV
+32771;Mineralvatten, novelle plus, med tillsatt kalcium, hartwall;SV
+32772;Mineralvatten, novelle plus, vitamin c och magnesium, hartwall;SV
+32773;Mineralvatten, sötat med fruktos, novelle friss, medelvärde, hartwall;SV
+32774;Havredryck, nalle suklaakaurajuoma, med kalcium och vitamin d;SV
+32778;Påläggskorv, lördagskorv, medelvärde, 18 % fett;SV
+32779;Påläggskorv, lördagskorv, innehåller mjölkprotein, 19 % fett;SV
+32780;Påläggskorv, lördagskorv, innehåller sojaprotein, 19 % fett;SV
+32783;Havredryck, med kalcium och vitaminer, rainbow;SV
+32784;Påläggskorv, lördagskorv, lätt, medelvärde, 10 % fett;SV
+32786;Påläggskorv, lördagskorv, 17 % fett, medelvärde av industriella produkter;SV
+32787;Risdryck, rice dream suklaa, med kalcium;SV
+32790;Risdryck, rice dream, hasselnöt-mandel;SV
+32795;Grillkorv, ultralätt, mjölkfri, 7 % fett;SV
+32796;Grillkorv, innehåller sojaprotein, medelvärde;SV
+32800;Glass, risglass, r-ice, vanilj-choklad, glutenfri, ingman;SV
+32802;Glass, risglass, r-ice vanilj, ingman;SV
+32804;Glass, lätt, syntetiskt sötad, vanilj-jorgubb, ingman;SV
+32885;Havredryck, nordic, naturell, med kalcium och vitamin d;SV
+32887;Risdryck, nordic, med kalcium och vitamin d;SV
+32892;Fiberhaltig fruktdryck, hyvää päivää, tranbär, delvis syntetiskt sötad;SV
+32893;Fruktdryck, hyvää päivää, citrus, fruktos, delvis syntetiskt sötad, vitaminerad;SV
+32894;Fruktdryck, hyvää päivää, sötad med fruktos, vitaminerad;SV
+32895;Nöt, macadamia nöt;SV
+32897;Energidryck, energivatten, teho, olvi, vitaminerad;SV
+32925;Ost, getost, chèvre, 30 % fett;SV
+32931;Ost, getost, chèvre, 30 % fett, stekt;SV
+33020;Kryddsås, sweet chili sauce, chilisås;SV
+33021;Kryddpasta, curry pasta;SV
+33022;Kryddpasta, ingefärapasta;SV
+33023;Ingefära, rot, rå;SV
+33024;Ingefära, inlagd;SV
+33038;Sharon, kaki, persimon;SV
+33042;Yoghurt, naturell, a+, laktosfri, 4 % fett, 1 ug vitamin d;SV
+33047;Matlagningsgrädde, vegetabilisk fettblandning, fett 13 %, låg laktoshalt;SV
+33048;Matlagningsgrädde, vegetabilisk fettblandning, 7 % fett;SV
+33049;Matlagningsgrädde, vegetabilisk fettblandning, 4 % fett;SV
+33060;Papaya, torkad;SV
+33065;Mango, torkad;SV
+33067;Specialfrukt, exotisk, medelvärde, mango/papaya, torkad;SV
+33070;Fikon, torkad;SV
+33077;Ananas, torkad;SV
+33091;Avokadoolja;SV
+33095;Nöt, pecannöt;SV
+33097;Grillkorv, balkankorv/bratwurst;SV
+33102;Nöt, honungsrostad jordnöt;SV
+33103;Yoghurt, smaksatt, 2,7 % fett, laktosfri, 1 ug vitamin d, prob., valio olo;SV
+33111;Mjölk, helmjölk, 3 % fett, laktosfri, 1 ug vitamin d;SV
+33116;Ost, salladost, 2-5 % fett, av komjölk, i saltlag;SV
+33117;Surmjölk, valio plus, fettfri, låg laktoshalt, 2 ug vitamin d;SV
+33118;Ost, salladost, 6-8 % fett, av komjölk, i saltlag;SV
+33119;Ost, salladost, 9-11 % fett, av komjölk, i saltlag;SV
+33120;Ost, salladsost, 22 % fett, av komjölk, i olja;SV
+33121;Hampfrö, hel;SV
+33122;Sojadryck med kalcium och vitaminer, alpro;SV
+33124;Sojadryck med kalcium och vitaminer, rainbow;SV
+33125;Sojadryck, med kalcium, pirkka ekologisk;SV
+33128;Nöt, chilinöt;SV
+33129;Yoghurt, naturell, laktosfri, fett 5,5%, valio eila lohkeava;SV
+33130;Nöt, cashew-nöt, saltad;SV
+33131;Nöt, pistagenöt, saltad;SV
+33132;Sojadryck, kalcium, gogreen;SV
+33133;Sojadryck, kalcium, gogreen original;SV
+33134;Sojadryck med chokladsmak, kalcium, pirkka ekologisk;SV
+33135;Sojadryck, ekologisk, rainbow;SV
+33136;Sojadryck, nordic, med d-vitamin och kalcium;SV
+33137;Sojadryck, alpro lätt chokladdryck, kalcium och vitaminer;SV
+33138;Sojadryck, alpro choklad, kalcium och vitaminer;SV
+33139;Sojadryck, kalcium och vitaminer, soywell soya drink, lidl;SV
+33142;Yoghurt, smaksatt, fettfri, laktosfri, 1 ug vitamin d;SV
+33147;Kvarg, smaksatt, 2,9 % fett, danonino, 1,25 ug vitamin d;SV
+33150;Yoghurt,  smaksatt, 4,6 % fett, laktosfri, valio eila lohkeava;SV
+33151;Havssalt, ojodat;SV
+33154;Filé av fisk, gravad;SV
+33158;Mellanmålsstång, choklad, kellogg´s special k bar chocolate, vitaminerad;SV
+33159;Mellanmålsstång, kellogg´s rice krispies cereal & milk bar, vitaminerad;SV
+33160;Havredryck, mellanmålsdryck med aprikossmak, elovena, 2,9 % fett;SV
+33161;Havredryck, mellanmålsdryck med skogsbär, elovena, 0,5 % fett;SV
+33162;Yoghurt, naturell, 2,5 % fett;SV
+33163;Havredryck, mellanmålsdryck med fruktsmak, elovena, 0,5 % fett;SV
+33164;Mjölk, helmjölk, låg laktoshalt, utan tillsatt vitamin d;SV
+33168;Ost, halvhård ost, 10 % fett, valio polar;SV
+33169;Havredryck utan mjölk, vanilj, med kalcium och vitamin d;SV
+33170;Pangasius, filé, importerad fisk;SV
+33171;Hoki, importerad fisk;SV
+33174;Köttfärs, gris-nöt, låg fetthalt, 10 % fett;SV
+33179;Kvarg, naturell, 0,3 % fett, laktosfri;SV
+33189;Kvarg, smaksatt, fett 7 %, söt, laktosfri;SV
+33197;Yoghurt, smaksatt, fettfri, låg laktoshalt, 0,5 ug d-vitamin, delvis synt. sötad;SV
+33198;Yoghurt, smaksatt, fettfri, syntetiskt sötad;SV
+33200;Fil, smaksatt, 1 % fett, laktosfri;SV
+33201;Fil, 1 % fett, laktosfri;SV
+33211;Tilapia, importerad fisk;SV
+33221;Yoghurt, smaksatt, 1 % fett, laktosfri;SV
+33226;Yoghurt, smaksatt, fettfri, fiber, a-, e- och d-vitamin, låg laktoshalt;SV
+33251;Tilapia, ugnsstekt;SV
+33264;Fil, smaksatt, 1 % fett, laktosfri, delvis syntetiskt sötat;SV
+33265;Nöt, cashewnöt, överdragen med mjölkchoklad;SV
+33266;Nöt, cashewnöt, överdragen med yoghurt;SV
+33267;Bananchips, överdragna med yoghurt;SV
+33268;Ananas, torkad, överdragen med yoghurt;SV
+33269;Äppelchips;SV
+33272;Mellanmålsstång med choklad och flingor, vitaminerad, kellogg´s coco pops rocks;SV
+33280;Yoghurt, smaksatt, 2 % fett, laktosfri, 1 ug vitamin d;SV
+33284;Yoghurt, naturell, laktosfri, fettfri, 1 ug d-vitamin;SV
+33295;Yoghurt, fettfri, a+, låg laktoshalt, naturell, 1 ug d-vitamin;SV
+33298;Yoghurt med mysli , a+, låg laktoshalt, fett 3,5 %, 0,9 ug d-vitamin;SV
+33304;Sportdryck, koncentrat, dexal heavy, utspädd;SV
+33305;Sportdryck, koncentrat, dexal light, utspädd;SV
+33317;Sportdryck, koncentrat, dexal light;SV
+33319;Importerad vitfisk, tilapia/pangasius/hoki, medelvärde;SV
+33320;Importerad vitfisk, tilapia/pangasius/hoki, medelvärde, kokt, utan salt;SV
+33323;Sportdryck, koncentrat, dexal heavy;SV
+33334;Sportdryck, pro fx zero carb;SV
+33337;Importerad vitfisk, tilapia/pangasius/hoki, medelvärde, ugnsstekt, utan salt;SV
+33338;Sportdryck, leader carbo energy;SV
+33339;Kycklingfilé i honungsmarinad, rå;SV
+33342;Kvarg, kvargefterrätt, 4,5 % fett, valio rahkavaahto, laktosfri;SV
+33343;Sportdryck, leader protein 40;SV
+33357;Kaffe, snabbkaffe, pulver;SV
+33360;Sportdryck, kolhydrater och protein, pro fx recovery;SV
+33367;Sportdryck, kolhydrater och protein, leader recovery;SV
+33372;Sportdryck, kolhydrater och protein, medelvärde av industriella produkter;SV
+33375;Sportdryck, kolhydrater, medelvärde av industriella produkter;SV
+33376;Sportdryck, protein, medelvärde av industriella produkter;SV
+33382;Lax, varmrökt;SV
+33395;Potatismospulver, otillrett, rainbow;SV
+33396;Potatismospulver, otillrett, pirkka/felix;SV
+33397;Potatismospulver, otillrett, eldorado;SV
+33403;Måltidsersättning, proteinrik stång, 54 % protein, maxim;SV
+33404;Kvarg, bär-/fruktkvarg, fett 3 %, danio;SV
+33405;Kvargefterrätt, danio stracciatella, fett 4,4 %;SV
+33408;Sik, varmrökt;SV
+33409;Regnbågslaxfilé, kallrökt;SV
+33410;Yoghurt, smaksatt, 2 % fett;SV
+33414;Regnbågslaxfilé, varmrökt;SV
+33415;Fisk, varmrökt, medelvärde;SV
+33419;Regnbågslaxfilé;SV
+33420;Lax, kallrökt;SV
+33424;Makrill, rökt;SV
+33428;Kaffe, instant, kaffedryck;SV
+33432;Sötsak, suffeli chokladvåffla, våffla, toffeefyllning och mjölkchoklad, fazer;SV
+33433;Basilika, torkad;SV
+33436;Nypon, torkat;SV
+33438;Caffe latte, osötad, fettfri mjölk;SV
+33439;Caffe latte, osötad, lättmjölk;SV
+33441;Cappuccino, osötad, lättmjölk;SV
+33442;Caffe latte, osötad, sojadryck;SV
+33447;Sötsak, marshmallow;SV
+33449;Ost, medelvärde;SV
+33456;Spenat;SV
+33465;Ost, halloumiost, av getmjölk, 22 % fett;SV
+33466;Mjölk, medelvärde, 1 ug vitamin d;SV
+33487;Vegetabilisk matfett 70 %, keiju laktosfri, catering, 20 ug vitamin d;SV
+33488;Margarin 40 %, keiju lätt laktosfri, catering, 20 ug vitamin d;SV
+33489;Margarin 60 %, keiju normal saltad, catering, 20 ug vitamin d;SV
+33494;Paprika, röd, konserv;SV
+33496;Vegetabilisk matfett 70%, becel gold, 20 ug vitamin d;SV
+33499;Sojakross, ljust eller mörkt;SV
+33501;Tofu, sojapreparat;SV
+33502;Knackkorv, tofu korv;SV
+33519;Sötningsmedel, stevia, canderel green pulver;SV
+33520;Sötningsmedel, stevia, canderel green tablett;SV
+33521;Sötningsmedel, stevia, canderel green stick;SV
+33525;Fettpulver, för livsmedelsindustri;SV
+33542;Choklad, mörk, 80 %;SV
+33549;Äggpulver, för livsmedelsindustri;SV
+33550;Äggvitepulver, för livsmedelsindustri;SV
+33551;Äggulepulver, för livsmedelsindustri;SV
+33553;Kryddsås, sweet and sour sauce, dipsås;SV
+33554;Ost, emmentalost, 28 % fett, valio polar;SV
+33555;Ost, halvhård ost, 5 % fett, valio polar;SV
+33556;Ost, halvhård ost, 15 % fett, valio polar;SV
+33559;Jordgubbssylt, industriell, socker 46 g/100 g;SV
+33568;Salta nötter och torkad frukt, blandning;SV
+33569;Nötter, blandning, utan salt;SV
+33579;Salta nötter, blandning;SV
+33584;Surmjölk, ab-surmjölk, 2 % fett, probiotika;SV
+33586;Glass, snickers;SV
+33587;Fisk, vägt medelvärde;SV
+33596;Havredryck, naturell, medelvärde av industriella produkter;SV
+33597;Sojadryck, naturell, medelvärde av industriella produkter;SV
+33600;Risdryck, naturell, medelvärde av industriella produkter;SV
+33601;Potatismospulver, medelvärde av industriella produkter;SV
+33629;Kvarg, medelvärde av industriella produkter;SV
+33631;Mjöl, glutenfri mjölblandning, medelvärde av industriella produkter;SV
+33632;Pasta, glutenfri, medelvärde av industriella produkter;SV
+33638;Såspulver, medelvärde av industriella produkter;SV
+33671;Profeel proteindryck, valio, 1 ug vitamin d;SV
+33675;Surmjölk, lätt surmjölk 1 % fett, låg laktoshalt, 1 ug vitamin d;SV
+33678;Surmjölk, ab-surmjölk, 2 % fett, 1 ug vitamin d, probiotika;SV
+33679;Surmjölk, ab-surmjölk, 1,5 % fett, 1 ug vitamin d, probiotika;SV
+33681;Surmjölk, aktiivipiimä, 0,4 % fett, låg laktoshalt, 1 ug vitamin d, probiotika;SV
+33682;Surmjölk, lätt, 2 %, låg laktoshalt, 1 ug vitamin d;SV
+33683;Surmjölk, lätt, 2 % fett;SV
+33685;Surmjölk, acidophilus-bifidus, 1,5 % fett, låg laktoshalt, probiotika;SV
+33690;Yoghurt, smaksatt, 2,6 % fett, låg laktoshalt, 30 % mindre socker;SV
+33695;Yoghurt, smaksatt, ab, låg laktoshalt, 2,7 % fett, probiotika;SV
+33696;Yoghurt, smaksatt, ab, 3,3 % fett, probiotika;SV
+33697;Yoghurt, naturell, ab, 2,5 % fett, probiotika;SV
+33698;Yoghurt, naturell, ab, 0,2 % fett, probiotika;SV
+33700;Yoghurt, smaksatt, ab, fettfri, probiotika;SV
+33703;Yoghurt, drickbar, 0,9 % fett, probiotika;SV
+33714;Yoghurt, smaksatt, a+, laktosfri, fett 3,2 %, 1 ug vitamin d;SV
+33725;Yoghurt, smaksatt, reducol, 2 % fett, låg laktoshalt, växtsterol, -stanol, prob.;SV
+33726;Vegetabilisk matfett 70%, medelvärde av industriella produkter;SV
+33727;Yoghurt, reducol, 2,5 % fett, låg laktoshalt, växtsterol och -stanol, prob.;SV
+33728;Fil, 1,5 % fett, laktosfri;SV
+33729;Surmjölk, vanilj, 0,4 % fett, låg laktoshalt, 0,9 ug vitamin d, probiotika;SV
+33739;Mjölk, helmjölk, 4,4 % fett, utan tillsatt vitamin d, ohomogeniserad;SV
+33757;Juice, apelsinjuice, 60 mg vitamin c;SV
+33758;Skinkpålägg, låg fetthalt, 2 % fett;SV
+33760;Yoghurt, smaksatt, 2 % fett, låg laktoshålt, a+, 1 ug vitamin d;SV
+33790;Mjölk, lättmjölk, laktosfri, 2 ug vitamin d, valio eila;SV
+33791;Mjölk, fettfri, laktosfri, 2 ug vitamin d, valio eila;SV
+33792;Mjölk, helmjölk, 3 % fett, laktosfri, 2 ug vitamin d, valio eila;SV
+33845;Medvurst/salami, 22 %;SV
+33852;Surmjölk, fettfri, valio eila, 2 ug vitamin d;SV
+33872;Bröstmjölk;SV
+33882;Margarin, flora kulta, 80 %;SV
+33884;Juice, ananas-morot, kalcium, vitamin c och d, probiotika, valio gefilus;SV
+33885;Kvarg, bär-/fruktkvarg, profeel protein kvarg, laktosfri;SV
+33889;Choklad, mjölkchoklad med hasselnötter;SV
+33899;Maizena express avredning;SV
+33900;Havredryck utan mjölk, oatly choklad, kalcium och vitaminer, 09/2012;SV
+33901;Havredryck utan mjölk, oatly, kalcium och vitaminer, 09/2012;SV
+33907;Vassledryck, gefilus, låg laktoshalt, vitaminer, probiotika;SV
+33908;Saft, gefilus, apelsin-persika, fiber, vitamin c och d, probiotika;SV
+33909;Juice, tillsatt c- och d-vitamin, probiotika, valio gefilus;SV
+33910;Yoghurt, drickbar, actimel, fett 1,5 %, 0,75 ug vitamin d, probiotika;SV
+33924;Grädde, valio jordgubbe/choklad, laktosfri;SV
+33925;Quorn, file, färs, bitar;SV
+33927;Pålägg av helt kött, kalkonpålägg;SV
+33928;Äppelmos, sockrad;SV
+34079;Grötflingor, fiberrika, nalle;SV
+34110;Maizena redning, brun/ljus;SV
+34127;Mjölk, lättmjölk, 2 ug tillsatt vitamin d, valio plus;SV
+34136;Havstång, nori, torkat;SV
+34137;Havstång, wakame, torkat;SV
+34140;Kokosolja;SV
+34159;Rucola, ruccola, senapskål;SV
+34180;Kycklingben, med skinn, rå;SV
+34183;Nötkött, sortiment e, såskött, rå;SV
+34184;Rypsgris, griskött strimlat;SV
+34185;Korngris, strimlad;SV
+34187;Nötkött, innerfilé;SV
+34188;Griskött, ytterfilé;SV
+34189;Griskött, sortiment 0, såskött, rå;SV
+34190;Griskassler, biff/stek, rå;SV
+34201;Nötkött, låg fetthalt, medelvärde;SV
+34228;Spenat, djupfryst;SV
+34229;Ärter, gröna, djupfrysta;SV
+34230;Vild rucola, sandsenap;SV
+34231;Issallat;SV
+34232;Cikoria, röd;SV
+34233;Romansallat;SV
+34234;Rödlök;SV
+34235;Rättika;SV
+34236;Ärtskott;SV
+34237;Vårsallat, vårklynne;SV
+34238;Koriander, färsk;SV
+34239;Skogsriska;SV
+34240;Trattkantarell;SV
+34241;Skäggriska;SV
+34242;Mjöl, vetemjöl, bageriindustrin v600;SV
+34243;Bondbönor, färsk;SV
+34244;Sockerärt, färsk;SV
+34245;Sesamfrön, vit, utan skal;SV
+34246;Mjöl, rågmjöl, fullkorns r800;SV
+34247;Mjöl, rågmjöl, fullkorns r1000;SV
+34248;Mjöl, kornmjöl, fullkorns;SV
+34249;Mjöl, specialvetemjöl;SV
+34252;Sik, odlad;SV
+34253;Sill, inlagd, i klar lag;SV
+34254;Havstång, kombu, torkat;SV
+34255;Lax, odlad;SV
+34256;Regnbågslax, odlad;SV
+34261;Yoghurt, smaksatt, 2,7 % fett;SV
+34276;Saftdryck, 40 % mindre socker, sötad med stevia, valio grandi;SV
+34361;Mango skalad;SV
+34585;Skyr, naturell, <0,5 % fett;SV
+34586;Skyr, sötad med socker, <0,5 % fett;SV
+34587;Skyr, syntetiskt sötad, <0,5 % fett;SV
+34588;Skyr, syntetiskt sötad, 2% fett;SV
+34589;Skyr, sötad med socker och stevia, <0,5 % fett;SV
+34590;Kvarg, kvargyoghurt, naturell, 0,9 % fett;SV
+34591;Gräddkvarg, 7 % fett;SV
+34592;Kvarg, naturell, 2,3 % fett, låg laktoshalt;SV
+34593;Skyr, naturell, 4% fett;SV
+34594;Kvarg, fett 8,8 %, mintchoklad, valio, laktosfri;SV
+34595;Kvarg, smaksatt, 7 % fett, låg laktoshalt;SV
+34596;Kvarg, bär-/fruktkvarg, profeel protein kvarg med sylt, laktosfri;SV
+34597;Kvarg, bär-/fruktkvarg, profeel protein kvarg, syntetiskt sötad, laktosfri;SV
+34598;Kvarg, drickbar kvarg;SV
+34600;Kvarg, smaksatt, 4,5 % fett;SV
+34601;Kvarg, bär-/fruktkvarg, arla protein kvarg, laktosfri;SV
+34602;Kvarg, naturell, 0,3 % fett, 12 % protein, laktosfri;SV
+34603;Yoghurt, smaksatt, 4,6 % fett, valio sileä, 1 ug vitamin d, låg laktoshalt;SV
+34605;Yoghurt, smaksatt, valio a+ kreikkalainen kerrosjogurtti, 2 % fett, laktosfri;SV
+34606;Yoghurt, drickbar, 1,7 % fett, valio play, laktosfri, 1,5 ug vitamin d;SV
+34607;Yoghurt med kvarg, smaksatt, valio, 1,7 % fett, låg laktoshalt;SV
+34608;Yoghurt, drickbar, valio yoghurt med kvarg, fett 1,2 %, 1 ug vitamin d;SV
+34609;Yoghurt, smaksatt, valio olo 70, 0,8 % fett, 1ug vitamin d, probiotika;SV
+34611;Yoghurt, naturell, grekisk, 7 % fett, laktosfri;SV
+34612;Mellanmålsdryck, gefilus dryck, fettfri, laktosfri, d-vit, probiotika;SV
+34613;Yoghurt, drickbar, gefilus smoothie, 1,4 % fett, laktosfri, 1 ug vitamin d;SV
+34614;Mellanmålsdryck, gefilus kefir, 2 % fett, laktosfri, 1 ug vitamin d, probiotika;SV
+34615;Mellanmålsdryck, gefilus kefir, naturell, laktosfri, 2,5 % fett, 1 ug vitamin d;SV
+34616;Yoghurt, smaksatt, 2,7 % fett, gefilus kefir, laktosfri, 1,5ug vitamin d, prob.;SV
+34618;Yoghurt, drickbar, 2 % fett, valio grekisk, laktosfri, 1 ug vitamin d;SV
+34619;Yoghurt, smaksatt, valio grekisk, 4,7 % fett, laktosfri;SV
+34620;Yoghurt, smaksatt, valio grekisk, 6 % fett, laktosfri;SV
+34621;Yoghurt, smaksatt, 3,3 % fett, valio fruktig, laktosfri, probiotika;SV
+34625;Yoghurt, smaksatt, 2 % fett, -30% socker, ekologisk, laktosfri;SV
+34626;Yoghurt, smaksatt, 2 % fett, -50% socker, ekologisk, laktosfri;SV
+34630;Yoghurt, naturell, a+, 2,5 % fett, laktosfri, 1 ug vitamin d;SV
+34631;Yoghurt, smaksatt, a+ utan tillsatsämne, 3 % fett, laktosfri;SV
+34634;Yoghurt, naturell, a+ grekisk, 2 % fett, laktosfri;SV
+34635;Yoghurt, turkisk/grekisk, 10 % fett, laktosfri;SV
+34636;Yoghurt, naturell, 2,5 % fett, ekologisk, laktosfri;SV
+34637;Yoghurt med kvarg, smaksatt, arla ihana, 1,4 % fett, 0,4 ug vitamin d, laktosfri;SV
+34638;Yoghurt, naturell, ekologisk, 3 % fett;SV
+34639;Yoghurt, smaksatt, 2 % fett, arla luonto+ honug, 1ug vitamin d, prob., laktosfri;SV
+34640;Yoghurt, smaksatt, 2 % fett, arla luonto+, 1 ug vitamin d, ab, laktosfri;SV
+34641;Yoghurt, smaksatt, 1,9 % fett, arla luonto+, 0,8 ug vitamin d, prob, laktosfri;SV
+34642;Yoghurt med kvarg, smaksatt, luonto+, 1,2% fett, ab, 0,5ug vitamin d, laktosfri;SV
+34643;Yoghurt med kvarg, naturell, arla luonto+, 1,4% fett, 0,6ug vit d, ab, laktosfri;SV
+34644;Yoghurt, smaksatt, luonto+, fettfri, 1 ug vitamin d, ab, laktosfri;SV
+34645;Yoghurt, smaksatt, fettfri, låg laktoshalt;SV
+34646;Yoghurt, smaksatt, arla protein, 1 % fett, laktosfri;SV
+34647;Yoghurt, naturell, arla protein, 1 % fett, laktosfri;SV
+34648;Yoghurt, smaksatt, arla protein yoghurt med granola, fett 4 %, laktosfri;SV
+34649;Kvarg, smaksatt, fettfri, syntetiskt sötad, laktosfri;SV
+34650;Yoghurt, drickbar, fettfri, syntetiskt sötad;SV
+34651;Ägg, utan skal, ekologisk;SV
+34652;Yoghurt, smaksatt, activia lätt, fettfri, delvis syntetisk sötad, probiotika;SV
+34653;Yoghurt, drickbar, danup drink, 0,8 % fett;SV
+34654;Kvarg, smaksatt, 4 % fett;SV
+34655;Kvarg, smaksatt, fettfri, protein kvarg, låg laktoshalt;SV
+34656;Yoghurt, naturell, 4 % fett, laktosfri, probiotika;SV
+34657;Yoghurt, smaksatt, 2 % fett, laktosfri;SV
+34658;Yoghurt, smaksatt , 3,5 % fett, probiotika;SV
+34659;Yoghurt, smaksatt, 2 % fett, ab, låg laktoshalt;SV
+34668;Fröblandning;SV
+34679;Yoghurt, smaksatt, fettfri, låg laktoshalt, 1 ug vitamin d;SV
+34680;Passionsfrukt;SV
+34688;Kokosvatten, osötad;SV
+34694;Papaya, skalad;SV
+34713;Makaroner, fullkornsvete;SV
+34716;Mjölk, helmjölk, 3 % fett, laktosfri, utan tillsatt vitamin d;SV
+34738;Mandeldryck, osötad, alpro;SV
+34743;Bondbönor, torr, bondbönskross;SV
+34752;Färskost, mascarpone, 38 % fett;SV
+34762;Färskost, 15 % fett, naturell, laktosfri;SV
+34764;Färskost, 25 % fett, naturell, laktosfri;SV
+34765;Färskost, 20 % fett, naturell;SV
+34786;Yoghurt, dryckbar, benecol aurinkoinen, 2,1 % fett, stanoler;SV
+34790;Yoghurt, dryckbar, benecol, 2,1 % fett, stanoler;SV
+34794;Sojamellanmål, drickbar, benecol, 2,9 % fett, med växtstanol;SV
+34797;Sötsak, salmiakpastill, sockerfri;SV
+34802;Sötningsmedel, hermesetas gold, sackarin, aspartam och cyclamat;SV
+34805;Sötningsmedel, hermesetas liquid, sackarin och cyclamat;SV
+34831;Chokladkonfekt med chokladfyllning;SV
+34835;Juice, lingonjuice, utan socker;SV
+34839;Sojadryck, alpro soya vanilla, kalcium och vitaminer;SV
+34841;Ost, halvhård ost, 15 % fett, låg salthalt, valio polar;SV
+34844;Mandeldryck, sötad, alpro;SV
+34845;Kokosdryck, vitaminerad;SV
+34846;Hasselnötdryck, vitaminerad;SV
+34848;Skarpsill, färsk;SV
+34862;Mjölk, fettfri, 1 ug vitamin d, valio profeel voimamaitojuoma, laktosfri;SV
+34872;Nötter, blandning, utan salt, rostade;SV
+34876;Havredryck utan mjölk, oatly ikaffe, kalcium och vitaminer;SV
+34893;Härkis, bondbönprodukt;SV
+34902;Mifu, laktosfri mjölkproteinprodukt;SV
+34905;Ris-kornblandning;SV
+34907;Ris-rågblandning;SV
+34909;Pulled havre;SV
+34914;Matfettsblandning 60 % fett, benecol voi  & rypsi;SV
+34924;Matfettsblandning 70%, flora & voi, normalsaltad;SV
+34927;Vegetailisk matfett 39 %, lätta original;SV
+34932;Matfettsblandning 70%, creme bonjour voi & rypsiöljy, normalsaltad;SV
+34942;Vegetabilisk matfett 75  %, keiju rypsi;SV
+34944;Vegetabilisk matfett 55  %, keiju rypsi;SV
+34948;Margarin 60%, keiju alentaja;SV
+34964;Matfettsblandning 75 %, normalsaltad, laktosfri, ingmariini;SV
+34966;Matfettsblandning 72 %, normalsaltad, låg laktoshalt, bredbar, oivariini;SV
+34970;Fettblandning 40%, oivariini lätt, låg laktoshalt;SV
+34971;Havrekross, kaurakuitunen;SV
+34972;Oliv, medelvärde, utan kärna, i saltlag, grön;SV
+34974;Sojamellanmål, alpro go on, syrat, naturell, 3,6 % fett;SV
+34975;Sojamellanmål, alpro go on, syrat, smaksatt, 2,9 % fett;SV
+34980;Ost, emmentalost, 2 % fett, valio polar;SV
+34983;Vassleprotein, koncentrat;SV
+34984;Kakaodryck, valio play, laktosfri;SV
+34985;Kaffedryck, kalt, kaffe med mjölk, vitamin d, laktosfri;SV
+34986;Iskaffe, mjölkbaserad kaffedryck, 1,8 % fett, laktosfri;SV
+34988;Mineralvatten med juice;SV
+34989;Vitaminvatten, vitamin well, fruktos;SV
+34990;Måltidsersättning, vassleproteinpulver, 74 % protein;SV
+34991;Måltidsersättning, vassleproteinpulver, 85 % protein;SV
+34992;Måltidsersättning, proteinrik stång, medelvärde, ca 20 % protein;SV
+34996;Måltidsersättning, sojaproteinpulver, ca. 80 % protein;SV
+34997;Måltidsersättning, vassleproteinpulver, ca 90 % protein;SV
+34998;Profeel proteindryck, sockerfri, valio, 1 ug vitamin d;SV
+34999;Sportdryck, återhämtningsdryck, gainomax;SV
+35000;Sportdryck, proteindryck, protein shake, fast;SV
+35001;Smör laktosfri, låg salthalt;SV
+35002;Sportdryck, protein, protein smoothie, fast;SV
+35003;Måltidsersättning, vassleproteinpulver, profeel, 44 % protein;SV
+35004;Sportdryck, protein, protein shake, 1,6 % fett;SV
+35005;Mellanmålsstång, dadelstång med nötter, bare bar;SV
+35006;Vegetabilisk oljeprodukt 70 %, flytande;SV
+35007;Måltidsersättning, proteinrik stång, ca 30 % protein, fiber;SV
+35008;Margarin 60 %, rainbow/pirkka/x-tra, laktosfri;SV
+35009;Margarin 60 %, pirkka, hög salthalt;SV
+35011;Måltidsersättning, energi stång, vitaminer, medelvärde;SV
+35012;Måltidsersättning, proteinrik stång, medelvärde, ca 40 % protein;SV
+35013;Måltidsersättning, vassleproteinpulver, ca 40 % protein;SV

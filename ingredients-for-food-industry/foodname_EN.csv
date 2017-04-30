@@ -1,0 +1,1393 @@
+FOODID;FOODNAME;LANG
+1;Sugar;EN
+2;Fructose;EN
+3;Syrup;EN
+4;Honey;EN
+5;Sweet, candy;EN
+6;Chocolate, average;EN
+7;Chocolate confection filled with marmalade;EN
+8;Liquorice, licorice;EN
+9;Jelly candy, fruit jelly;EN
+10;Marzipan, almond paste;EN
+11;Toffee;EN
+12;Salty liqourice pastille;EN
+14;Chocolate bar, average;EN
+20;Cocoa powder, unsweetened;EN
+21;Cocoa powder with sugar;EN
+24;Sorbitol;EN
+25;Gelatin;EN
+26;Baking yeast, fresh;EN
+27;Flour, cornstarch, cornflour;EN
+28;Mustard;EN
+30;Salt, iodised;EN
+31;Soy sauce;EN
+32;Chocolate, plain, dark chocolate;EN
+33;Chocolate, milk chocolate;EN
+34;Halva made with sesame seeds and sugar;EN
+35;Sweet, candy, sugar-free;EN
+36;Salt, low sodium;EN
+37;Chocolate, artificially sweetened;EN
+38;Meat bouillon powder/cube;EN
+39;Sweetener, aspartam, powder;EN
+40;Cereal bar with fibre;EN
+43;Rye malt;EN
+44;Chocolate bar with filling, average;EN
+62;Pastille sweetened with xylitol;EN
+63;Chocolate bar, low-fat;EN
+65;Chewing gum, xylitol sweetened;EN
+66;Chewing gum;EN
+68;Barley starch;EN
+69;Fruit pastille with gum arabic;EN
+70;Sweetener, saccharin;EN
+73;Raisin or dried fruit coated with yoghurt;EN
+74;Baking powder;EN
+75;Fish stock broth;EN
+79;Salt, rock salt, without iodine;EN
+100;Flour, rye, wholegrain rye flour;EN
+103;Rye flakes;EN
+110;Flour, wheat flour, semi-coarse;EN
+111;Flour, whole wheat flour, graham flour;EN
+112;Semolina;EN
+113;Semolina, whole wheat;EN
+114;Wheat flakes;EN
+115;Wheat germ;EN
+116;Wheat bran;EN
+117;Macaroni, pasta;EN
+119;Macaroni, whole wheat;EN
+120;Noodle, wheat;EN
+121;Pasta, spaghetti, macaroni;EN
+124;Flour, dark wheat flour;EN
+125;Flour mixture, for bread rolls, wheat flour, wheat groats, rye;EN
+126;Flour, breadcrumbs;EN
+133;Wafer, ice cream cone;EN
+142;Flour, wheat flour, semi-coarse, bakery industry, fresh;EN
+150;Flour, barley flour;EN
+151;Barley, pearl;EN
+152;Barley, rolled, barley flakes;EN
+153;Oats, rolled, oat flakes;EN
+154;Flour mixture, talkkuna powder, roasted barley, rye, oat, pea;EN
+156;Rice, white;EN
+158;Rice, wholegrain;EN
+160;Flour, millet, whole or crushed grains;EN
+161;Flour, buckwheat, whole or crushed grains;EN
+162;Flour, potato starch, potato flour;EN
+167;Maize, kernel, dried, unpopped;EN
+168;Malt for beer;EN
+170;Oat bran;EN
+172;Spaghetti spinach, contains egg;EN
+173;Oat macaroni, contains wheat and oats;EN
+175;Wheat grain, crushed;EN
+176;Rye grain, crushed;EN
+182;Flour, rice flour, rice flake;EN
+183;Flour, rice flour, whole grain;EN
+184;Tortilla chips, taco shell;EN
+185;Flour mixture, gluten-free, contains wheat starch;EN
+189;Flour mixture, rye, wheat;EN
+202;Potato, dried;EN
+203;Potato crisps, potato chips, potato snack;EN
+204;Potato, new;EN
+205;Potato, peeled;EN
+206;Mashed potato powder;EN
+207;French fries, frozen;EN
+209;Potatoflake;EN
+300;Carrot;EN
+302;Carrot, dried;EN
+303;Swede, rutabaga;EN
+304;Turnip;EN
+305;Beetroot, red beet;EN
+307;Beetroot, pickled;EN
+308;Radish;EN
+309;Parsnip;EN
+310;Jerusalem artichoke;EN
+311;Celeriac, turnip-rooted celery, knob celery, celery root;EN
+312;Black salsify;EN
+320;White cabbage;EN
+321;Red cabbage;EN
+322;Cauliflower;EN
+324;Broccoli;EN
+326;Kale;EN
+327;Brussels sprout;EN
+329;Kohlrabi;EN
+330;Lettuce;EN
+331;Iceberg lettuce;EN
+333;Parsley;EN
+334;Nettle;EN
+335;Onion;EN
+336;Onion, dried;EN
+337;Leek;EN
+338;Rhubarb;EN
+339;Celery;EN
+340;Asparagus, canned;EN
+342;Mushroom, boletus, russula;EN
+343;Mushroom, milk caps, salted;EN
+344;Mushroom in vinegar;EN
+345;Champignon, fresh;EN
+346;Cucumber;EN
+347;Cucumber, pickled cucumber, without added sugar;EN
+348;Pickled cucumber, sweet, flavoured;EN
+350;Pumpkin;EN
+351;Salad, pickled pumpkin;EN
+352;Tomato;EN
+353;Tomato ketchup;EN
+354;Tomato puree;EN
+355;Sweet pepper, average;EN
+356;Mixed vegetables, carrot, cauliflower, pea, bean;EN
+358;Vegetable juice;EN
+359;Chinese cabbage;EN
+360;Swiss chard;EN
+362;Aubergine;EN
+363;Sweet corn kernels;EN
+364;Garden cress;EN
+367;Chanterelle;EN
+368;False morel;EN
+369;Dill, fresh;EN
+370;Pea, green;EN
+371;Pea, green, dried;EN
+372;Bean, green bean, string bean;EN
+373;Bean, brown bean, white bean, average;EN
+375;Nut, hazelnut;EN
+376;Nut, walnut;EN
+377;Chestnut;EN
+378;Nut, peanut;EN
+379;Almond;EN
+380;Flour, soya flour, full fat;EN
+381;Flour, soya flour, low-fat;EN
+382;Coconut flake;EN
+383;Nut, peanut, salt;EN
+384;Beansprouts and alfalfa sprouts, average;EN
+385;Sesame seed, with hull;EN
+386;Sweet pepper, red;EN
+387;Sweet pepper, green;EN
+388;Sweet pepper, yellow;EN
+389;Zucchini, summer squash;EN
+390;Tomato juice, unsweetened;EN
+391;Soya beans, dried;EN
+392;Chives;EN
+393;Garlic;EN
+394;Salad, sweet pickle relish;EN
+395;Bean, white bean, boiled;EN
+398;Tomatoes, crushed, canned;EN
+399;Lentils, green/brown, dried;EN
+401;Apple, dried;EN
+408;Apricot, canned, in syrup;EN
+409;Apricot, dried;EN
+411;Peach, canned, in syrup;EN
+412;Peach, dried;EN
+417;Pineapple, canned, in syrup;EN
+423;Grape, average, green or red, seedless;EN
+427;Mixed fruit, dried;EN
+428;Raisin;EN
+431;Olive, average, with stone, in oil, green/black;EN
+432;Fruit cocktail, in syrup;EN
+433;Apple juice, unsweetened, vitamin c;EN
+434;Orange juice, unsweetened, vitamin c;EN
+435;Grapefruit juice, unsweetened, vitamin c;EN
+436;Fruit juice, unsweetened, vitamin c, average;EN
+437;Lemon juice, unsweetened, diluted;EN
+438;Pineapple juice, unsweetened, vitamin c;EN
+440;Lingonberry, cowberry;EN
+441;Cranberry;EN
+442;Blueberry, bilberry;EN
+444;Blackcurrant;EN
+445;Redcurrant;EN
+446;Gooseberry;EN
+447;Strawberry;EN
+448;Raspberry;EN
+449;Cloudberry;EN
+450;Mixed berry jam;EN
+451;Berry juice, sweetened, undiluted, home-made;EN
+452;Blackcurrant juice, sweetened, undiluted, home-made;EN
+453;Berry juice, unsweetened, undiluted, home-made;EN
+454;Berry, average;EN
+455;Sea buckthorn berry;EN
+456;Berry marmalade;EN
+457;Rowan berry;EN
+458;Juice drink, blackcurrant-lingonberry, contains sugar;EN
+459;Juice drink, lingonberry, undiluted, contains sugar;EN
+461;Berry juice, sweetened, diluted, home-made;EN
+462;Blackcurrant juice, sweetened, diluted, home-made;EN
+463;Berry juice, unsweetened, diluted, home-made;EN
+469;Fruit juice, five fruits, unsweetened, vitamin c;EN
+471;Pineapple, canned, in own juice;EN
+472;Applesauce, unsweetened;EN
+473;Fruit nectar, berry nectar, sweetened, 50% fruit;EN
+474;Berry juice, unsweetened;EN
+476;Jam, sweetened with fructose;EN
+477;Muskmelon/cantaloupe melon, without skin;EN
+478;Berry nectar drink, sweetened, contains 50% berries;EN
+500;Butter;EN
+530;Catering margarine for baking, 80% fat;EN
+531;Catering oil, 70% rapeseed oil, 30% palm oil;EN
+535;Rapeseed oil;EN
+536;Olive oil;EN
+537;Peanut oil;EN
+540;Sunflower oil;EN
+541;Cooking oil, average, 87% rapeseed, 8% sunflower,and 5% olive oil;EN
+542;Soybean oil;EN
+543;Corn oil, maize oil;EN
+550;Lard, frying fat;EN
+552;Coconut butter;EN
+553;Tallow, beef fat;EN
+562;Mayonnaise, 60% fat;EN
+563;Salad dressing, french dressing;EN
+565;Blended spread 40%, kevyt levi, low-sodium, low-lactose;EN
+568;Margarine 60%, rainbow/pirkka/eldorado/k-menu;EN
+570;Blended spread 40%, kevyt levi, low-lactose;EN
+576;Butter, unsalted;EN
+578;Mayonnaise, 27-33% fat;EN
+579;Salad dressing, <17% fat, low-fat;EN
+585;Butter, high-sodium;EN
+593;Margarine for baking 80%, pirkka/rainbow;EN
+597;Blended spread 75%, average of industrial products;EN
+598;Butter oil 100%, milkfat;EN
+600;Milk, raw milk, 4.4 % fat, without added vitamin d;EN
+602;Beestings, colostrum;EN
+604;Milk, goat milk;EN
+606;Milk, 0% fat, i ug added vitamin d;EN
+611;Sour milk, 0.8% fat, 0.5 ug vitamin d;EN
+612;Sour milk, 1 ug vitamin d;EN
+613;Sour milk, butter milk, 0.3% fat, 1 ug vitamin d;EN
+615;Sour cream, 10-12% fat;EN
+616;Sour milk, acidophilus, 2.5% fat, 1 ug vitamin d, probiotics;EN
+617;Curd milk, plain, 3.5% fat;EN
+618;Curd milk, plain, 2% fat;EN
+619;Yoghurt, plain, 2.5% fat, low-lactose;EN
+622;Quark, <0.5% fat;EN
+627;Milk, 1% fat, 1 ug added vitamin d;EN
+628;Creme fraiche, 28% fat;EN
+629;Whipping cream, 38% fat, low-lactose, ultra-heat-treated;EN
+630;Sour cream, 40% fat;EN
+631;Whipping cream, 38% fat;EN
+632;Cooking cream, 19% fat;EN
+633;Cream, low-fat, 1o% fat, low-lactose;EN
+635;Cottage cheese, fat-free, low-lactose;EN
+636;Curd milk, flavoured with jam, 1% fat, low-lactose;EN
+637;Yoghurt, plain, fat-free, low-lactose, 0.5 ug vitamin d;EN
+639;Yoghurt, flavoured, fat-free;EN
+640;Cheese, white mould cheese, camembert/brie, 26-30% fat;EN
+641;Cheese, turunmaa/oltermanni, 30% fat;EN
+642;Cheese, emmental, 27-30% fat, red-label;EN
+643;Cheese, hard cheese, edam type, 24-27% fat;EN
+644;Cheese, semi-hard cheese, edam/kadett, 9-11% fat;EN
+645;Cheese, hard cheese, goat cheese, 20-25% fat;EN
+647;Processed cheese, 20-24% fat;EN
+648;Processed cheese, 27-35% fat;EN
+649;Cottage cheese, 2-5% fat;EN
+650;Cheese, home-made fresh cheese, 9-14% fat;EN
+653;Cheese, blue cheese, aura/danazole, average, 27-30% fat;EN
+654;Cheese, gouda/salaneuvos, average, 28-30% fat;EN
+655;Cheese, semi-hard cheese, lappi/småland/billinge/rustholli, 25-35% fat;EN
+657;Cheese, finnish oven cheese, 17-23% fat;EN
+658;Cream cheese, 36-44% fat, kasakka/musta-pekka;EN
+659;Processed cheese, 9-12% fat, low-fat;EN
+661;Soft ice cream with wafer;EN
+663;Ice cream, cream based;EN
+664;Ice cream bar, cream based, chocolate-coated;EN
+665;Ice cream cornet, cream based;EN
+666;Ice cream, milk based;EN
+667;Ice cream, artificially sweetened, 6.5% fat;EN
+668;Ice cream, cream based, >12% fat;EN
+669;Ice cream, fat-free;EN
+672;Milk powder, fat-free milk;EN
+675;Milk, 1.5% fat, low-lactose, 1 ug added vitamin d;EN
+680;Curd milk, plain, 1% fat;EN
+682;Cream cheese, 30% fat, flavoured, creme bonjour/cantadou;EN
+684;Milk, 1.5% fat, 1 ug added vitamin d;EN
+685;Yoghurt, flavoured, fat-free, partially artifially sweetened;EN
+686;Yoghurt, flavoured, 7% fat;EN
+687;Yoghurt, fat 6-8%, for food preparation;EN
+689;Milk, 3.5% fat, 1 ug added vitamin d;EN
+690;Cheese, feta type salad cheese in brine, 18% fat;EN
+691;Cheese, emmental, 27-30% fat, blue-label;EN
+698;Cheese, cheddar type, 34% fat;EN
+699;Cooking cream, vegetable fat, 15% fat;EN
+701;Pork, medium fat;EN
+703;Pork chop, thick layer of fat;EN
+704;Ham, fatty;EN
+705;Pork shoulder;EN
+706;Pork ribs;EN
+707;Bacon;EN
+708;Fatback;EN
+709;Pork knuckle, ham hock;EN
+711;Pork beef mince;EN
+712;Lean steak mince, 7% fat;EN
+713;Pork, average;EN
+714;Beef, average;EN
+716;Beef, medium fat, 13% fat;EN
+718;Beef round;EN
+719;Beef chuck, beef shoulder;EN
+720;Beef knuckle;EN
+721;Beef brisket;EN
+722;Beef sirloin;EN
+723;Beef flank;EN
+726;Veal roast, raw;EN
+730;Lamb, low-fat;EN
+731;Lamb;EN
+732;Lamb roast;EN
+734;Reindeer;EN
+735;Elk;EN
+736;Hare;EN
+737;Rabbit;EN
+741;Beef, canned;EN
+743;Pork and beef, canned;EN
+747;Beef jelly;EN
+748;Pork roast, lean;EN
+750;Chicken;EN
+751;Chicken with skin;EN
+752;Turkey with skin;EN
+753;Game bird;EN
+754;Chicken strips;EN
+775;Ham, smoked, 6% fat;EN
+776;Beef, cured, 2.8% fat;EN
+779;Ham, cooked ham, 3% fat;EN
+786;Liver, beef;EN
+787;Liver, pork;EN
+788;Liver, chicken;EN
+789;Liver, reindeer;EN
+790;Liver, average;EN
+791;Kidney;EN
+792;Heart, beef;EN
+793;Tongue, beef;EN
+794;Blood;EN
+797;Reindeer, cold smoked;EN
+799;Ham, cooked ham, low-fat, 3% fat;EN
+800;Baltic herring;EN
+801;Baltic herring, salted;EN
+802;Baltic herring, smoked;EN
+803;Herring, salted;EN
+804;Cod;EN
+805;Zander, pike-perch;EN
+806;Redfish, smoked;EN
+807;Halibut, smoked;EN
+809;Vendace, lake;EN
+810;Vendace, salted lake fish;EN
+811;Vendace, smoked lake fish;EN
+812;Perch;EN
+813;Pike;EN
+814;Bream;EN
+815;Powan, whitefish, pollan, lavaret;EN
+816;Powan, smoked;EN
+817;Salmon, whole;EN
+818;Salmon, salt-cured;EN
+819;Burbot;EN
+820;Flounder;EN
+821;Eel;EN
+822;Rainbow trout, whole, average;EN
+823;Trout;EN
+824;Fish, average, baltic herring/vendace/perch/pike;EN
+825;Lamprey, smoked;EN
+826;Saithe, frozen;EN
+828;Tuna, in oil, canned;EN
+829;Anchovy;EN
+830;Salmon in oil, canned;EN
+831;Sardine, average, in oil and tomato sauce;EN
+832;Caviar, dark roe of sturgeon;EN
+833;Roe paste;EN
+834;Mussel in water, canned;EN
+835;Shrimp;EN
+836;Crayfish;EN
+837;Herring, pickled/salted, average;EN
+838;Baltic herring, pickled/salted, average;EN
+844;Bream, smoked;EN
+845;Roach;EN
+846;Redfish, rosefish, frozen;EN
+848;Rainbow trout sea, fillet;EN
+851;Egg yolk, 34% of egg mass;EN
+852;Egg white, 66% of egg mass;EN
+855;Egg, quail, raw;EN
+856;Fish, low-fat, average, smoked;EN
+857;Fish, fatty, smoked;EN
+858;Egg without shell;EN
+859;Herring in garlic or mustard sauce;EN
+860;Baltic herring in dill or mustard sauce;EN
+862;Tuna;EN
+863;Oyster, european;EN
+864;Snail;EN
+865;Squid;EN
+866;Lobster;EN
+870;Rainbow trout fillet, salt-cured;EN
+871;Salmon fillet;EN
+900;Coffee, average;EN
+901;Tea;EN
+902;Beer, lager, medium strength, 4.5% volume;EN
+903;Beer, lager, strong, 5-5.5% volume;EN
+904;Wine, average, 8-15% volume;EN
+905;Wine, fortified, sweet, bitters, sherry, vermouth, madeira, fruit wine;EN
+906;Spirit, vodka, gin;EN
+907;Spirit, brandy/rum/whisky 40% volume;EN
+908;Liqueur, 20-30% volume;EN
+909;Gin and grapefruit drink, 5.5% volume;EN
+910;Soft drink, lemonade;EN
+911;Cider, sweet, <3% volume;EN
+912;Mead, finnish sima;EN
+913;Beer, lager, very mild <2.8% volume;EN
+914;Beer home-made, alcohol-free;EN
+915;Mineral water;EN
+917;Lemon tea drink powder, sweetened instant tea;EN
+920;Soft drink, light, sugar-free;EN
+921;Mineral water, low sodium;EN
+922;Water, tap water;EN
+923;Tea, herbal tea;EN
+924;Red wine;EN
+925;White wine, dry;EN
+926;White wine, sweet;EN
+928;Soft drink, cola, average;EN
+929;Vinegar, wine vinegar;EN
+930;Filtered coffee drink;EN
+931;Boiled coffee drink;EN
+932;Cappuccino, unsweetened, whole milk;EN
+933;Vinegar;EN
+934;Vinegar with honey and apple;EN
+936;Wine, light, 4-5% volume;EN
+937;Tea, green tea;EN
+938;Soft drink, partially artificially sweetened;EN
+939;Cider, sweet, 4.7% volume;EN
+940;Beer, strong ale, 7.5-8% volume;EN
+941;Soft drink, cola, light, partially artificially sweetened;EN
+942;Cream liqueur, 15-17% volume;EN
+946;Glucose syrup, partly refined, starchy;EN
+1554;Cheese puffs;EN
+5007;Sandwich relish;EN
+11001;Root vegetable, average, light colored;EN
+11002;Leaf vegetable, average, dark green;EN
+11004;Roe, average;EN
+11005;4-grain flakes;EN
+11007;Rose hip;EN
+11012;Strawberry jam, 54% sugar, home-made;EN
+11013;Orange marmalade;EN
+11014;Palm oil;EN
+11030;Flour, rye, fine rye flour;EN
+11045;Orange without skin;EN
+11046;Mandarin, average, without skin;EN
+11047;Grapefruit, without skin;EN
+11048;Lemon, without skin;EN
+11049;Banana, without skin;EN
+11050;Kiwi fruit, without skin;EN
+11051;Peach/nectarine, without skin and stone;EN
+11052;Cherry without stone;EN
+11053;Plum, without stone;EN
+11054;Apricot, average, without stone;EN
+11055;Watermelon, without skin;EN
+11056;Pineapple, without skin;EN
+11057;Avocado, without skin and stone;EN
+11059;Tuna, average;EN
+11060;Apple, domestic, without skin;EN
+11061;Apple, imported, without skin;EN
+11062;Pear, without skin;EN
+11063;Prune, without stone;EN
+11064;Champignon, canned;EN
+11065;Rose hip puree without sugar;EN
+11067;Tuna, in water, canned;EN
+11069;Wine, non-alcoholic;EN
+11071;Exotic fruit, average, mango/papaya, without skin;EN
+11072;Soured cucumber;EN
+11074;Sprout, alfalfa;EN
+11086;Nut, cashew nut;EN
+11087;Sesame seed paste tahini, without added salt;EN
+11089;Chick pea in unsalted water;EN
+11090;Bean, white bean, in tomato sauce;EN
+11092;Whey powder. for food industry;EN
+11130;Cream cheese, 6-11% fat, flavoured;EN
+11131;Cheese, white mould cheese, vit castello, 40% fat;EN
+11132;Cream cheese-like vegetable fat product, 24-30% fat;EN
+11133;Cheese, semi-hard cheese, turunmaa/edam/adam/magre, 15-18% fat;EN
+11134;Basil, fresh;EN
+11135;Bamboo shoots, canned;EN
+11136;Cream, low-fat, 25% fat;EN
+11142;Ice lolly, average;EN
+11145;Milk, 0% fat, low-lactose, 1 ug added vitamin d;EN
+11146;Cheese, finnish oven cheese, low-lactose, 17-23% fat;EN
+11148;Ice cream bar, cream based, chocolate flavoured;EN
+11149;Ice cream with sorbet coating, average;EN
+11150;Chicken marinated, without skin;EN
+11152;Sour cream, 10-12% fat, low-lactose;EN
+11154;Curd milk, plain, 2% fat, low-lactose;EN
+11155;Cottage cheese, 2-5% fat, low-lactose;EN
+11156;Quark, <0.5% fat, low-lactose;EN
+11157;Cheese, vegetable fat, 28% fat;EN
+11159;Creme fraiche, 15-18% fat;EN
+11164;Vanillin sauce;EN
+11165;Sour milk, fat-free, low-lactose, 1 ug vitamin d;EN
+11172;Ice cream bar, vegetable fat, chocolate coated;EN
+11173;Ice cream cornet, vegetable fat;EN
+11177;Pepper, black pepper;EN
+11178;Pepper, white pepper;EN
+11182;Paprika powder;EN
+11188;Vanillin sugar;EN
+11191;Oregano, dried;EN
+11194;Thyme;EN
+11196;Aromatic salt, 71% salt content;EN
+11197;Hp-sauce, brown sauce;EN
+11198;Glucose;EN
+11203;Honeydew melon, without skin;EN
+11210;Pastille sweetened with xylitol, added vitamin c;EN
+11211;Cheese, feta cheese in brine, made with goat milk, 25% fat;EN
+11212;Sunflower seed;EN
+11287;Vegetable fat spread 28%, mini lätta;EN
+11503;Grape juice, unsweetened;EN
+11505;Banana chip;EN
+11507;Rice starch;EN
+11512;Pork chop, cutlet;EN
+11513;Pork fillet, boneless tenderloin, fat 4.5 %;EN
+11521;Rice, white, long-grain, parboiled;EN
+11522;Rice and rye mix;EN
+11550;Cream cheese, 30% fat, flavoured, low-lactose;EN
+11551;Turkey breast;EN
+11553;Fruit jam, average;EN
+11557;Lemon juice, unsweetened, undiluted;EN
+11558;Orange juice, unsweetened, added calcium;EN
+11562;Beef mince, 17% fat;EN
+11563;Chicken leg and thigh with skin;EN
+11564;Chicken breast with skin;EN
+11565;Chicken breast strips without skin;EN
+11571;Cream cheese, low-fat, 11% fat, plain;EN
+11572;Milk, 0% fat, with added calcium and 0.5 ug vitamin d;EN
+11580;Sanck bar with nuts, sweet;EN
+11587;Rose hip drink, contains oat and lactobacillus plantarum, pro viva;EN
+11589;Horseradish;EN
+11680;Potato, peeled, vacuum packed, catering;EN
+11685;Cooking oil, 50% palm, 25% palm kernel and 25% rapeseed oil;EN
+11687;Rice drink;EN
+11689;Asparagus, raw, cleaned;EN
+11690;Mayonnaise, 15% fat, low-fat;EN
+11691;Roe, average, salted;EN
+11695;Rapeseed oil, cold pressed;EN
+11700;Soy protein concentrate, 58% protein;EN
+11701;Palm kernel oil;EN
+11723;Yoghurt, flavoured, 3% fat;EN
+11726;Curd milk, flavoured, 1% fat, low-lactose;EN
+11727;Yoghurt, flavoured, 2.5% fat;EN
+11734;Shiitake mushroom;EN
+11735;Oyster mushroom;EN
+11736;Yoghurt, plain, 1.5% fat;EN
+11739;Vegetable fat spread 35%, becel pro-activ;EN
+28905;Flour, wheat flour, durum;EN
+28909;Rye macaroni;EN
+28910;Rice, brown;EN
+28913;Potato, unpeeled, avarage, raw;EN
+28915;Muskmelon/cantaloupe melon, with skin;EN
+28916;Apple, average, with skin;EN
+28917;Pear, with skin;EN
+28918;Plum, with stone;EN
+28919;Prune, with stone;EN
+28920;Cherry with stone;EN
+28921;Apricot, average, with stone;EN
+28922;Peach/nectarine, average, with stone;EN
+28923;Pineapple, with skin;EN
+28924;Orange, average, with skin;EN
+28925;Lemon, with skin;EN
+28926;Grapefruit, average, with skin;EN
+28927;Vegetarian sausage, contains soya;EN
+28928;Grape leaves, canned;EN
+28929;Lamb mince, 14% fat;EN
+28930;Chicken mince;EN
+28931;Watermelon, with skin;EN
+28932;Grape, average, green or red;EN
+28933;Avocado  with skin and stone;EN
+28934;Banana, with skin;EN
+28935;Mandarin, average, with skin;EN
+28936;Fig, dried, with skin;EN
+28937;Date, dried, with stone;EN
+28938;Olive, average, without stone, in oil, green/black;EN
+28939;Kiwi fruit, with skin;EN
+28941;Apple, domestic, average, with skin;EN
+28942;Apple, imported, average, with skin;EN
+28944;Honeydew melon with skin;EN
+28945;Turkey mince, fat 5-6%;EN
+28946;Pork mince, fat 16 %;EN
+28947;Bacon, fillet, 18% fat;EN
+28962;Sweet corn, corn on the cob;EN
+28991;Cafe au lait, unsweetened, whole milk;EN
+28992;Milk, whole milk, 3.5% fat, boiled;EN
+28993;Cafe latte, unsweetened, whole milk;EN
+29008;Vegetable bouillon cube;EN
+29009;Chicken bouillon cube, contains wheat;EN
+29010;Fish stock cube;EN
+29014;Coconut milk;EN
+29055;Noodle, rice noodle;EN
+29060;Cheese, feta type salad cheese in brine, fat 12-15%;EN
+29064;Milk, 1.5% fat, lactose-free, 1 ug added vitamin d;EN
+29065;Cooking cream, 15% fat;EN
+29066;Whipping cream, 35% fat;EN
+29070;Energy drink with added vitamins;EN
+29089;Yoghurt, drinkable, flavoured, fat 0.1 g;EN
+29091;Cappuccino, unsweetened, fat-free milk;EN
+29128;Curd milk, plain, fat-free;EN
+29135;Cider, dry 4.7% volume;EN
+29150;Juice drink, lingonberry, diluted, contains sugar;EN
+29155;Cocoa butter;EN
+29156;Chocolate, white chocolate;EN
+29159;Margarine 40%, average of industrial products;EN
+29160;Egg, whole, with shell;EN
+29207;Baltic herring, fillet;EN
+29208;Couscous;EN
+29210;Milk, 1.5% fat, without added vitamin d, organic;EN
+29211;Milk, 0% fat, without added vitamin d, organic;EN
+29212;Sour milk, fat-free, organic, without added vitamin d;EN
+29215;Juice drink, fruit, berry, added vitamin c, contains sugar;EN
+29217;Rofous milkcap;EN
+29228;Cheese, feta cheese in oil, goat milk;EN
+29237;Rye bran;EN
+29239;Cheese, mozzarella cheese, 20% fat;EN
+29409;Margarine 60%, becel, lactose-free;EN
+29410;Porcini;EN
+29412;Infant formula, powder, average;EN
+29413;Infant formula, ready-to-feed, average;EN
+29496;Macaroni, gluten-free;EN
+29499;Flour mixture, naturally gluten-free, rice, corn, potato;EN
+29501;Tonic water;EN
+29685;Plum juice, unsweetened;EN
+29687;Salty liqourice;EN
+29819;Soured milk gefilus, skimmed 0.1 fat;EN
+29822;Flour, corn meal, coarsely ground;EN
+29823;Flour, corn meal, finely ground;EN
+29975;Meal replacement, protein drink powder, herbalife formula 1, 35% protein;EN
+30051;Xylitol pastille, full xylitol;EN
+30187;Corn snack, puffed, corn puffs without added salt;EN
+30190;Flour, oat flour;EN
+30193;Pasta, multigrain, wheat, rye and barley;EN
+30194;Sport beverage, carbohydrate drink, powerade, gatorade;EN
+30207;Soya drink,  calcium;EN
+30208;Oat drink without milk, with added calcium;EN
+30209;Oat drink without milk, with added calcium and vitamins;EN
+30210;Oat drink without milk;EN
+30212;Rice drink, calcium;EN
+30214;Water chestnut;EN
+30221;Rice and oat mix;EN
+30223;Sweet potato, without skin;EN
+30224;Soft drink, cola, light, artificially sweetened;EN
+30265;Chicken wing with skin;EN
+30268;Chicken wing without skin;EN
+30271;Chicken wing, marinated, raw;EN
+30273;Slicing sausage, ham sausage, 16% fat;EN
+30274;Slicing sausage, balkan, 21.5% fat;EN
+30275;Slicing sausage, gotler, 13.8% fat;EN
+30278;Vendace, canned in tomato sauce;EN
+30279;Slicing sausage, lauantai, light, 14% fat, contains milk protein;EN
+30281;Frankfurter, contains cheese;EN
+30292;Sausage, ring bologna, contains cheese;EN
+30294;Slicing sausage, low salt, fat 3.5%;EN
+30295;Slicing sausage, balkan, light, 10% fat;EN
+30305;Salami, light, 15% fat;EN
+30306;Salami;EN
+30310;Processed cheese, 5% fat, low-fat;EN
+30317;Frankfurter, average of industrial products;EN
+30318;Sausage, ring bologna, average;EN
+30319;Slicing sausage, jahti, 17% fat, average of industrial products;EN
+30321;Barbeque sausage, light, average;EN
+30322;Groat sausage, average of industrial products;EN
+30324;Sausage, ring bologna, light, average;EN
+30325;Frankfurter, light, average of industrial products;EN
+30369;Sausage, fresh sausage, siskonmakkara;EN
+30370;Barbeque sausage, meaty, cheese;EN
+30371;Blood sausage, black sausage;EN
+30372;Liver sausage, liver pate, average;EN
+30373;Liver sausage, liver pate, light, average;EN
+30374;Barbeque sausage, cheese;EN
+30380;Tea, ice tea;EN
+30388;Juice drink, fruit, berry, partially artificially sweetened;EN
+30390;Juice drink, fruit, berry, light, partially artificially sweetened;EN
+30391;Pear juice, unsweetened;EN
+30392;Juice drink, fruit, berry, average, contains sugar;EN
+30394;Fruit juice, concentrated, average, contains sugar;EN
+30395;Cranberry-lingonberryjuice, unsweetened;EN
+30396;Juice drink, sugar-free, artificially sweetened;EN
+30402;Cheese, semi-hard cheese, turunmaa, 5% fat;EN
+30406;Cottage cheese, 2-5% fat, lactose-free;EN
+30423;Milk, 0% fat, lactose-free, 1 ug added vitamin d;EN
+30428;Cheese, blue cheese, aura, 17% fat;EN
+30429;Cheese, white mould cheese, camembert/brie, 16% fat;EN
+30430;Cider, dry, 5.5% volume;EN
+30432;Cider, 0.7% volume;EN
+30440;Rice chocolate;EN
+30443;Cream cheese, low-fat, 15% fat, flavoured, creme bonjour light;EN
+30444;Tomato, sun-dried, in oil;EN
+30449;Curd milk, plain, 1% fat, low-lactose;EN
+30450;Curd milk, flavoured, 2% fat, low-lactose;EN
+30451;Mineral water, sweetened with fructose;EN
+30452;Yoghurt, drinkable, flavoured, fat 0.1%, low-lactose;EN
+30454;Sour cream, 6% fat, low-lactose;EN
+30455;Sour cream, 3.5% fat, low-lactose;EN
+30456;Yoghurt, flavoured, 2% fat, low-lactose, 0.5 ug vitamin d;EN
+30462;Yoghurt, flavoured, 1.5% fat, low-lactose;EN
+30464;Yoghurt, flavoured, fat-free, lactose-free;EN
+30570;Maltodextrin;EN
+30572;Barbeque sausage, average;EN
+30573;Barbeque sausage, meaty, average;EN
+30574;Blackcurrant juice, unsweetened, undiluted, home-made;EN
+30575;Blackcurrant juice, unsweetened, diluted, home-made;EN
+30576;Juice drink, gefilus, probiotics, average of industrial products;EN
+30606;Juice, unsweetened, vitamin c, vitamin d, probiotics;EN
+30607;Juice drink, fruit, berry, fibre, contains sugar;EN
+30608;Yoghurt with jam, fat-free;EN
+30610;Butter, low-sodium;EN
+30612;Vegetable fat spread 30%, keiju kevyt;EN
+30616;Margarine 40%, rainbow/pirkka;EN
+30617;Vegetable fat spread 70%, keiju lactose free, 20 ug vitamin d;EN
+30619;Margarine 60%, keiju normally salted, 20 ug vitamin d;EN
+30621;Margarine 40%, keiju light, lactose-free, 20 ug vitamin d;EN
+30629;Margarine 60%, kultarypsi;EN
+30631;Margarine 60%, average of industrial products;EN
+30633;Fruit juice, concentrated, with added vitamins, contains sugar;EN
+30636;Cider, light, 4.7% volume;EN
+30638;Gin and grapefruit drink, light, 4.7% volume;EN
+30641;Egg, omega, without shell;EN
+30646;Cooking cream, 5% fat, low-lactose;EN
+30665;Meal replacement, protein bar, average, c. 30% protein;EN
+30673;Quark, flavoured, 3.5% fat;EN
+30792;Chicken leg and thigh without skin;EN
+30914;Florence fennel;EN
+30925;Mayonnaise, 80% fat;EN
+30926;Mayonnaise, fat-free;EN
+30968;Pine nut, pine kernel;EN
+30991;Linseed, whole;EN
+31139;Pasta, wheat germ pasta;EN
+31144;Pork strips, marinated;EN
+31145;Beef strips, marinated;EN
+31160;Baking soda, bicarbonate of soda;EN
+31174;Pasta, dark high protein pasta;EN
+31175;Quinoa;EN
+31211;Pumpkin seed;EN
+31212;Nut, pistachio nut;EN
+31213;Bean, mung bean, boiled;EN
+31214;Bean, kidney bean, boiled;EN
+31216;Bean, adzuki bean, dried;EN
+31217;Bean, adzuki bean, boiled without salt;EN
+31218;Chick pea, dried;EN
+31219;Lentils, red, dried;EN
+31225;Lentils, red, cooked;EN
+31226;Spelt flour, whole meal;EN
+31229;Soy milk frozen dessert, ice cream bar, chocolate coated;EN
+31231;Soya product, non-dairy cream substitute, 17.5% fat;EN
+31233;Bean, broad bean, fava bean, boiled;EN
+31246;Soya drink, vitamins;EN
+31247;Soya drink, plain;EN
+31248;Soya drink, chocolate, vitamins;EN
+31252;Rice cake;EN
+31253;Rice cake with corn;EN
+31254;Chocolate raisin;EN
+31256;Fresh pasta, contains egg;EN
+31457;Lingonberry jam;EN
+31459;Apple jam;EN
+31482;Macaroni, pasta, contains egg;EN
+31487;Milk powder, fat-free milk, low-lactose, 5 ug added vitamin d;EN
+31488;Milk powder, fat-free milk, lactose-free, 5 ug added vitamin d;EN
+31495;Linseed oil, flaxseed oil;EN
+31496;Milk powder, fat-free milk, 5 ug added vitamin d;EN
+31497;Milk powder, fat-free milk, low-lactose;EN
+31498;Milk powder, fat-free milk, lactose-free;EN
+31504;Blended spread 70%;EN
+31505;Blended spread 75%, lactose-free;EN
+31506;Blended spread 40%, low-lactose;EN
+31508;Fat blend 80%, cooking liquid, average;EN
+31511;Yoghurt, flavoured, 4% fat, lactose-free;EN
+31518;Ice cream, yoghurt based, 9% fat;EN
+31525;Soy product, alpro natural, soured, plain, added vitamin and calcium;EN
+31530;Butter lactose-free;EN
+31532;Flour mixture, naturally gluten-free, dark;EN
+31534;Flour mixture, gluten-free, contains wheat starch, with added vitamins;EN
+31536;Fish fingers, salmon, frozen;EN
+31537;Pasta, wholegrain rice flour, naturally gluten-free;EN
+31538;Apricot puree, unsweetened, with added vitamin c;EN
+31539;Berry puree, unsweetened, added vitamin c;EN
+31544;Flour mixture, naturally gluten-free;EN
+31545;Tomato ketchup, reduced salt and sugar;EN
+31550;Flour mixture, gluten-free, contains wheat starch and milk powder;EN
+31552;Guava;EN
+31553;Milk, 1.5% fat, lactose-free, without added vitamin d, organic;EN
+31555;Pomegranate, without skin;EN
+31557;Chili, green, raw;EN
+31675;Pasta, spaghetti, macaroni, naturally gluten-free;EN
+31677;Pasta, spaghetti, naturally gluten-free, contains egg;EN
+31679;Pasta, rich in fiber, naturally gluten-free;EN
+31683;Flour mixture, gluten-free, contains wheat starch, with added vitamins;EN
+31692;Flour, breadcrumbs, naturally gluten-free;EN
+31888;Milk, 0% fat, valio plus, 2 ug added vitamin d;EN
+31891;Milk, 3.5% fat, low-lactose, 1 ug added vitamin d;EN
+31894;Milk, coffee milk 2% fat, lactose-free, 1 ug added vitamin d;EN
+31900;Sour milk, fat-free, lactose-free, 1 ug vitamin d;EN
+31947;Oat product, fermented oat and fruit, yosa smoothie;EN
+31956;Quark, flavoured, fat-free, artificially sweetened;EN
+31959;Cooking cream, cheese flavour, 10% fat, low-lactose;EN
+31966;Cream, vegetable fat, 26% fat, flora;EN
+31968;Ice cream, cream based, lactose-free;EN
+31969;Ice cream, cream based, low-lactose;EN
+31970;Ice cream with biscuit, cream based, puffet;EN
+31971;Ice cream, light, 4,5% fat;EN
+31972;Ice cream, cream based, flavoured, carte d'or stracciatella;EN
+31990;Ice cream, cream based, flavoured, carte d'or mascarpone;EN
+31991;Sorbet, raspberry, industrial;EN
+31994;Soy milk frozen dessert, ice cream cornet, gluten-free;EN
+31996;Rice ice cream;EN
+31997;Ice cream, yoghurt based, 4% fat;EN
+32000;Ice cream bar, cream based, caramel and chocolate topping;EN
+32001;Ice cream, cream based, flavoured, aino caramel;EN
+32002;Quark, flavoured, 2.9% fat;EN
+32004;Soy product, non-dairy cream substitute,5.2% fat;EN
+32005;Oat product, non-dairy substitute for cream, 7% fat;EN
+32006;Rice product, non-dairy cream substitute, vegetable fat, 7% fat;EN
+32007;Rice drink, calcium, vitamin d;EN
+32008;Soya drink, light, calcium, vitamins, alpro;EN
+32010;Ice cream with biscuit and chocolate, cream based;EN
+32062;Yoghurt, flavoured, 2% fat, 0.5 ug vitamin d;EN
+32067;Yoghurt, flavoured, fat-free, artificially sweetened, 0.5 ug vitamin d;EN
+32080;Yoghurt, flavoured, vitalinea, fat-free, 0.75 ug vitamin d;EN
+32084;Yoghurt, flavoured, 2% fat, lactose-free, 0.5 ug vitamin d;EN
+32085;Yoghurt, flavoured, 2% fat, low-lactose, a+, 1 ug vitamin d;EN
+32088;Yoghurt, bulgarian, plain, 3.5% fat, 1 ug vitamin d;EN
+32101;Mayonnaise, cucumber mayonnaise, hesburger;EN
+32136;Yoghurt, plain, activia, 3.4% fat;EN
+32142;Yoghurt with jam, fat 2%, low-lactose, 1 ug vitamin d;EN
+32145;Yoghurt, flavoured, fat-free, low-lactose, 1 ug vitamin d;EN
+32153;Bearnaise sauce mix, knorr;EN
+32163;Bearnaise sauce mix, campbell's/blå band;EN
+32172;Soy product, alpro, soured, 2% fat, calcium, vitamins;EN
+32175;Hollandaise sauce mix;EN
+32177;Salad dressing, rapeseed oil, 15% fat, light, thousand island, felix;EN
+32178;Salad dressing, french dressing, rapeseed oil, 47% fat, saarioinen;EN
+32179;Salad dressing, rapeseed oil, 23% fat, light, kartanon, saarioinen;EN
+32189;Curd milk, flavoured, 2% fat, 1 ug vitamin d;EN
+32191;Frankfurter, chicken, atria;EN
+32195;Frankfurter, chicken, hk;EN
+32197;Frankfurter, turkey, light, atria;EN
+32198;Chicken cold cuts, 1.9% fat, hk;EN
+32201;Yoghurt, turkish/greek, 10% fat;EN
+32257;Chicken cold cuts, 2% fat, hk;EN
+32301;Margarine 60%, flora, normally salted;EN
+32308;Margarine 60%, flora, lactose-free;EN
+32341;Margarine 60%, flora, high in salt;EN
+32343;Vegetable fat spread 38%, becel light;EN
+32344;Vegatable oil product 82%, flora culinesse, fluid;EN
+32348;Vegatable oil product 82%, becel, fluid;EN
+32350;Vegetable fat spread 38%, becel light olive;EN
+32354;Margarine 80%, keiju rypsi, fluid;EN
+32357;Doughnut roasting fat 100%, sunnuntai;EN
+32360;Margarine 60%, benecol, lactose-free;EN
+32367;Muksu soy drink;EN
+32381;Bolognese gravy mix, knorr;EN
+32385;Cottage cheese, 1.5% fat;EN
+32386;Tikka masala, uncle ben's;EN
+32403;Dipmix with milk extracts;EN
+32404;Dipmix, milk-free;EN
+32407;Salami, light, 9% fat;EN
+32409;Crumbed ham, 3% fat;EN
+32416;Berry drink, proviva, average, contains probiotics;EN
+32417;Fruit drink, proviva, mango, contains probiotics;EN
+32418;Oat product, fermented oat, fruits and berries, yosa, average, probiotics;EN
+32423;Yoghurt drink, fruit, probiotics, rainbow;EN
+32424;Yoghurt drink, berry, probiotics, rainbow;EN
+32431;Margarine 80%, sunnuntai, fluid, rapeseed oil;EN
+32449;Cereal bar with yoghurt;EN
+32450;Cereal bar, wholegrain muesli bar;EN
+32451;Cereal bar with berries;EN
+32452;Cereal bar with fruits;EN
+32455;Grapefruit pink/red, without skin;EN
+32456;Artichoke;EN
+32464;Nut, brazil nut;EN
+32478;Sweet & sour sauce, uncle ben's;EN
+32480;Salad dressing, rapeseed oil, 39% fat, kartanon, saarioinen;EN
+32482;Salad dressing, rapeseed oil, 20% fat, talon, felix;EN
+32483;Salad dressing, rapeseed oil, 25% fat, greek, felix;EN
+32485;Salad dressing, rapeseed oil, honey, mustard, 36% fat, felix;EN
+32502;Soft toffee covered with milk chocolate, dumle, fazer;EN
+32503;Sweet, candy, milk chocolate pastilles, m&m's, amerikan pastilli;EN
+32509;Chocolate bar, caramel and cookie, twix;EN
+32540;Mulled wine, non-alcololic;EN
+32553;Margarine 80%, fluid, average;EN
+32562;Oat product, fermented oat, yosa naturell;EN
+32568;Blended spread 75%, 10 ug vitamin d;EN
+32570;4-grain flakes, riihikosken vehnämylly;EN
+32592;Sour milk, butter milk, 0.3% fat, 0.5 ug vitamin d;EN
+32593;Sour milk, 0.5 ug vitamin d;EN
+32594;Sour milk, fat-free, low-lactose, 0.5 ug vitamin d;EN
+32595;Sour milk, fat-free, lactose-free, 0.5 ug vitamin d;EN
+32596;Yoghurt, flavoured, fat-free, partially artificially sweetened, 1 ug vitamin d;EN
+32597;Yoghurt, flavoured, fat-free, lactose-free, artificially sweetened, 1 ug vit. d;EN
+32598;Yoghurt, plain, fat-free;EN
+32599;Yoghurt, flavoured, 2% fat, 1 ug vitamin d;EN
+32600;Yoghurt, drinkable, danonino dino, 1.6% fat, 0.9 ug vitamin d;EN
+32602;Sausage, fresh sausage, chorizo, saarioinen;EN
+32619;Meal replacement, shake, naturdiet;EN
+32622;Meal replacement, smoothie, naturdiet;EN
+32623;Meal replacement, drink powder, naturdiet;EN
+32625;Meal replacement, chocolate bar, naturdiet;EN
+32626;Meal replacement, caramel bar, naturdiet;EN
+32627;Meal replacement, dark chocolate bar, naturdiet;EN
+32628;Meal replacement, smoothie, drink powder, easy diet;EN
+32630;Meal replacement, soup powder, asparagus/fish/chicken/mushroom, easy diet;EN
+32632;Meal replacement, soup powder, tomato/texmex/thai, easy diet;EN
+32636;Meal replacement, smoothie, drink powder, nutrifast;EN
+32638;Meal replacement, milk shake, drink powder, allevo;EN
+32640;Meal replacement, smoothie, drink powder, allevo;EN
+32642;Meal replacement, soup powder, potato and leek, allevo;EN
+32644;Meal replacement, soup powder, broccoli, basil and couscous, allevo;EN
+32646;Meal replacement, low calorie drink, allevo;EN
+32647;Meal replacement, low calorie bar, allevo;EN
+32648;Meal replacement, soup powder, nutrilett;EN
+32650;Meal replacement, hunger control, drink, nutrilett;EN
+32651;Meal replacement, milk shake, drink powder, nutrilett;EN
+32653;Meal replacement, hot and cold mocca, drink powder, nutrilett;EN
+32655;Meal replacement, hunger control, bar, nutrilett;EN
+32656;Meal replacement, low calorie bar, average;EN
+32657;Meal replacement, soup powder, average;EN
+32659;Meal replacement, milk shake, drink powder, average;EN
+32661;Meal replacement, smoothie, drink powder, average;EN
+32664;Blended spread 75%, oivariini, normally salted, low-lactose;EN
+32666;Blended spread 75%, oivariini, heavily salted, low-lactose;EN
+32667;Meal replacement, protein drink powder, gnld, 49% protein;EN
+32669;Blended spread 60%, oivariini, less fat, low-lactose;EN
+32670;Blended spread 75%, oivariini, lactose free;EN
+32671;Blended spread 43%, ingmariini, low-lactose;EN
+32672;Blended spread 82%, ingmariini sea salt, low-lactose;EN
+32673;Blended spread 75%, ingmariini, normally salted, low-lactose;EN
+32675;Meal replacement, protein drink powder, nutrishake, gnld, 55% protein;EN
+32676;Blended spread 57%, ingmariini, less fat, low-lactose;EN
+32678;Soya product, femisoya;EN
+32679;Soya product, femisoya plus;EN
+32680;Soya product, berrysoya;EN
+32694;Pork and beef steak mince, 7% fat;EN
+32695;Milk chocolate candy with peppermint flavour, marianne, fazer;EN
+32699;Suffeli puffi snacks,puffed corn and chocolate flavored coating,very low glutein;EN
+32700;Cereal bar with chocolate;EN
+32701;Soft ice cream;EN
+32702;Soy milk frozen dessert, tofuline, vanilla;EN
+32703;Chocolate nut spread;EN
+32704;Lean steak mince, 9% fat;EN
+32705;Ice cream, vegetable fat;EN
+32708;Whipped cream spray, industrial;EN
+32709;Margarine 80%, cooking margarine, average;EN
+32710;Cooking cream, vegetable fat, 4% fat, low-lactose;EN
+32716;Cooking cream, vegetable fat, 5% fat, low-lactose;EN
+32721;Cooking cream, vegetable fat, 7% fat, low-lactose;EN
+32722;Sausage, fresh sausage, kabanossi, rapeseed pork, average, hk;EN
+32724;Sausage, fresh sausage, chorizo, home-made;EN
+32731;Noodle, whole wheat;EN
+32733;Kinder chocolate egg;EN
+32734;Soya drink, sugar, calcium, vitamins, alpro;EN
+32735;Yoghurt, plain, a+, fat 2.5%, 1 ug vitamin d, low-lactose;EN
+32737;Sour milk, acidophilus bifidus, 2.5% fat, 1 ug vitamin d, probiotics;EN
+32739;Cider, pear cider, alcohol-free, 0.02% volume, rainbow;EN
+32740;Beer, alcohol-free, 0.0% volume;EN
+32744;Plum marmalade;EN
+32745;Energy drink with added vitamins, partially artificially sweetened;EN
+32746;Energy drink with added vitamins, artificially sweetened;EN
+32758;Soya drink, organic, alpro;EN
+32770;Mineral water, novelle plus, added zinc and vitamin e, sweetened with fructose;EN
+32771;Mineral water, novelle plus, with added calcium;EN
+32772;Mineral water, novelle plus, with added vitamin c and magnesium;EN
+32773;Mineral water, sweetened with fructose, novelle friss, average;EN
+32774;Oat drink without milk, nalle chocolate, calcium, vitamin d;EN
+32778;Slicing sausage, lauantai, 18% fat, average;EN
+32779;Slicing sausage, lauantai, 19% fat, contains milk protein;EN
+32780;Slicing sausage, lauantai, 19% fat, contains soy protein;EN
+32783;Oat drink without milk, rainbow, calcium, vitamins;EN
+32784;Slicing sausage, lauantai, light, 10% fat, average;EN
+32786;Slicing sausage, lauantai, 17% fat, average of industrial products;EN
+32787;Rice drink, rice dream chocolate, calcium;EN
+32790;Rice drink, rice dream hazelnut and almond;EN
+32795;Barbeque sausage, light, 7% fat;EN
+32796;Barbeque sausage, contains soy protein, average;EN
+32800;Rice ice cream, vanilla-chocolate, r-ice, ingman;EN
+32802;Rice ice cream, vanilla, r-ice, ingman;EN
+32804;Ice cream, light, artificially sweetened, vanilla-strawberry, ingman;EN
+32885;Oat drink without milk, nordic, calcium, vitamin d;EN
+32887;Rice drink, nordic, calcium, vitamin d;EN
+32892;Fruit drink, hyvää päivää, cranberry, partially artificially sweetened;EN
+32893;Fruit drink, hyvää päivää, citrus, partially artificially sweetened, vitamins;EN
+32894;Fruit drink, hyvää päivää, sweetened with fructose, with added vitamins;EN
+32895;Nut, macadamia nut;EN
+32897;Energy drink, energy water, teho, olvi, with added vitamins;EN
+32925;Cheese, goat cheese, chèvre, 30% fat;EN
+32931;Cheese, goat cheese, chèvre, 30% fat, fried;EN
+33020;Sweet chili sauce;EN
+33021;Spice paste, curry paste, mild, tikka masala;EN
+33022;Spice paste, ginger paste;EN
+33023;Ginger root, raw;EN
+33024;Ginger, pickled;EN
+33038;Sharon, kaki, persimon;EN
+33042;Yoghurt, plain, a+, fat 4%, 1 ug vitamin d, lactose-free;EN
+33047;Cooking cream, vegetable fat, 13% fat, low-lactose;EN
+33048;Cooking cream, vegetable fat, 7 % fat;EN
+33049;Cooking cream, vegetable fat, 4% fat;EN
+33060;Papaya, dried;EN
+33065;Mango, dried;EN
+33067;Exotic fruit average, mango, papaya, dried;EN
+33070;Fig, dried;EN
+33077;Pineapple, dried;EN
+33091;Avocado oil;EN
+33095;Nut, pecan;EN
+33097;Sausage bratwurst;EN
+33102;Nut, peanut, honey-roasted;EN
+33103;Yoghurt, flavoured, valio olo, 2.7% fat, lactose-free, 1ug vitamin d, probiotics;EN
+33111;Milk, 3% fat, lactose-free, 1 ug added vitamin d;EN
+33116;Cheese, feta type salad cheese in brine, fat 2-5%;EN
+33117;Sour milk, fat-free, valio plus, low-lactose, 2 ug vitamin d;EN
+33118;Cheese, feta type salad cheese in brine, fat 6-8%;EN
+33119;Cheese, feta type salad cheese in brine, fat 9-11%;EN
+33120;Cheese, feta cheese in oil, 22% fat, cow's milk;EN
+33121;Hemp seed, whole;EN
+33122;Soya drink, plain, calcium, vitamins, alpro;EN
+33124;Soya drink calcium, vitamins, rainbow;EN
+33125;Soya drink,  plain, calcium, organic, pirkka;EN
+33128;Nut, chili nut;EN
+33129;Yoghurt, natural, fat 5.5%, lactose-free;EN
+33130;Nut, cashew nut, salt;EN
+33131;Nut, pistachio nut, salt;EN
+33132;Soya drink,  plain, calcium, gogreen;EN
+33133;Soya drink, original, calcium, gogreen;EN
+33134;Soya drink, chocolate, calcium, organic, pirkka;EN
+33135;Soya drink,  organic, rainbow;EN
+33136;Soya drink,  calcium, vitamin d, nordic;EN
+33137;Soya drink, chocolate, light, calcium, vitamins, alpro;EN
+33138;Soya drink, chocolate, calcium, vitamins, alpro;EN
+33139;Soya drink, calcium, vitamins, soywell soya drink, lidl;EN
+33142;Yoghurt, flavoured, fat-free, lactose-free, 1 ug vitamin d;EN
+33147;Quark, flavoured, 2.9% fat, danonino, 1.25 ug vitamin d;EN
+33150;Yoghurt, flavoured, 4,6% fat, lactose-free;EN
+33151;Seasalt, without iodine;EN
+33154;Fish, fillet, salt-cured;EN
+33158;Cereal bar with chocolate, kellogg´s special k bar chocolate, fortified;EN
+33159;Cereal bar with rice, kellogg´s rice krispies cereal & milk bar, fortified;EN
+33160;Oat drink without milk, snack drink, elovena, 2.9% fat;EN
+33161;Oat drink without milk, snack drink with berries, elovena, 0.5% fat;EN
+33162;Yoghurt, plain, 2.5% fat;EN
+33163;Oat drink without milk, snack drink, elovena, fruit, 0.5% fat;EN
+33164;Milk, 3.5% fat, low-lactose, without added vitamin d;EN
+33168;Cheese, semi-hard cheese, 10% fat, valio polar;EN
+33169;Oat drink without milk, nalle vanilla, calcium, vitamin d;EN
+33170;Pangasius, fillet;EN
+33171;Hake, hoki, raw;EN
+33174;Pork and beef steak mince, 10% fat;EN
+33179;Quark, 0.3% fat, lactose-free;EN
+33189;Quark, flavoured, 7% fat, sweet, lactose-free;EN
+33197;Yoghurt, flavoured, fat-free, low-lactose, vit. d, artificially sweetened;EN
+33198;Yoghurt, flavoured, fat-free, artificially sweetened;EN
+33200;Curd milk, flavoured, 1% fat, lactose-free;EN
+33201;Curd milk, plain, 1% fat, lactose-free;EN
+33211;Tilapia, imported fish;EN
+33221;Yoghurt, flavoured, 1% fat, lactose-free;EN
+33226;Yoghurt, flavoured, fat-free, fibre and vitamins, low-lactose;EN
+33251;Tilapia, oven-baked;EN
+33264;Curd milk, flavoured, jam, 1% fat, lactose-free, partially artificial. sweetened;EN
+33265;Nut, cashew nut coated with chocolate;EN
+33266;Nut, cashew nut coated with yoghurt;EN
+33267;Banana chips coated with yoghurt;EN
+33268;Dried pineapple coated with yoghurt;EN
+33269;Apple chips;EN
+33272;Cereal bar with chocolate, kellogg's coco pops rocks, fortified;EN
+33280;Yoghurt, flavoured, 2% fat, lactose-free, 1 ug vitamin d;EN
+33284;Yoghurt, plain, fat-free, lactose-free, 1 ug vitamin d;EN
+33295;Yoghurt, plain, a+, fatfree, 1 ug vitamin d, low-lactose;EN
+33298;Yoghurt with muesli, a+, fat 3.5%, low-lactose;EN
+33304;Sport beverage, carbohydrate drink, dexal heavy, diluted;EN
+33305;Sport beverage, carbohydrate drink, dexal light, diluted;EN
+33317;Sport beverage, carbohydrate drink, dexal light, concentrate;EN
+33319;White fish, pangasius/hake/tilapia, average;EN
+33320;White fish, pangasius/hake/tilapia, average, boiled without salt;EN
+33323;Sport beverage, carbohydrate drink, dexal heavy, concentrate;EN
+33334;Sport beverage, protein drink, pro fx zero carb;EN
+33337;White fish, pangasius/hake/tilapia, average, oven-baked, without salt;EN
+33338;Sport beverage, carbohydrate drink, leader carbo energy;EN
+33339;Chicken fillet in honey marinade;EN
+33342;Quark, flavoured, 4.5% fat, valio rahkavaahto, lactose-free;EN
+33343;Sport beverage, protein drink, leader protein 40;EN
+33357;Instant coffee, powder;EN
+33360;Sport beverage, carbohydrate-protein drink, pro fx recovery;EN
+33367;Sport beverage, carbohydrate-protein drink, leader recovery;EN
+33372;Sport beverage, carbohydrate-protein drink, average of products;EN
+33375;Sport beverage, carbohydrate drink, average of products;EN
+33376;Sport beverage, protein drink, average of products;EN
+33382;Salmon, warm smoked;EN
+33395;Mashed potato powder, rainbow;EN
+33396;Mashed potato powder, pirkka/felix;EN
+33397;Mashed potato powder, eldorado;EN
+33403;Meal replacement, protein bar, 54 % protein;EN
+33404;Quark, flavoured, 3% fat, danio;EN
+33405;Quark, flavoured, 4.4% fat, danio stracciatella;EN
+33408;Powan, warm smoked;EN
+33409;Rainbow trout fillet, cold smoked;EN
+33410;Yoghurt, flavoured, 2% fat;EN
+33414;Rainbow trout, fillet, hot smoked;EN
+33415;Fish, warm smoked, average;EN
+33419;Rainbow trout, fillet;EN
+33420;Salmon fillet, cold smoked;EN
+33424;Mackerel, smoked;EN
+33428;Coffee, instant, drink;EN
+33432;Suffeli chocolate bar, waffle, toffee filling and milk chocolate;EN
+33433;Basil, dried;EN
+33436;Rose hip, dried;EN
+33438;Cafe latte, unsweetened, fat-free milk;EN
+33439;Cafe latte, unsweetened, low-fat milk;EN
+33441;Cappuccino, unsweetened, low-fat milk;EN
+33442;Cafe latte, unsweetened, soy drink;EN
+33447;Marshmallow;EN
+33449;Cheese, average;EN
+33456;Spinach;EN
+33465;Cheese, halloumi cheese, 22% fat;EN
+33466;Milk, average, 1 ug added vitamin d;EN
+33487;Vegetable fat spread 70%, keiju lactose free, catering, 20 ug vitamin d;EN
+33488;Margarine 40%, keiju light, lactose-free, catering, 20 ug vitamin d;EN
+33489;Margarine 60%, keiju normally salted, catering, 20 ug vitamin d;EN
+33494;Sweet pepper, red, canned;EN
+33496;Vegetable fat spread 70%, becel gold, 20 ug vitamin d;EN
+33499;Soya mince, white or dark;EN
+33501;Tofu, soya product;EN
+33502;Vegan frankfurter, tofu sausage;EN
+33519;Sweetener, stevia, canderel green powder;EN
+33520;Sweetener, stevia, canderel green tablet;EN
+33521;Sweetener, stevia, canderel green stick;EN
+33525;Fat powder, for food industry;EN
+33542;Chocolate, plain, dark chocolate, 80%;EN
+33549;Egg powder, for food industry;EN
+33550;Egg white powder, for food industry;EN
+33551;Egg yolk powder, for food industry;EN
+33553;Sweet and sour sauce;EN
+33554;Cheese, polar täyteläinen, 28% fat;EN
+33555;Cheese, semi-hard cheese, 5% fat, valio polar;EN
+33556;Cheese, semi-hard cheese, 15% fat, valio polar;EN
+33559;Strawberry jam, 46% sugar, industrial;EN
+33568;Nut and fruit mix, salted nuts, dried fruits;EN
+33569;Nut mix, without salt;EN
+33579;Nut mix, salted;EN
+33584;Sour milk, acidophilus bifidus, 2% fat, probiotics;EN
+33586;Ice cream, snickers;EN
+33587;Fish, weighted average;EN
+33596;Oat drink without milk, average of industrial products;EN
+33597;Soya drink, plain, average of industrial products;EN
+33600;Rice drink, average of industrial products;EN
+33601;Mashed potato powder, average of industrial products;EN
+33629;Quark, dessert quark, average of industrial products;EN
+33631;Flour mixture, gluten-free, average of industrial products;EN
+33632;Pasta, gluten-free, average of industrial products;EN
+33638;Sauce mix, average of industrial products;EN
+33671;Profeel protein drink, valio, 1 ug vitamin d;EN
+33675;Sour milk, 1% fat, low-lactose, 1 ug vitamin d;EN
+33678;Sour milk, acidophilus bifidus, 2% fat, 1 ug vitamin d, probiotics;EN
+33679;Sour milk, acidophilus bifidus, 1.5% fat, 1 ug vitamin d, probiotics;EN
+33681;Sour milk, 0.4% fat, low-lactose, 1 ug vitamin d, probiotics, aktiivi;EN
+33682;Sour milk, 2% fat, low-lactose, 1 ug vitamin d;EN
+33683;Sour milk, 2% fat;EN
+33685;Sour milk, acidophilus bifidus, 1.5% fat, low-lactose, probiotics;EN
+33690;Yoghurt, flavoured, 2.6% fat, low-lactose, 30% less sugar;EN
+33695;Yoghurt, flavoured, 2.7% fat, ab, low-lactose, probiotics;EN
+33696;Yoghurt, flavoured, ab, 3.3% fat, contains probiotics;EN
+33697;Yoghurt, plain, ab, 2.5% fat, probiotics;EN
+33698;Yoghurt, plain, ab, 0.2% fat, probiotics;EN
+33700;Yoghurt, flavoured, ab, 0.2% fat, probiotics;EN
+33703;Yoghurt, drinkable, 0.9% fat, probiotics;EN
+33714;Yoghurt, flavoured, 3.2% fat, lactose-free, a+, 1 ug vitamin d;EN
+33725;Yoghurt, flavoured, reducol, 2% fat, low-lactose, plant sterols, probiotics;EN
+33726;Vegetable fat spread 70%, average of industrial products;EN
+33727;Yoghurt, plain, pirkka reducol, 2.5% fat, low-lactose;EN
+33728;Curd milk, plain, 1.5% fat, lactose-free;EN
+33729;Sour milk, 0.4% fat, low-lactose, 0.9 ug vitamin d, probiotics, aktiivi vanilla;EN
+33739;Milk, 4.4% fat, without added vitamin d, unhomogenized;EN
+33757;Orange juice, unsweetened, 60 mg vitamin c;EN
+33758;Ham, cooked, 2% fat;EN
+33760;Yoghurt, flavoured, 2% fat, low-lactose, a+ cereal, 1 ug vitamin d;EN
+33790;Milk, 1.5% fat, lactose-free, valio eila, 2 ug added vitamin d;EN
+33791;Milk, 0% fat, lactose-free, valio eila, 2 ug added vitamin d;EN
+33792;Milk, 3% fat, lactose-free, eila, 2 ug added vitamin d;EN
+33845;Salami, light, 22% fat;EN
+33852;Sour milk, fat-free, valio eila, lactose-free, 2 ug vitamin d;EN
+33872;Breast milk;EN
+33882;Margarine 80%, flora kulta;EN
+33884;Juice drink, pineapple-carrot, gefilus, calcium, vitamin c and d, probiotics;EN
+33885;Quark, flavoured, profeel protein quark, lactose-free;EN
+33889;Chocolate, milk chocolate with hazelnuts;EN
+33899;Corn starch, maizena express;EN
+33900;Oat drink without milk, oatly chocolate, calcium, vitamin d;EN
+33901;Oat drink without milk, oatly, calcium, vitamins;EN
+33907;Juice drink, whey drink, gefilus, vitamins, probiotics, low-lactose;EN
+33908;Juice drink, orange-peach, gefilus, fibre, vitamin c and d, probiotics;EN
+33909;Juice drink, gefilus, vitamin c and d, probiotics;EN
+33910;Yoghurt, drinkable, actimel, 1.5% fat, 0.75 ug vitamin d, probiotics;EN
+33924;Cream, valio strawberry/chocolate, lactose-free;EN
+33925;Quorn, fillet, pieces, mince;EN
+33927;Turkey cold cuts;EN
+33928;Applesauce, sweetened;EN
+34079;Porridge flake mix with fibre, nalle;EN
+34110;Corn starch, maizena brown/light;EN
+34127;Milk, 1.5% fat, valio plus, 2 ug added vitamin d;EN
+34136;Seaweed, nori, dried;EN
+34137;Seaweed, wakame, dried;EN
+34140;Coconut oil;EN
+34159;Rocket, arugula;EN
+34180;Chicken drumstick with skin, raw;EN
+34183;Beef, assortment e, meat for gravy;EN
+34184;Rapeseed pork, pork strips;EN
+34185;Pork, cereal-fed, strips;EN
+34187;Beef tenderloin;EN
+34188;Pork fillet, sirloin;EN
+34189;Pork, assortment 0, pork for sauce;EN
+34190;Pork, kassler steak, raw;EN
+34201;Beef, lean, average;EN
+34228;Spinach, frozen;EN
+34229;Pea, green, frozen;EN
+34230;Wild rocket, sand rocket;EN
+34231;Garden lettuce;EN
+34232;Radicchio;EN
+34233;Romaine lettuce;EN
+34234;Onion, red onion;EN
+34235;Radish, white;EN
+34236;Pea shoot;EN
+34237;Corn salad, lamb's lettuce;EN
+34238;Coriander, fresh;EN
+34239;Northern milkcap;EN
+34240;Funnel chanterelle;EN
+34241;Woolly milkcap;EN
+34242;Flour, wheat flour, semi-coarse;EN
+34243;Bean, broad bean, fava bean, fresh;EN
+34244;Sugar snap peas, fresh;EN
+34245;Sesame seed, white, without hull;EN
+34246;Flour, rye, wholegrain rye flour r800;EN
+34247;Flour, rye, wholegrain rye flour r1000;EN
+34248;Flour, barley, whole grain barley flour;EN
+34249;Flour, coarse wheat flour;EN
+34252;Powan, whitefish, pollan, lavaret, farmed;EN
+34253;Herring, pickled, canned;EN
+34254;Seaweed, kombu, dried;EN
+34255;Salmon, farmed;EN
+34256;Rainbow trout, farmed;EN
+34261;Yoghurt, flavoured, 2.7% fat;EN
+34276;Juice drink, 40% less sugar, sweetened with stevia, valio grandi;EN
+34361;Mango, without skin;EN
+34585;Skyr, <0.5% fat;EN
+34586;Skyr, sweetened with sugar, <0.5% fat;EN
+34587;Skyr, artificially sweetened, <0.5% fat;EN
+34588;Skyr, artificially sweetened, 2% fat;EN
+34589;Skyr, sweetened with sugar and stevia, <0.5% fat;EN
+34590;Quark, quark yoghurt, plain, 0.9% fat;EN
+34591;Cream quark, 10% fat;EN
+34592;Quark, 2,3% fat, low-lactose;EN
+34593;Skyr, plain, 4% fat;EN
+34594;Quark, flavoured, 8.8% fat, mint chocolate, valio, lactose-free;EN
+34595;Quark, flavoured, 7% fat, low-lactose;EN
+34596;Quark, flavoured, profeel protein quark with jam, lactose-free;EN
+34597;Quark, flavoured, profeel protein quark, artificially sweetened, lactose-free;EN
+34598;Quark, drinkable;EN
+34600;Quark, flavoured, 4.5% fat;EN
+34601;Quark, flavoured, arla protein quark, lactose-free;EN
+34602;Quark, 0.3% fat, 12% protein, lactose-free;EN
+34603;Yoghurt, flavoured, 4,6% fat, valio sileä, 1 ug vitamin d, low-lactose;EN
+34605;Yoghurt, flavoured, valio a+ kreikkalainen kerrosjogurtti, 2% fat, lactose-free;EN
+34606;Yoghurt, drinkable, 1.7% fat, valio play, lactose-free, 1.5 ug vitamin d;EN
+34607;Yoghurt with quark, flavoured, valio, 1.7% fat, low-lactose;EN
+34608;Yoghurt, drinkable, valio yoghurt with quark, 1.2% fat, 1 ug vitamin d;EN
+34609;Yoghurt, flavoured, valio olo 70, 0.8% fat, 1 ug vitamin d, probiotics;EN
+34611;Yoghurt, plain, greek, 7% fat, lactose-free;EN
+34612;Gefilus drink, effect drink, fat-free, lactose-free, vitamin d, probiotics;EN
+34613;Yoghurt, drinkable, gefilus smoothie, 1.4% fat, lactose-free, 1 ug vitamin d;EN
+34614;Gefilus kefir drink, 2% fat, lactose-free, 1 ug vitamin d, probiotics;EN
+34615;Gefilus kefir drink, plain, fat 2.5%, 1 ug vitamin d, lactose-free, probiotics;EN
+34616;Yoghurt, flavoured, 2.7% fat, gefilus kefir, lactose-free,1.5ug vitamin d, prob.;EN
+34618;Yoghurt, drinkable, 2% fat, valio greek, lactose-free, 1 ug vitamin d;EN
+34619;Yoghurt, flavoured, valio greek, 4.7% fat, lactose-free;EN
+34620;Yoghurt, flavoured, valio greek, 6% fat, lactose-free;EN
+34621;Yoghurt, flavoured, 3.3% fat, valio fruity, lactose-free, probiotics;EN
+34625;Yoghurt, flavoured, 2% fat, -30% sugar, organic, lactose-free;EN
+34626;Yoghurt, flavoured, 2% fat, -50% sugar, organic, lactose-free;EN
+34630;Yoghurt, plain, a+, fat 2.5%, lactose-free, 1 ug vitamin d;EN
+34631;Yoghurt, flavoured, a+ without additives, 3% fat, lactose-free;EN
+34634;Yoghurt, plain, a+ greek, 2 % fat, lactose-free;EN
+34635;Yoghurt, turkish/greek, 10% fat, lactose-free;EN
+34636;Yoghurt, plain, 2,5 % fat, organic, lactose-free;EN
+34637;Yoghurt with quark, flavoured, arla, 1.4% fat, 0,4 ug vitamin d, lactose-free;EN
+34638;Yoghurt, plain, organic, 3% fat;EN
+34639;Yoghurt, flavoured, 2% fat, arla luonto+ honey, 1ug vitamin d, prob,lactose-free;EN
+34640;Yoghurt, flavoured, 2% fat, arla luonto+, 1 ug vitamin d, ab, lactose-free;EN
+34641;Yoghurt, flavoured, 1,9% fat, arla luonto+, 0,8ug vitamin d, prob., lactose-free;EN
+34642;Yoghurt with quark, flavoured, luonto+, 1.2% fat, ab, 0,5 ug vit d, lactose-free;EN
+34643;Yoghurt with quark, plain, arla luonto+, 1.4% fat, 0,6ug vit d, ab, lactose-free;EN
+34644;Yoghurt, flavoured, luonto+, fat-free, 1 ug vitamin d, ab, lactose-free;EN
+34645;Yoghurt, flavoured, fat-free, low-lactose;EN
+34646;Yoghurt, flavoured, arla protein, 1% fat, lactose-free;EN
+34647;Yoghurt, plain, arla protein, 1% fat, lactose-free;EN
+34648;Yoghurt, flavoured, arla protein  with granola, 4% fat, lactose-free;EN
+34649;Quark, flavoured, fat-free, artificially sweetened, lactose-free;EN
+34650;Yoghurt, drinkable, fat-free, artificially sweetened;EN
+34651;Egg, without shell, organic;EN
+34652;Yoghurt, flavoured, activia light, fat-free, partially artific. sweetened, prob.;EN
+34653;Yoghurt, drinkable, danup drink, 0.8% fat;EN
+34654;Quark, flavoured, 4% fat;EN
+34655;Quark, flavoured, fat-free, protein quark, low-lactose;EN
+34656;Yoghurt, plain, 4% fat, lactose-free, probiotics;EN
+34657;Yoghurt, flavoured, 2% fat, lactose-free;EN
+34658;Yoghurt, flavoured, 3.5% fat, probiotics;EN
+34659;Yoghurt, flavoured, 2% fat, ab, low-lactose;EN
+34668;Seed blend;EN
+34679;Yoghurt, flavoured, fat-free, low-lactose, 1 ug vitamin d;EN
+34680;Passion fruit;EN
+34688;Coconut water, unsweetened;EN
+34694;Papaya, without skin;EN
+34713;Macaroni, dark, whole wheat and dark wheat flour;EN
+34716;Milk, 3% fat, lactose-free, no added vitamin d;EN
+34738;Almond drink, unsweetened, alrpo;EN
+34743;Bean, broad bean, fava bean, dry, broad bean groats;EN
+34752;Cream cheese, mascarpone, 38% fat;EN
+34762;Cream cheese, low-fat, 15% fat, plain, lactose-free;EN
+34764;Cream cheese, low-fat, 25% fat, plain, lactose-free;EN
+34765;Cream cheese, low-fat, 20% fat, plain;EN
+34786;Yoghurt, drinkable, benecol aurinkoinen, 2,1% fat, plant stanols;EN
+34790;Yoghurt, drinkable, benecol, 2,1% fat, plant stanols;EN
+34794;Soy product, drinkable, benecol, 2.9% fat, with plant stanol;EN
+34797;Salty liqourice pastille, unsweetened;EN
+34802;Sweetener, hermesetas gold, saccharin, aspartame and cyclamate blend;EN
+34805;Sweetener, hermesetas liquid, saccharin and cyclamate blend;EN
+34831;Chocolate confection filled with chocolate;EN
+34835;Lingonberryjuice, unsweetened;EN
+34839;Soya drink, aplro soya vanilla, calcium, vitamins;EN
+34841;Cheese, semi-hard cheese, 15% fat, low-sodium, valio polar;EN
+34844;Almond drink, sweetened, alrpo;EN
+34845;Coconut drink, added vitamins;EN
+34846;Hazelnut drink, added vitamins;EN
+34848;European sprat;EN
+34862;Milk, 0% fat, valio profeel voimamaitojuoma, 1 ug added vitamin d, lactose-free;EN
+34872;Nut mix, without salt, roasted;EN
+34876;Oat drink without milk, oatly ikaffe, calcium, vitamins;EN
+34893;Härkis, broad bean product;EN
+34902;Mifu, lactose-free milk protein product;EN
+34905;Rice and barley mix;EN
+34907;Rice and rye mix;EN
+34909;Pulled oats;EN
+34914;Blended spread 60%, benecol voi & rypsi;EN
+34924;Blended spread 70%, flora & voi, normally salted;EN
+34927;Vegetable fat spread 39 %, lätta original;EN
+34932;Blended spread 70%, creme bonjour voi & rypsiöljy, normally salted;EN
+34942;Vegetable fat spread 75 %, keiju rypsi;EN
+34944;Vegetable fat spread 55 %, keiju rypsi;EN
+34948;Margarine 60%, keiju alentaja;EN
+34964;Blended spread 75%, ingmariini, normally salted, lactose-free;EN
+34966;Blended spread 72%, oivariini, normally salted, low-lactose, soft;EN
+34970;Blend 40%, oivariini light, low-lactose;EN
+34971;Oat, coarse-ground oat, kaurakuitunen;EN
+34972;Olive, average, without stone, in brine, green;EN
+34974;Soy product, alpro go on, soured, plain, fat 3.6%;EN
+34975;Soy product, alpro go on, soured, flavoured, fat 2,9%;EN
+34980;Cheese, polar, 20% fat;EN
+34983;Whey protein concentrate;EN
+34984;Chocolate milk, cold, valio play, lactose-free;EN
+34985;Coffee drink, cold, coffee with milk, vitamin d, lactose-free;EN
+34986;Coffee beverage, iced coffee, 1.8% fat, lactose-free;EN
+34988;Mineral water with juice;EN
+34989;Vitamin water, vitamin well, sweetened with fructose;EN
+34990;Meal replacement, whey protein powder, 74% protein;EN
+34991;Meal replacement, whey protein powder, 85% protein;EN
+34992;Meal replacement, protein bar, average, c. 20% protein;EN
+34996;Meal replacement, soy protein powder, c. 80% protein;EN
+34997;Meal replacement, whey protein powder, c. 90% protein;EN
+34998;Profeel protein drink, sugar-free, valio, 1 ug vitamin d;EN
+34999;Sport beverage, recovery drink, gainomax;EN
+35000;Sport beverage, protein drink, protein shake, fast;EN
+35001;Butter lactose-free, low sodium;EN
+35002;Sport beverage, protein drink, protein smoothie, fast;EN
+35003;Meal replacement, whey protein powder, profeel, 44% protein;EN
+35004;Sport beverage, protein drink, 1,6% fat;EN
+35005;Snack bar, date bar with nuts, bare bar;EN
+35006;Margarine 70%, fluid;EN
+35007;Meal replacement, protein bar, c. 30% protein, fibre, soft bar;EN
+35008;Margarine 60%, rainbow/pirkka,/x-tra, lactose free;EN
+35009;Margarine 60%, pirkka, high sodium;EN
+35011;Meal replacement, energy bar, vitamins, average;EN
+35012;Meal replacement, protein bar, average, c. 40% protein;EN
+35013;Meal replacement, whey protein powder, c. 40% protein;EN
